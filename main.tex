@@ -1,0 +1,170 @@
+% ============================================================================
+% Diplomová práca - Hlavný súbor
+% Autor: Roman Ballek
+% Univerzita: Trenčianska univerzita Alexandra Dubčeka v Trenčíne
+% ============================================================================
+
+\documentclass[12pt,a4paper,oneside]{book}
+
+% ============================================================================
+% BALÍČKY
+% ============================================================================
+
+% Kódovanie a jazyk
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[slovak]{babel}
+
+% Okraje a formátovanie stránky
+\usepackage[left=3.5cm, right=2cm, top=2.5cm, bottom=2.5cm]{geometry}
+
+% Matematika a symboly
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+% Grafika a obrázky
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+
+% Tabuľky
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{multirow}
+
+% Farby
+\usepackage{xcolor}
+
+% Odkazy a hyperlinky
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    citecolor=black,
+    urlcolor=blue
+}
+
+% Bibliografia
+\usepackage[backend=biber, style=iso-numeric, sorting=nyt]{biblatex}
+\addbibresource{bibliografia.bib}
+
+% Riadkovanie 1.5
+\usepackage{setspace}
+\onehalfspacing
+
+% Odsadenie odstavcov
+\usepackage{indentfirst}
+\setlength{\parindent}{1.25cm}
+
+% Hlavičky a päty
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+
+% Obsah - nastavenia
+\usepackage{tocloft}
+
+% Prílohy
+\usepackage{appendix}
+
+% Zoznamy
+\usepackage{enumitem}
+
+% ============================================================================
+% VLASTNÉ PRÍKAZY
+% ============================================================================
+
+% Údaje o práci
+\newcommand{\nazovprace}{Využitie fyzioterapie u pacientov s reumatickým ochorením}
+\newcommand{\nazovpraceEN}{Use of Physiotherapy in Patients with Rheumatic Disease}
+\newcommand{\autor}{Roman Ballek}
+\newcommand{\veduci}{[Meno vedúceho práce]} % DOPLNIŤ
+\newcommand{\studijnyprogram}{Fyzioterapia} % UPRAVIŤ podľa potreby
+\newcommand{\studijnyodbor}{Zdravotnícke vedy} % UPRAVIŤ podľa potreby
+\newcommand{\fakulta}{Fakulta zdravotníctva}
+\newcommand{\univerzita}{Trenčianska univerzita Alexandra Dubčeka v Trenčíne}
+\newcommand{\rok}{2026}
+
+% ============================================================================
+% ZAČIATOK DOKUMENTU
+% ============================================================================
+
+\begin{document}
+
+% Predné strany bez číslovania
+\frontmatter
+\pagestyle{empty}
+
+% Titulná strana
+\input{kapitoly/titulna_strana}
+
+% Čestné vyhlásenie
+\input{kapitoly/cestne_vyhlasenie}
+
+% Poďakovanie
+\input{kapitoly/podakovanie}
+
+% Abstrakt
+\input{kapitoly/abstrakt}
+
+% Obsah
+\tableofcontents
+\clearpage
+
+% Zoznam obrázkov
+\listoffigures
+\clearpage
+
+% Zoznam tabuliek
+\listoftables
+\clearpage
+
+% Zoznam skratiek
+\input{kapitoly/zoznam_skratiek}
+
+% ============================================================================
+% HLAVNÁ ČASŤ
+% ============================================================================
+
+\mainmatter
+\pagestyle{fancy}
+
+% Úvod
+\input{kapitoly/uvod}
+
+% Teoretická časť
+\input{kapitoly/teoreticka_cast}
+
+% Ciele a hypotézy
+\input{kapitoly/ciele_hypotezy}
+
+% Metodika
+\input{kapitoly/metodika}
+
+% Výsledky
+\input{kapitoly/vysledky}
+
+% Diskusia
+\input{kapitoly/diskusia}
+
+% Záver
+\input{kapitoly/zaver}
+
+% ============================================================================
+% ZÁVEREČNÁ ČASŤ
+% ============================================================================
+
+\backmatter
+
+% Bibliografia
+\printbibliography[title={Zoznam bibliografických odkazov}]
+
+% Prílohy
+\appendix
+\input{kapitoly/prilohy}
+
+\end{document}

@@ -1,0 +1,39 @@
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.pdfsync
+
+# BibLaTeX/Biber files
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*-blx.bib
+
+# Build output
+*.pdf
+*.dvi
+*.ps
+
+# Editor files
+*.bak
+*~
+\#*\#
+.#*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+*.sublime-*
+.vscode/
