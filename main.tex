@@ -1,7 +1,7 @@
 % ============================================================================
-% Diplomová práca - Hlavný súbor
+% Diplomová práca - Fakulta zdravotníctva TnUAD
 % Autor: Roman Ballek
-% Univerzita: Trenčianska univerzita Alexandra Dubčeka v Trenčíne
+% Podľa metodických pokynov FZ TnUAD (5-U-021)
 % ============================================================================
 
 \documentclass[12pt,a4paper,oneside]{book}
@@ -15,8 +15,11 @@
 \usepackage[T1]{fontenc}
 \usepackage[slovak]{babel}
 
-% Okraje a formátovanie stránky
-\usepackage[left=3.5cm, right=2cm, top=2.5cm, bottom=2.5cm]{geometry}
+% Times New Roman písmo (požiadavka TnUAD)
+\usepackage{mathptmx}
+
+% Okraje podľa TnUAD: ľavý 3,5cm, pravý 2cm, horný/dolný 2,5cm
+\usepackage[left=3.5cm, right=2.0cm, top=2.5cm, bottom=2.5cm]{geometry}
 
 % Matematika a symboly
 \usepackage{amsmath}
@@ -43,14 +46,14 @@
     colorlinks=true,
     linkcolor=black,
     citecolor=black,
-    urlcolor=blue
+    urlcolor=black
 }
 
-% Bibliografia
-\usepackage[backend=biber, style=iso-numeric, sorting=nyt]{biblatex}
+% Bibliografia - ISO 690 podľa TnUAD
+\usepackage[backend=biber, style=iso-authoryear, sorting=nyt]{biblatex}
 \addbibresource{bibliografia.bib}
 
-% Riadkovanie 1.5
+% Riadkovanie 1,5 (požiadavka TnUAD)
 \usepackage{setspace}
 \onehalfspacing
 
@@ -58,12 +61,31 @@
 \usepackage{indentfirst}
 \setlength{\parindent}{1.25cm}
 
-% Hlavičky a päty
+% Číslovanie strán - dole v strede (požiadavka TnUAD)
 \usepackage{fancyhdr}
-\pagestyle{fancy}
-\fancyhf{}
-\fancyhead[R]{\thepage}
-\renewcommand{\headrulewidth}{0pt}
+\fancypagestyle{plain}{
+    \fancyhf{}
+    \fancyfoot[C]{\thepage}
+    \renewcommand{\headrulewidth}{0pt}
+}
+\pagestyle{plain}
+
+% Formátovanie nadpisov podľa TnUAD
+% Kapitoly: 14pt tučne, podkapitoly: 12pt tučne
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+    {\normalfont\fontsize{14}{16}\bfseries}
+    {\chaptertitlename\ \thechapter}{20pt}{\fontsize{14}{16}\bfseries}
+\titleformat{\section}
+    {\normalfont\fontsize{12}{14}\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}
+    {\normalfont\fontsize{12}{14}\bfseries}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}
+    {\normalfont\fontsize{12}{14}\bfseries}{\thesubsubsection}{1em}{}
+
+% Každá kapitola na novej strane
+\usepackage{etoolbox}
+\preto{\chapter}{\cleardoublepage}
 
 % Obsah - nastavenia
 \usepackage{tocloft}
@@ -74,6 +96,9 @@
 % Zoznamy
 \usepackage{enumitem}
 
+% České/slovenské úvodzovky
+\usepackage{csquotes}
+
 % ============================================================================
 % VLASTNÉ PRÍKAZY
 % ============================================================================
@@ -83,8 +108,8 @@
 \newcommand{\nazovpraceEN}{Use of Physiotherapy in Patients with Rheumatic Disease}
 \newcommand{\autor}{Roman Ballek}
 \newcommand{\veduci}{[Meno vedúceho práce]} % DOPLNIŤ
-\newcommand{\studijnyprogram}{Fyzioterapia} % UPRAVIŤ podľa potreby
-\newcommand{\studijnyodbor}{Zdravotnícke vedy} % UPRAVIŤ podľa potreby
+\newcommand{\studijnyprogram}{Fyzioterapia}
+\newcommand{\studijnyodbor}{Zdravotnícke vedy}
 \newcommand{\fakulta}{Fakulta zdravotníctva}
 \newcommand{\univerzita}{Trenčianska univerzita Alexandra Dubčeka v Trenčíne}
 \newcommand{\rok}{2026}
@@ -95,27 +120,32 @@
 
 \begin{document}
 
-% Predné strany bez číslovania
+% ============================================================================
+% ÚVODNÁ ČASŤ - bez číslovania strán (ale počítajú sa)
+% ============================================================================
 \frontmatter
 \pagestyle{empty}
 
 % Titulná strana
 \input{kapitoly/titulna_strana}
 
+% Zadanie záverečnej práce (vložiť z AIS2 ako PDF)
+% \includepdf[pages=-]{zadanie.pdf}
+
 % Čestné vyhlásenie
 \input{kapitoly/cestne_vyhlasenie}
 
-% Poďakovanie
+% Poďakovanie (nepovinné)
 \input{kapitoly/podakovanie}
 
-% Abstrakt
+% Abstrakt v slovenčine a angličtine
 \input{kapitoly/abstrakt}
 
 % Obsah
 \tableofcontents
 \clearpage
 
-% Zoznam obrázkov
+% Zoznam ilustrácií
 \listoffigures
 \clearpage
 
@@ -123,35 +153,30 @@
 \listoftables
 \clearpage
 
-% Zoznam skratiek
+% Zoznam skratiek a značiek
 \input{kapitoly/zoznam_skratiek}
 
 % ============================================================================
-% HLAVNÁ ČASŤ
+% HLAVNÁ TEXTOVÁ ČASŤ - číslovanie od Úvodu
 % ============================================================================
 
 \mainmatter
-\pagestyle{fancy}
+\pagestyle{plain}
 
-% Úvod
+% Úvod (nečíslovaná kapitola, ale v obsahu)
 \input{kapitoly/uvod}
 
-% Teoretická časť
+% 1. Teoretická časť (Súčasný stav) - cca 30% práce
 \input{kapitoly/teoreticka_cast}
 
-% Ciele a hypotézy
-\input{kapitoly/ciele_hypotezy}
-
-% Metodika
+% 2. Cieľ práce a metodológia
 \input{kapitoly/metodika}
 
-% Výsledky
+% 3. Výsledky a diskusia - cca 30-40% práce
 \input{kapitoly/vysledky}
-
-% Diskusia
 \input{kapitoly/diskusia}
 
-% Záver
+% Záver (nečíslovaná kapitola)
 \input{kapitoly/zaver}
 
 % ============================================================================
@@ -160,10 +185,13 @@
 
 \backmatter
 
-% Bibliografia
+% Zoznam literatúry (ISO 690, abecedne)
 \printbibliography[title={Zoznam bibliografických odkazov}]
 
-% Prílohy
+% Deklarácia použitia AI (ak bola použitá)
+\input{kapitoly/deklaracia_ai}
+
+% Prílohy (nezapočítavajú sa do rozsahu)
 \appendix
 \input{kapitoly/prilohy}
 

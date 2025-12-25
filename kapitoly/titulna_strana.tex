@@ -1,44 +1,50 @@
 % ============================================================================
 % TITULNÁ STRANA
+% Podľa metodických pokynov FZ TnUAD
 % ============================================================================
 
 \begin{titlepage}
     \begin{center}
         
-        % Univerzita
-        {\Large\bfseries \univerzita}
+        % Univerzita - veľké písmená
+        {\Large\bfseries\MakeUppercase{\univerzita}}
         
-        \vspace{0.3cm}
+        \vspace{0.5cm}
         
-        % Fakulta
-        {\large \fakulta}
+        % Fakulta - veľké písmená
+        {\large\MakeUppercase{\fakulta}}
         
-        \vspace{3cm}
+        \vspace{4cm}
+        
+        % Názov práce - veľké písmená, tučne
+        {\LARGE\bfseries\MakeUppercase{\nazovprace}}
+        
+        \vspace{2cm}
         
         % Typ práce
-        {\large DIPLOMOVÁ PRÁCA}
-        
-        \vspace{3cm}
-        
-        % Názov práce
-        {\LARGE\bfseries \nazovprace}
+        {\Large DIPLOMOVÁ PRÁCA}
         
         \vfill
         
-        % Spodná časť
-        \begin{flushleft}
-            {\large Študijný program: \studijnyprogram}\\[0.3cm]
-            {\large Študijný odbor: \studijnyodbor}\\[0.3cm]
-            {\large Školiace pracovisko: \fakulta}\\[0.3cm]
-            {\large Vedúci práce: \veduci}
-        \end{flushleft}
+        % Spodná časť - vľavo údaje, vpravo autor
+        \begin{minipage}[t]{0.48\textwidth}
+            \begin{flushleft}
+                \textbf{Študijný program:} \studijnyprogram\\[0.3cm]
+                \textbf{Študijný odbor:} \studijnyodbor\\[0.3cm]
+                \textbf{Školiace pracovisko:} \fakulta\\[0.3cm]
+                \textbf{Vedúci práce:} \veduci
+            \end{flushleft}
+        \end{minipage}
+        \hfill
+        \begin{minipage}[t]{0.48\textwidth}
+            \begin{flushright}
+                \textbf{Autor:} \autor
+            \end{flushright}
+        \end{minipage}
         
-        \vspace{1cm}
+        \vspace{1.5cm}
         
-        \begin{flushright}
-            {\large \autor}\\[0.3cm]
-            {\large Trenčín \rok}
-        \end{flushright}
+        {\large Trenčín \rok}
         
     \end{center}
 \end{titlepage}
