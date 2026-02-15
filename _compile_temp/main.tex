@@ -1,0 +1,227 @@
+% ============================================================================
+% Diplomová práca - Fakulta zdravotníctva TnUAD
+% Autor: Roman Ballek
+% Podľa metodických pokynov FZ TnUAD (5-U-021)
+% ============================================================================
+
+\documentclass[12pt,a4paper,oneside]{book}
+
+% ============================================================================
+% BALÍČKY
+% ============================================================================
+
+% Kódovanie a jazyk
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[slovak]{babel}
+
+% Times New Roman písmo (požiadavka TnUAD)
+\usepackage{mathptmx}
+
+% Okraje podľa TnUAD: ľavý 3,5cm, pravý 2cm, horný/dolný 2,5cm
+\usepackage[left=3.5cm, right=2.0cm, top=2.5cm, bottom=2.5cm]{geometry}
+
+% Matematika a symboly
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+% Grafika a obrázky
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepgfplotslibrary{statistics}
+
+% Tabuľky
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{multirow}
+
+% Farby
+\usepackage{xcolor}
+
+% Odkazy a hyperlinky - bookmarks vypnuté kvôli stabilite
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    citecolor=black,
+    urlcolor=black,
+    bookmarks=false,
+    unicode=true,
+    pdfencoding=auto
+}
+
+% Bibliografia - ISO 690 podľa TnUAD
+\usepackage[backend=biber, style=iso-authoryear, sorting=nyt, doi=false, url=false, isbn=true]{biblatex}
+\addbibresource{bibliografia.bib}
+\addbibresource{nove_zdroje.bib}
+
+% Riadkovanie 1,5 (požiadavka TnUAD)
+\usepackage{setspace}
+\onehalfspacing
+
+\usepackage{lastpage}
+
+% Odsadenie odstavcov
+\usepackage{indentfirst}
+\setlength{\parindent}{1.25cm}
+
+% Číslovanie strán - dole v strede (požiadavka TnUAD)
+\usepackage{fancyhdr}
+\fancypagestyle{plain}{
+    \fancyhf{}
+    \fancyfoot[C]{\thepage}
+    \renewcommand{\headrulewidth}{0pt}
+}
+\pagestyle{plain}
+
+% Formátovanie nadpisov podľa TnUAD
+% Kapitoly: 14pt tučne, podkapitoly: 12pt tučne
+\usepackage{titlesec}
+\titleformat{\chapter}[hang]
+    {\normalfont\fontsize{14}{16}\bfseries}
+    {\thechapter\ }{0pt}{\fontsize{14}{16}\bfseries}
+\titlespacing*{\chapter}{0pt}{0pt}{12pt}
+
+\titleformat{\section}
+    {\normalfont\fontsize{12}{14}\bfseries}{\thesection}{1em}{}
+\titlespacing*{\section}{0pt}{12pt}{6pt}
+
+\titleformat{\subsection}
+    {\normalfont\fontsize{12}{14}\bfseries}{\thesubsection}{1em}{}
+\titlespacing*{\subsection}{0pt}{12pt}{6pt}
+
+\titleformat{\subsubsection}
+    {\normalfont\fontsize{12}{14}\bfseries}{\thesubsubsection}{1em}{}
+\titlespacing*{\subsubsection}{0pt}{12pt}{6pt}
+
+% Každá kapitola na novej strane
+\usepackage{etoolbox}
+\preto{\chapter}{\cleardoublepage}
+
+% Obsah - nastavenia
+\usepackage{tocloft}
+\renewcommand{\cfttoctitlefont}{\normalfont\fontsize{14}{16}\bfseries}
+\renewcommand{\cftloftitlefont}{\normalfont\fontsize{14}{16}\bfseries}
+\renewcommand{\cftlottitlefont}{\normalfont\fontsize{14}{16}\bfseries}
+\setlength{\cftbeforetoctitleskip}{0pt}
+\setlength{\cftaftertoctitleskip}{12pt}
+\setlength{\cftbeforeloftitleskip}{0pt}
+\setlength{\cftafterloftitleskip}{12pt}
+\setlength{\cftbeforelottitleskip}{0pt}
+\setlength{\cftafterlottitleskip}{12pt}
+
+% Prílohy
+\usepackage{appendix}
+
+% Zoznamy
+\usepackage{enumitem}
+
+% České/slovenské úvodzovky
+\usepackage{csquotes}
+
+% ============================================================================
+% VLASTNÉ PRÍKAZY
+% ============================================================================
+
+% Údaje o práci
+\newcommand{\nazovprace}{Využitie fyzioterapie u pacientov s reumatickým ochorením}
+\newcommand{\nazovpraceEN}{Use of Physiotherapy in Patients with Rheumatic Disease}
+\newcommand{\autor}{Bc. Roman Ballek}
+\newcommand{\veduci}{MUDr. Miroslav Malay, PhD.}
+\newcommand{\studijnyprogram}{Fyzioterapia - 2. stupeň}
+\newcommand{\studijnyodbor}{46. Zdravotnícke vedy}
+\newcommand{\fakulta}{FAKULTA ZDRAVOTNÍCTVA}
+\newcommand{\univerzita}{TRENČIANSKA UNIVERZITA ALEXANDRA DUBČEKA\\ V TRENČÍNE}
+\newcommand{\rok}{2026}
+
+% ============================================================================
+% ZAČIATOK DOKUMENTU
+% ============================================================================
+
+\begin{document}
+
+% ============================================================================
+% ÚVODNÁ ČASŤ - bez číslovania strán (ale počítajú sa)
+% ============================================================================
+\frontmatter
+\pagestyle{empty}
+
+% Titulná strana
+\input{kapitoly/titulna_strana}
+
+% Zadanie záverečnej práce (vložiť z AIS2 ako PDF)
+% \includepdf[pages=-]{zadanie.pdf}
+
+% Čestné vyhlásenie
+\input{kapitoly/cestne_vyhlasenie}
+
+% Poďakovanie (nepovinné)
+\input{kapitoly/podakovanie}
+
+% Analytický list
+\input{kapitoly/analyticky_list}
+
+% Abstrakt v slovenčine a angličtine
+\input{kapitoly/abstrakt}
+
+% Obsah
+\tableofcontents
+\clearpage
+
+% Zoznam ilustrácií
+\listoffigures
+\clearpage
+
+% Zoznam tabuliek
+\listoftables
+\clearpage
+
+% Zoznam skratiek a značiek
+\input{kapitoly/zoznam_skratiek}
+
+% ============================================================================
+% HLAVNÁ TEXTOVÁ ČASŤ - číslovanie od Úvodu
+% ============================================================================
+
+\mainmatter
+\pagestyle{plain}
+
+% Úvod (nečíslovaná kapitola, ale v obsahu)
+\input{kapitoly/uvod}
+
+% 1. Teoretická časť (Súčasný stav) - cca 30% práce
+% 1. Teoretická časť - Reumatoidná artritída
+\input{kapitoly/teoreticka_cast}
+
+% 2. Teoretická časť - Interferenčné prúdy
+\input{kapitoly/interferencne_prudy}
+
+% 3. Cieľ práce a metodológia (Praktická časť - obsahuje aj výsledky podľa vzoru)
+\input{kapitoly/metodika}
+\input{kapitoly/diskusia}
+
+% Záver (nečíslovaná kapitola)
+\input{kapitoly/zaver}
+
+% ============================================================================
+% ZÁVEREČNÁ ČASŤ
+% ============================================================================
+
+\backmatter
+
+% Zoznam literatúry (ISO 690, abecedne)
+\printbibliography[title={Zoznam bibliografických odkazov}]
+
+% Deklarácia použitia AI (ak bola použitá)
+\input{kapitoly/deklaracia_ai}
+
+% Prílohy (nezapočítavajú sa do rozsahu)
+\appendix
+\input{kapitoly/prilohy}
+
+\end{document}

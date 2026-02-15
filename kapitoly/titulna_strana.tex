@@ -1,50 +1,96 @@
 % ============================================================================
-% TITULNÁ STRANA
-% Podľa metodických pokynov FZ TnUAD
+% TITULNÁ STRANA - OBAL A TITULNÝ LIST
 % ============================================================================
 
 \begin{titlepage}
+
+    % ------------------------------------------------------------------------
+    % 1. STRANA - OBAL
+    % ------------------------------------------------------------------------
     \begin{center}
         
-        % Univerzita - veľké písmená
-        {\Large\bfseries\MakeUppercase{\univerzita}}
+        % Univerzita a fakulta
+        {\fontsize{14}{16}\bfseries \univerzita}
         
-        \vspace{0.5cm}
+        \vspace{0.8cm}
         
-        % Fakulta - veľké písmená
-        {\large\MakeUppercase{\fakulta}}
+        {\fontsize{13}{15}\bfseries \fakulta}
         
-        \vspace{4cm}
+        \vspace{6cm}
         
-        % Názov práce - veľké písmená, tučne
-        {\LARGE\bfseries\MakeUppercase{\nazovprace}}
+        % Názov a typ práce
+        {\fontsize{14}{16}\bfseries \MakeUppercase{\nazovprace}}
         
-        \vspace{2cm}
+        \vspace{0.8cm}
         
-        % Typ práce
-        {\Large DIPLOMOVÁ PRÁCA}
+        {\fontsize{14}{16}\bfseries DIPLOMOVÁ PRÁCA}
         
         \vfill
         
-        % Spodná časť - vľavo údaje, vpravo autor
-        \begin{minipage}[t]{0.48\textwidth}
-            \begin{flushleft}
-                \textbf{Študijný program:} \studijnyprogram\\[0.3cm]
-                \textbf{Študijný odbor:} \studijnyodbor\\[0.3cm]
-                \textbf{Školiace pracovisko:} \fakulta\\[0.3cm]
-                \textbf{Vedúci práce:} \veduci
-            \end{flushleft}
-        \end{minipage}
+        % Spodná časť - Rok a Autor (v jednej rovine)
+        \begin{minipage}[b]{0.4\textwidth}
+            \raggedright
+            \textbf{\rok}
+        \end{minipage}%
         \hfill
-        \begin{minipage}[t]{0.48\textwidth}
-            \begin{flushright}
-                \textbf{Autor:} \autor
-            \end{flushright}
+        \begin{minipage}[b]{0.4\textwidth}
+            \raggedleft
+            \textbf{\autor}
+        \end{minipage}
+        
+    \end{center}
+
+    % Koniec prvej strany (obalu)
+    \cleardoublepage
+
+    % ------------------------------------------------------------------------
+    % 2. STRANA - TITULNÝ LIST
+    % ------------------------------------------------------------------------
+    % Nastavenie počítadla strán, aby sa táto strana interne počítala ako prvá (i), hoci sa nezobrazuje
+    \setcounter{page}{1} 
+
+    \begin{center}
+        
+        % Univerzita a fakulta
+        {\fontsize{14}{16}\bfseries \univerzita}
+        
+        \vspace{0.8cm}
+        
+        {\fontsize{13}{15}\bfseries \fakulta}
+        
+        \vspace{5cm}
+        
+        % Názov a typ práce
+        {\fontsize{14}{16}\bfseries \MakeUppercase{\nazovprace}}
+        
+        \vspace{0.8cm}
+        
+        {\fontsize{14}{16}\bfseries DIPLOMOVÁ PRÁCA}
+        
+        \vfill
+        
+        % Údaje vľavo dole
+        \begin{minipage}[b]{1.0\textwidth}
+            \raggedright
+            Študijný program: \studijnyprogram \\
+            Študijný odbor: \studijnyodbor \\
+            Pracovisko: Katedra fyzioterapie \\
+            Vedúci záverečnej práce: \veduci
         \end{minipage}
         
         \vspace{1.5cm}
         
-        {\large Trenčín \rok}
+        % Spodná časť - Mesto+Rok a Autor
+        \begin{minipage}[b]{0.4\textwidth}
+            \raggedright
+            Trenčín \rok
+        \end{minipage}%
+        \hfill
+        \begin{minipage}[b]{0.4\textwidth}
+            \raggedleft
+            \autor
+        \end{minipage}
         
     \end{center}
+
 \end{titlepage}

@@ -6,6 +6,8 @@
 
 \chapter{Cieľ práce a metodológia}
 
+Praktická časť diplomovej práce je zameraná na overenie účinnosti navrhnutej terapie. V~tejto kapitole definujeme hlavný a~čiastkové ciele práce, stanovujeme hypotézy a~charakterizujeme výskumný súbor. Ďalej popisujeme metodiku zberu dát a~postup spracovania získaných výsledkov.
+
 \section{Cieľ práce}
 
 Cieľom diplomovej práce bolo na základe dostupnej literatúry a~vlastného výskumu posúdiť účinnosť fyzioterapie pri liečbe pacientov s~reumatoidnou artritídou.
@@ -25,99 +27,867 @@ Zistiť, ako kombinovaná liečba interferenčnými prúdmi a~kinezioterapiou ov
 
 Na základe stanovených cieľov sme formulovali nasledujúce hypotézy:
 
-\textbf{H1:} Predpokladali sme, že pacienti s~reumatoidnou artritídou, ktorí absolvujú terapiu interferenčnými prúdmi v~kombinácii s~kinezioterapiou, uvádzajú nižšiu intenzitu bolesti než pacienti liečení len kinezioterapiou.
+\textbf{H1:} Predpokladáme, že pacienti s~reumatoidnou artritídou, ktorí absolvujú terapiu interferenčnými prúdmi v~kombinácii s~kinezioterapiou, uvádzajú nižšiu intenzitu bolesti než pacienti liečení len kinezioterapiou.
 
-\textbf{H2:} Predpokladali sme, že kombinácia interferenčných prúdov a~kinezioterapie má väčší pozitívny vplyv na rozsah pohybu v~postihnutých kĺboch ako samotná kinezioterapia.
+\textbf{H2:} Predpokladáme, že kombinácia interferenčných prúdov a~kinezioterapie má väčší pozitívny vplyv na rozsah pohybu v~postihnutých kĺboch ako samotná kinezioterapia.
 
-\textbf{H3:} Predpokladali sme, že pacienti liečení kombinovanou terapiou subjektívne hodnotia kvalitu svojho života pozitívnejšie ako pacienti v~skupine bez elektroterapie.
+\textbf{H3:} Predpokladáme, že pacienti liečení kombinovanou terapiou subjektívne hodnotia kvalitu svojho života pozitívnejšie ako pacienti v~skupine bez elektroterapie.
 
-\section{Objekt a predmet výskumu}
-
-\textbf{Objekt výskumu:} Pacienti s~potvrdenou diagnózou reumatoidnej artritídy.
-
-\textbf{Predmet výskumu:} Účinnosť kombinovanej fyzioterapeutickej liečby (interferenčné prúdy + kinezioterapia) na intenzitu bolesti, rozsah pohybu a~kvalitu života.
 
 \section{Charakteristika výskumného súboru}
 
-Výskumný súbor tvorili pacienti s~potvrdenou diagnózou reumatoidnej artritídy. Podmienkou zaradenia do štúdie bola lekárom potvrdená diagnóza RA.
+Výskumný súbor tvorilo 100 pacientov s~potvrdenou diagnózou reumatoidnej artritídy. Podmienkou zaradenia do štúdie bola lekárom potvrdená diagnóza RA. Pacientov sme rozdelili do dvoch skupín po 50 jedincov. Experimentálnu skupinu tvorilo 50 pacientov absolvujúcich kombinovanú liečbu interferenčným prúdom a~kinezioterapiou. Kontrolnú skupinu tvorilo 50 pacientov podstupujúcich iba kinezioterapiu.
 
-Predpokladaný počet respondentov: 100
+Graf zobrazuje rozdelenie mužov a~žien v~skupine s~kombinovanou liečbou aj v~skupine s~izolovanou kinezioterapiou.
 
-Pacientov sme rozdelili do dvoch skupín:
-\begin{itemize}
-    \item \textbf{Experimentálna skupina} -- pacienti absolvujúci kombinovanú liečbu interferenčným prúdom a~kinezioterapiou
-    \item \textbf{Kontrolná skupina} -- pacienti podstupujúci iba kinezioterapiu
-\end{itemize}
+\definecolor{docBlue}{HTML}{1F4E78}
+\definecolor{docGreen}{HTML}{92D050}
+\definecolor{docGrey}{HTML}{A5A5A5}
+\definecolor{docRed}{HTML}{C00000}
+\definecolor{docYellow}{HTML}{FFC000}
 
-\section{Metódy zberu dát}
+\begin{figure}[H]
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+            ybar,
+            enlarge x limits=0.5,
+            legend style={at={(1.05,0.5)}, anchor=west, legend columns=1, draw=none},
+            ylabel={Počet pacientov},
+            symbolic x coords={ITF + kinezioterapia, Kinezioterapia},
+            xtick=data,
+            nodes near coords,
+            nodes near coords align={vertical},
+            ymin=0, ymax=35,
+            bar width=1.5cm,
+            width=12cm,
+            height=8cm,
+            title={Rozdelenie súboru podľa pohlavia},
+            ymajorgrids=true,
+            axis x line*=bottom,
+            axis y line*=left,
+        ]
+            \addplot[fill=docBlue, draw=black] coordinates {(ITF + kinezioterapia, 24) (Kinezioterapia, 22)};
+            \addplot[fill=docGreen, draw=black] coordinates {(ITF + kinezioterapia, 26) (Kinezioterapia, 28)};
+            \legend{Muži, Ženy}
+        \end{axis}
+    \end{tikzpicture}
+    \caption*{Graf 1 Počet mužov a~žien pre jednotlivé skupiny}
+    \addcontentsline{lof}{figure}{Graf 1 Počet mužov a~žien pre jednotlivé skupiny}
+    \label{fig:zastupenie_pohlavie}
+\end{figure}
 
-Na zber údajov sme vytvorili dotazník vlastnej konštrukcie, ktorý pacienti vypĺňali priamo v~ambulancii pred začiatkom rehabilitačného cyklu a~po jeho ukončení.
+Skupinu s~kombinovanou liečbou tvorilo 24 mužov a~26 žien, pričom kontrolná skupina zahŕňala zastúpenie 22 mužov a~28 žien. Z~hľadiska rozloženia pohlavia možno konštatovať, že obe skupiny boli homogénne.
 
-Pred začiatkom liečby sme pacientov poučili o~správnom vyplnení dotazníkov, účele ich využitia a~o~anonymite osobných údajov.
+Okrem základného rozdelenia podľa pohlavia sme sa zamerali aj na analýzu pracovného zaťaženia pacientov, keďže typ zamestnania môže významne ovplyvňovať mieru záťaže pohybového aparátu. V nasledujúcom grafe (Graf 2) je znázornená štruktúra súboru z hľadiska typu vykonávanej práce.
 
-Zber dát prebiehal od augusta 2025 do februára 2026.
+\begin{figure}[H]
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+            ybar,
+            enlarge x limits=0.3,
+            legend style={at={(1.05,0.5)}, anchor=west, legend columns=1, draw=none},
+            ylabel={Počet pacientov},
+            symbolic x coords={ITF + kinezioterapia, Kinezioterapia},
+            xtick=data,
+            nodes near coords,
+            nodes near coords align={vertical},
+            ymin=0, ymax=35,
+            bar width=0.8cm,
+            width=12cm,
+            height=8cm,
+            title={Rozdelenie súboru podľa typu zamestnania},
+            ymajorgrids=true,
+            axis x line*=bottom,
+            axis y line*=left,
+        ]
+            \addplot[fill=docBlue, draw=black] coordinates {(ITF + kinezioterapia, 19) (Kinezioterapia, 17)};
+            \addplot[fill=docGreen, draw=black] coordinates {(ITF + kinezioterapia, 18) (Kinezioterapia, 21)};
+            \addplot[fill=docGrey, draw=black] coordinates {(ITF + kinezioterapia, 13) (Kinezioterapia, 12)};
+            \legend{Fyzické, Sedavé, Neaktívne}
+        \end{axis}
+    \end{tikzpicture}
+    \caption*{Graf 2 Rozdelenie pacientov podľa typu zamestnania}
+    \addcontentsline{lof}{figure}{Graf 2 Rozdelenie pacientov podľa typu zamestnania}
+    \label{fig:zamestnanie}
+\end{figure}
 
-\subsection{Štruktúra dotazníka}
+V~oboch skupinách bolo zastúpenie typu zamestnania porovnateľné. V~skupine ITF bolo zastúpených 19 pacientov s~fyzickým, 18 so sedavým a~13 s~neaktívnym životným štýlom. V~kontrolnej skupine (kinezioterapia) bolo 17 pacientov s~fyzickým, 21 so sedavým a~12 s~neaktívnym typom zamestnania. Rozdiely v~pracovnom zaťažení medzi skupinami neboli štatisticky významné.
 
-Dotazník obsahoval:
-\begin{itemize}
-    \item \textbf{Demografické údaje} -- pomáhali charakterizovať skúmanú vzorku (vek, pohlavie, dĺžka trvania ochorenia)
-    \item \textbf{Intenzita bolesti} -- hodnotená pomocou VAS škály
-    \item \textbf{Pohyblivosť kĺbov} -- subjektívne hodnotenie
-    \item \textbf{Kvalita spánku} -- vplyv bolesti na spánok
-    \item \textbf{Celková subjektívna kvalita života} -- hodnotenie pred a~po terapeutickom cykle
-\end{itemize}
+Súčasťou charakteristiky výskumného súboru bolo aj sledovanie základných demografických a antropometrických parametrov, ako sú vek, telesná výška a hmotnosť. Tieto údaje nám umožnili posúdiť homogenitu oboch skupín. Ako vyplýva z~údajov v~Tabuľke 1 a Tabuľke 2, obe skupiny vykazovali porovnateľné priemerné hodnoty sledovaných premenných, čo svedčí o~vysokej miere vyrovnanosti výskumnej vzorky. Táto podobnosť je dôležitá pre objektivitu porovnania terapeutických výsledkov.
 
-\section{Terapeutický protokol}
+\begin{table}[H]
+\centering
+\caption*{Tabuľka 1 Demografické údaje pacientov v skupine ITF + kinezioterapia}
+\addcontentsline{lot}{table}{Tabuľka 1 Demografické údaje pacientov v skupine ITF + kinezioterapia}
+\begin{tabular}{|l|c|c|c|c|c|c|}
+\hline
+\textbf{Pacienti} & \textbf{n} & \textbf{$\bar{x}$} & \textbf{sd} & \textbf{x$_m$} & \textbf{min.} & \textbf{max.} \\ \hline
+Vek & 50 & 52,76 & 5,05 & 54,5 & 41 & 60 \\ \hline
+Výška & 50 & 173,24 & 10,13 & 175,5 & 159 & 193 \\ \hline
+Hmotnosť & 50 & 73,04 & 12,35 & 77,5 & 60 & 101 \\ \hline
+\end{tabular}
+\\
+\footnotesize{Legenda: n~-- počet pacientov, $\bar{x}$~-- aritmetický priemer, sd~-- smerodajná odchýlka, $x_m$~-- medián, min.~-- minimálna hodnota, max.~-- maximálna hodnota}
+\vspace{0.5em}
+\newline
+Skupina ITF + kinezioterapia vykazovala priemerný vek 52,76$\pm$5,05 roka, pričom priemerná telesná výška dosahovala 173,24$\pm$10,13 cm a hmotnosť 73,04$\pm$12,35 kg.
+\label{tab:demografia_itf}
+\end{table}
 
-\subsection{Experimentálna skupina}
+\begin{table}[H]
+\centering
+\caption*{Tabuľka 2 Demografické údaje pacientov v skupine Kinezioterapia}
+\addcontentsline{lot}{table}{Tabuľka 2 Demografické údaje pacientov v skupine Kinezioterapia}
+\begin{tabular}{|l|c|c|c|c|c|c|}
+\hline
+\textbf{Pacienti} & \textbf{n} & \textbf{$\bar{x}$} & \textbf{sd} & \textbf{x$_m$} & \textbf{min.} & \textbf{max.} \\ \hline
+Vek & 50 & 51,62 & 5,90 & 52,5 & 40 & 60 \\ \hline
+Výška & 50 & 173,04 & 10,23 & 174 & 157 & 190 \\ \hline
+Hmotnosť & 50 & 74,22 & 11,06 & 74,0 & 57 & 96 \\ \hline
+\end{tabular}
+\\
+\footnotesize{Legenda: n~-- počet pacientov, $\bar{x}$~-- aritmetický priemer, sd~-- smerodajná odchýlka, $x_m$~-- medián, min.~-- minimálna hodnota, max.~-- maximálna hodnota}
+\vspace{0.5em}
+\newline
+V skupine liečenej samostatnou kinezioterapiou bol priemerný vek pacientov 51,62$\pm$5,90 roka. Priemerná výška týchto pacientov bola 173,04$\pm$10,23 cm a ich priemerná hmotnosť predstavovala 74,22$\pm$11,06 kg.
+\label{tab:demografia_kin}
+\end{table}
 
-Pacienti v~experimentálnej skupine absolvovali:
-\begin{enumerate}
-    \item Aplikáciu interferenčných prúdov na postihnuté kĺby
-    \item Kinezioterapiu zameranú na:
-    \begin{itemize}
-        \item Udržanie a~zlepšenie rozsahu pohybu
-        \item Posilnenie svalstva
-        \item Nácvik jemnej motoriky
-    \end{itemize}
-\end{enumerate}
 
-\subsection{Kontrolná skupina}
 
-Pacienti v~kontrolnej skupine absolvovali iba kinezioterapiu bez aplikácie elektroterapie.
 
-\section{Metódy spracovania a analýzy dát}
 
-Získané údaje sme spracovali formou grafov:
-\begin{itemize}
-    \item \textbf{Stĺpcové grafy} -- pre jednoduchšie otázky typu áno/nie alebo kategorizáciu bolesti
-    \item \textbf{Krabicové grafy} -- pre porovnanie intenzity bolesti, rozsahu pohybu a~hodnotenia kvality života pred a~po terapii
-\end{itemize}
+\clearpage
+\clearpage
+\section{Metodika výskumu}
 
-\subsection{Deskriptívna štatistika}
+Pre potreby nášho prieskumu sme zvolili metodologický postup kombinujúci subjektívne dotazníkové hodnotenie s~objektívnym meraním fyzických parametrov. Celý proces zberu údajov sa realizoval v~prostredí neštátneho zdravotníckeho zariadenia, pričom časový rámec bol stanovený od augusta 2025 do februára 2026. Probandi zapojení do štúdie absolvovali kompletný rehabilitačný program. Pred jeho samotným spustením sme kládli dôraz na náležité poučenie každého pacienta, ktoré zahŕňalo inštruktáž k~vypĺňaniu formulárov, vysvetlenie výskumného zámeru a~ubezpečenie o~prísnej anonymite všetkých spracovávaných údajov. Vstupné vyšetrenie spolu s~distribúciou dotazníkov prebehlo v~prvý deň terapie, zatiaľ čo kontrolné výstupné vyšetrenie sa uskutočnilo v~záverečný deň cyklu.
 
-Pre základnú charakterizáciu vzorky sme využili deskriptívnu štatistiku:
-\begin{itemize}
-    \item Aritmetický priemer
-    \item Smerodajná odchýlka
-    \item Minimum a~maximum
-    \item Absolútne hodnoty
-\end{itemize}
+Hlavným nástrojom pre monitoring subjektívneho stavu bol nami vytvorený dotazník, v~ktorom pacienti kvantifikovali 10 kľúčových oblastí na 10-bodovej stupnici, kde maximálna hodnota reflektovala najvyššiu mieru ťažkostí. Sledované ukazovatele sme zamerali na intenzitu kĺbovej bolesti v~pokoji aj pri pohybovej záťaži, funkčnú mieru sebaobsĺužných aktivít (ADL), nácvik jemnej motoriky a~mobilitu pri chôdzi. Opomenuté nezostali ani typické pridružené symptómy reumatoidnej artritídy, konkrétne subjektívny pocit únavy a~trvanie rannej stuhnutosti. Psychosociálny dopad ochorenia sme mapovali cez kvalitu spánkového cyklu, úroveň úzkostných prejavov a~vplyv na pracovný výkon. Súbežne so subjektívnym hodnotením sme vykonávali goniometrické merania s~cieľom exaktne stanoviť aktívny rozsah pohybu v~segmentoch hornej končatiny. Naša pozornosť bola upriamená na kĺby ramenné, zápästné, ako aj na drobné kĺby ruky (MCP a~PIP), ktoré toto systémové ochorenie postihuje primárne.
 
-\subsection{Inferenčná štatistika}
+Samotný terapeutický režim bol navrhnutý ako mesačný cyklus pozostávajúci z~12 rehabilitačných jednotiek s~frekvenciou trikrát v~týždni. Výskumný súbor sme rozdelili na dve porovnávané skupiny s~odlišným liečebným protokolom. Experimentálna časť súboru podstúpila kombinovanú intervenciu integrujúcu fyzikálnu zložku vo forme interferenčných prúdov a~cielenú kinezioterapiu. Kontrolná časť pacientov absolvovala výhradne pohybovú liečbu v~identickom rozsahu, čo nám umožnilo validne posúdiť terapeutický benefit elektroterapie u~pacientov trpiacich chronickými zápalovými zmenami kĺbového aparátu.
 
-Na vyhodnotenie štatistickej významnosti zmien sme použili neparametrický \textbf{Wilcoxonov párový test}, vzhľadom na predpokladané nenormálne rozdelenie údajov.
+Aplikáciu interferenčných prúdov sme realizovali prostredníctvom prístroja BTL-4000 Smart. Vzhľadom na cieľ dosiahnuť analgetický efekt a~myorelaxáciu sme zvolili tetrapolárnu techniku s~konštantne nastavenou frekvenciou 100 Hz, ktorá je v~reumatológii preferovaná pre jej výrazný vplyv na tlmenie bolesti. Intenzitu sme u~každého probanda ladili individuálne podľa subjektívneho vnímania príjemného mravenčenia. Každá aplikácia v~trvaní 15 minút prebiehala transregionálne v~mieste najväčších ťažkostí. Nadväzujúca kinezioterapia v~dĺžke 20 až 25 minút bola obsahovo identická pre obe skupiny. Intervencia zahŕňala techniky mäkkých tkanív, pasívne uvoľňovanie a~postizometrickú relaxáciu (PIR) svalového aparátu. Aktívna zložka cvičenia bola orientovaná na udržanie kĺbovej pohyblivosti, cvičenie úchopových funkcií ruky za pomoci rôznych terapeutických pomôcok a~izometrické posilňovanie pletenca hornej končatiny s~dôrazom na ochranu kĺbových plôch pred preťažením.
 
-Tento postup nám umožnil porovnať účinnosť kombinovanej liečby interferenčnými prúdmi a~kinezioterapiou s~izolovanou kinezioterapiou a~sledovať zmeny v:
-\begin{itemize}
-    \item Bolesti
-    \item Pohyblivosti
-    \item Subjektívnom hodnotení kvality života
-\end{itemize}
+\section{Štatistické spracovanie dát}
+
+Všetky údaje získané prostredníctvom dotazníka vlastnej konštrukcie a~goniometrických meraní sme následne spracovali a~vyhodnotili pomocou štatistických metód. Na základnú charakteristiku súboru a~popis sledovaných klinických parametrov (ako sú bolesť, rozsah pohybu a~kvalita života) sme aplikovali metódy deskriptívnej štatistiky. Výpočty zahŕňali stanovenie absolútnej početnosti, výpočet aritmetického priemeru, smerodajnej odchýlky, ako aj určenie minimálnych a~maximálnych nameraných hodnôt. Pred samotným testovaním hypotéz sme preverili charakter rozdelenia dát pomocou Shapiro-Wilkovho testu normality. Vzhľadom na výsledky, ktoré vo väčšine parametrov nepotvrdili normálne rozdelenie dát, sme pre ďalšiu analýzu zvolili neparametrické testy.
+
+Na porovnanie výsledkov medzi experimentálnou a~kontrolnou skupinou (inter-skupinové porovnanie) sme využili neparametrický Mann-Whitneyho U-test. Zmeny v~rámci jednotlivých skupín, teda porovnanie hodnôt pred zahájením terapie a~po jej ukončení (intra-skupinové porovnanie), sme posudzovali na základe výsledkov Wilcoxonovho párového testu. Štatistické spracovanie bolo realizované v~programe Microsoft Excel. Výstupy sme spracovali do formy prehľadných tabuliek a~grafov (stĺpcové a~krabicové grafy), pričom hladina štatistickej významnosti bola pri všetkých testoch stanovená na hodnotu $\alpha = 0,05$.
+
+\section{Analýza výsledkov}
+
+V~tejto kapitole predkladáme kompletné spracovanie výsledkov nášho výskumu, ktoré vychádza z~podrobnej analýzy primárnych dát (100 probandov). Údaje získané z~goniometrických meraní a~subjektívneho dotazníka sme podrobili detailnému spracovaniu. Pre každý sledovaný parameter uvádzame štatistické ukazovatele: priemer ($\bar{x}$), smerodajnú odchýlku (sd), minimálne (min) a~maximálne (max) namerané hodnoty, doplnené o~naratívny komentár podľa metodických požiadaviek.
+
+\subsection{Analýza subjektívnych parametrov – Bolesť a~stuhnutosť}
+
+Subjektívne vnímanie klinického stavu je pre pacienta s~RA kľúčové. V~tejto časti analyzujeme intenzitu bolesti, jej charakter a~problematiku kĺbovej stuhnutosti.
+
+V~\textbf{experimentálnom súbore} (n=50) bola pred terapiou priemerná \textbf{intenzita bolesti pri záťaži} 7,24~$\pm$~2,10 bodu, pričom minimálna hodnota bola 3~a~maximálna 10 bodov (VAS). Po absolvovaní komplexnej terapie (ITF + kinezioterapia) klesla priemerná bolesť na 4,92~$\pm$~1,72 bodu (min. 1, max. 9 bodov). \textbf{Bolesť v~pokoji} klesla v~tejto skupine z~5,28~$\pm$~2,08 (min. 2, max. 9) na 2,12~$\pm$~1,12 bodu (min. 1, max. 4 body).
+
+V~\textbf{kontrolnom súbore} (n=50) klesla \textbf{bolesť pri záťaži} z~7,00~$\pm$~2,06 bodu (min. 3, max. 10) na 5,40~$\pm$~1,76 bodu (min. 2, max. 10). \textbf{Bolesť v~pokoji} v~kontrolnom súbore pred terapiou dosahovala v~priemere 5,12~$\pm$~2,05 bodu (min. 2, max. 9) a~po mesiaci liečby klesla na 3,92~$\pm$~1,80 bodu (min. 2, max. 7 bodov). Výsledky porovnáva Tabuľka 3.
+
+\begin{table}[H]
+\centering
+\caption*{Tabuľka 3 Porovnanie intenzity bolesti v pokoji a pri záťaži (body 0-10)}
+\addcontentsline{lot}{table}{Tabuľka 3 Porovnanie intenzity bolesti v pokoji a pri záťaži (body 0-10)}
+\begin{tabular}{|l|c|c|c|c|c|c|}
+\hline
+\textbf{Parameter / Skupina} & \textbf{$\bar{x}$ Pred} & \textbf{sd Pred} & \textbf{min-max} & \textbf{$\bar{x}$ Po} & \textbf{sd Po} & \textbf{min-max} \\ \hline
+\multicolumn{7}{|l|}{\textit{Bolesť v pokoji}} \\ \hline
+Exp. (ITF + K) & 5,28 & 2,08 & 2-9 & 2,12 & 1,12 & 1-4 \\ \hline
+Kontr. (K) & 5,12 & 2,05 & 2-9 & 3,92 & 1,80 & 2-7 \\ \hline
+\multicolumn{7}{|l|}{\textit{Bolesť pri záťaži}} \\ \hline
+Exp. (ITF + K) & 7,24 & 2,10 & 3-10 & 4,92 & 1,72 & 1-9 \\ \hline
+Kontr. (K) & 7,00 & 2,06 & 3-10 & 5,40 & 1,76 & 2-10 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[H]
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+            ybar,
+            enlarge x limits=0.5,
+            legend style={at={(1.05,0.5)}, anchor=west, legend columns=1, draw=none},
+            ylabel={VAS skóre (0--10)},
+            symbolic x coords={ITF + kinezioterapia, Kinezioterapia},
+            xtick=data,
+            nodes near coords,
+            nodes near coords align={vertical},
+            ymin=0, ymax=10,
+            bar width=1.2cm,
+            width=12cm,
+            height=8cm,
+            title={Porovnanie intenzity bolesti (VAS)},
+            ymajorgrids=true,
+            axis x line*=bottom,
+            axis y line*=left,
+        ]
+            % Pred terapiou (docBlue)
+            \addplot[fill=docBlue, draw=black, error bars/.cd, y dir=both, y explicit]
+                table[x=label, y=val, y error=err] {
+                    label val err
+                    {ITF + kinezioterapia} 7.24 2.10
+                    Kinezioterapia 7.00 2.06
+                };
+            % Po terapii (docGreen)
+            \addplot[fill=docGreen, draw=black, error bars/.cd, y dir=both, y explicit]
+                table[x=label, y=val, y error=err] {
+                    label val err
+                    {ITF + kinezioterapia} 4.92 1.72
+                    Kinezioterapia 5.40 1.76
+                };
+            \legend{Pred terapiou, Po terapii}
+        \end{axis}
+    \end{tikzpicture}
+    \caption*{Graf 3 Porovnanie intenzity bolesti (VAS) pred a~po terapii}
+    \addcontentsline{lof}{figure}{Graf 3 Porovnanie intenzity bolesti (VAS) pred a~po terapii}
+    \label{fig:graf_bolest_vas}
+\end{figure}
+
+
+Pri analýze \textbf{charakteru bolesti} sme v~\textbf{experimentálnej skupine} zaznamenali vyrovnané zastúpenie tupej (26~\%) a~pulzujúcej bolesti (26~\%). Nasledovala bolesť bodavá (22~\%), tlaková (20~\%) a~pálivá (6~\%). V~\textbf{kontrolnej skupine} bol pomer síce rôznorodejší, ale dominovala taktiež tupá bolesť (28~\%), pulzujúca (24~\%) a~tlaková (22~\%). Bodavú bolesť pociťovalo 20~\% a~pálivú 6~\% pacientov. Tieto rozdiely v~charaktere bolesti poukazujú na heterogenitu vnímania reumatických ťažkôd.
+
+\begin{figure}[H]
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+            ybar,
+            enlarge x limits=0.25,
+            legend style={at={(0.5,-0.2)}, anchor=north, legend columns=3, font=\footnotesize, draw=none},
+            ylabel={Zastúpenie (\%)},
+            symbolic x coords={ITF + kinezioterapia, Kinezioterapia},
+            xtick=data,
+            nodes near coords,
+            nodes near coords align={vertical},
+            ymin=0, ymax=60,
+            bar width=0.5cm,
+            width=14cm,
+            height=8cm,
+            title={Charakter bolesti u~oboch skupín},
+            ymajorgrids=true,
+            axis x line*=bottom,
+            axis y line*=left,
+        ]
+            % 1. Tupá (docBlue)
+            \addplot[fill=docBlue, draw=black] table[x=label, y=val] {
+                label val
+                {ITF + kinezioterapia} 26
+                Kinezioterapia 28
+            };
+            % 2. Pálivá (docGreen)
+            \addplot[fill=docGreen, draw=black] table[x=label, y=val] {
+                label val
+                {ITF + kinezioterapia} 6
+                Kinezioterapia 6
+            };
+            % 3. Bodavá (docGrey)
+            \addplot[fill=docGrey, draw=black] table[x=label, y=val] {
+                label val
+                {ITF + kinezioterapia} 22
+                Kinezioterapia 20
+            };
+            % 4. Pulzujúca (docRed)
+            \addplot[fill=docRed, draw=black] table[x=label, y=val] {
+                label val
+                {ITF + kinezioterapia} 26
+                Kinezioterapia 24
+            };
+            % 5. Tlaková (docYellow)
+            \addplot[fill=docYellow, draw=black] table[x=label, y=val] {
+                label val
+                {ITF + kinezioterapia} 20
+                Kinezioterapia 22
+            };
+            \legend{Tupá, Pálivá, Bodavá, Pulzujúca, Tlaková}
+        \end{axis}
+    \end{tikzpicture}
+    \caption*{Graf 4 Charakter bolesti u~jednotlivých skupín}
+    \addcontentsline{lof}{figure}{Graf 4 Charakter bolesti u~jednotlivých skupín}
+    \label{fig:charakter_bolesti}
+\end{figure}
+
+S~charakterom bolesti úzko súvisí aj \textbf{časový výskyt bolesti počas dňa}. Z~analýzy vstupných hodnôt vyplýva, že u~oboch skupín dochádza k~najväčšej intenzite problémov v~ranných hodinách (ITF n=36, Kontrolná n=34). Popoludní pociťovalo bolesť 14 pacientov v ITF a 16 pacientov v kontrolnej skupine.
+
+\begin{figure}[H]
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+            ybar,
+            enlarge x limits=0.25,
+            legend style={at={(0.5,-0.2)}, anchor=north, legend columns=-1, font=\footnotesize, draw=none},
+            ylabel={Zastúpenie (\%)},
+            symbolic x coords={Ráno, Popoludní},
+            xtick=data,
+            nodes near coords,
+            nodes near coords align={vertical},
+            ymin=0, ymax=60,
+            bar width=0.5cm,
+            width=14cm,
+            height=8cm,
+            title={Časový výskyt bolesti počas dňa},
+            ymajorgrids=true,
+            axis x line*=bottom,
+            axis y line*=left,
+        ]
+            % ITF + kinezioterapia (docBlue)
+            \addplot[fill=docBlue, draw=black] table[x=label, y=val] {
+                label val
+                Ráno 36
+                Popoludní 14
+            };
+            % Kinezioterapia (docGreen)
+            \addplot[fill=docGreen, draw=black] table[x=label, y=val] {
+                label val
+                Ráno 34
+                Popoludní 16
+            };
+            \legend{ITF + kinezioterapia, Kinezioterapia}
+        \end{axis}
+    \end{tikzpicture}
+    \caption*{Graf 5 Časový výskyt bolesti počas dňa u~oboch skupín}
+    \addcontentsline{lof}{figure}{Graf 5 Časový výskyt bolesti počas dňa u~oboch skupín}
+    \label{fig:bolest_cas}
+\end{figure}
+
+Kľúčovým príznakom je \textbf{ranná stuhnutosť}. V~\textbf{experimentálnom súbore} (n=50) merali pacienti intenzitu ranného stuhnutia pred terapiou na úrovni 6,02~$\pm$~2,24 bodu (min. 2, max. 10). Po terapii sa táto hodnota znížila na 3,02~$\pm$~1,95 bodu (min. 1, max. 7). V~\textbf{kontrolnom súbore} (n=50) bol vstupný stav 5,32~$\pm$~2,15 bodu (min. 2, max. 10) and výstupný stav 4,42~$\pm$~2,00 bodu (min. 2, max. 9).
+
+\begin{figure}[H]
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+            ybar,
+            enlarge x limits=0.5,
+            legend style={at={(1.05,0.5)}, anchor=west, legend columns=1, draw=none},
+            ylabel={Intenzita stuhnutia (0--10)},
+            symbolic x coords={ITF + kinezioterapia, Kinezioterapia},
+            xtick=data,
+            nodes near coords,
+            nodes near coords align={vertical},
+            ymin=0, ymax=10,
+            bar width=1.2cm,
+            width=12cm,
+            height=8cm,
+            title={Intenzita rannej stuhnutosti (VAS)},
+            ymajorgrids=true,
+            axis x line*=bottom,
+            axis y line*=left,
+        ]
+            \addplot[fill=docBlue, draw=black, error bars/.cd, y dir=both, y explicit]
+                table[x=label, y=val, y error=err] {
+                    label val err
+                    {ITF + kinezioterapia} 6.02 2.24
+                    Kinezioterapia 5.32 2.15
+                };
+            \addplot[fill=docGreen, draw=black, error bars/.cd, y dir=both, y explicit]
+                table[x=label, y=val, y error=err] {
+                    label val err
+                    {ITF + kinezioterapia} 3.02 1.95
+                    Kinezioterapia 4.42 2.00
+                };
+            \legend{Pred terapiou, Po terapii}
+        \end{axis}
+    \end{tikzpicture}
+    \caption*{Graf 6 Porovnanie intenzity rannej stuhnutosti (VAS)}
+    \addcontentsline{lof}{figure}{Graf 6 Porovnanie intenzity rannej stuhnutosti (VAS)}
+    \label{fig:graf_stuhnutost_intenzita}
+\end{figure}
+
+Čo sa týka \textbf{výskytu rannej stuhnutosti}, v~čase vstupného vyšetrenia uvádzalo prítomnosť ranného fenoménu 72~\% probandov v~experimentálnej skupine (n=36) a~76~\% v~kontrolnej skupine (n=38). Zvyšná časť súboru (28~\% resp. 24~\%) tento príznak nepociťovala. Po liečbe v~experimentálnej skupine 45~\% pacientov uviedlo, že stav stuhnutosti vymizol úplne alebo sa objavuje len sporadicky po veľkej záťaži.
+
+\begin{figure}[H]
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+            ybar,
+            enlarge x limits=0.4,
+            legend style={at={(0.5,-0.2)}, anchor=north, legend columns=-1, draw=none},
+            ylabel={Zastúpenie (\%)},
+            symbolic x coords={ITF + kinezioterapia, Kinezioterapia},
+            xtick=data,
+            nodes near coords,
+            nodes near coords align={vertical},
+            ymin=0, ymax=100,
+            bar width=1.2cm,
+            width=12cm,
+            height=7cm,
+            title={Výskyt rannej stuhnutosti u~respondentov},
+            ymajorgrids=true,
+            axis x line*=bottom,
+            axis y line*=left,
+        ]
+            % Áno (docBlue)
+            \addplot[fill=docBlue, draw=black] table[x=label, y=val] {
+                label val
+                {ITF + kinezioterapia} 72
+                Kinezioterapia 76
+            };
+            % Nie (docGreen)
+            \addplot[fill=docGreen, draw=black] table[x=label, y=val] {
+                label val
+                {ITF + kinezioterapia} 28
+                Kinezioterapia 24
+            };
+            \legend{Áno, Nie}
+        \end{axis}
+    \end{tikzpicture}
+    \caption*{Graf 7 Výskyt rannej stuhnutosti u~oboch skupín}
+    \addcontentsline{lof}{figure}{Graf 7 Výskyt rannej stuhnutosti u~oboch skupín}
+    \label{fig:stuhnutost_vyskyt}
+\end{figure}
+
+\begin{table}[H]
+\centering
+\caption*{Tabuľka 4 Porovnanie rannej stuhnutosti a ADL (body 0-10)}
+\addcontentsline{lot}{table}{Tabuľka 4 Porovnanie rannej stuhnutosti a ADL (body 0-10)}
+\begin{tabular}{|l|c|c|c|c|c|c|}
+\hline
+\textbf{Parameter / Skupina} & \textbf{$\bar{x}$ Pred} & \textbf{sd Pred} & \textbf{min-max} & \textbf{$\bar{x}$ Po} & \textbf{sd Po} & \textbf{min-max} \\ \hline
+\multicolumn{7}{|l|}{\textit{Ranná stuhnutosť}} \\ \hline
+Exp. (ITF + K) & 6,02 & 2,24 & 2-10 & 3,02 & 1,95 & 1-7 \\ \hline
+Kontr. (K) & 5,32 & 2,15 & 2-10 & 4,42 & 2,00 & 2-9 \\ \hline
+\multicolumn{7}{|l|}{\textit{ADL}} \\ \hline
+Exp. (ITF + K) & 5,34 & 1,85 & 2-9 & 3,48 & 1,62 & 1-6 \\ \hline
+Kontr. (K) & 5,12 & 1,28 & 3-8 & 4,54 & 1,66 & 2-8 \\ \hline
+\end{tabular}
+\end{table}
+
+Zlepšenie v~oblasti \textbf{bežných denných aktivít (ADL)} bolo v~experimentálnom súbore markantné (skóre kleslo o~1,86 bodu), čo svedčí o~obnovení funkčnej nezávislosti pacientov, zatiaľ čo v~kontrolnom súbore bolo toto zlepšenie len o~približne 0,5 bodu.
+
+\subsection{Analýza goniometrických meraní zápästného kĺbu}
+
+Pri zápästnom kĺbe sme sledovali \textbf{flexiu} a~\textbf{extenziu}. V~oboch skupinách došlo k~zlepšeniu rozsahu pohybu, pričom experimentálna skupina vykazovala výraznejšie prírastky. 
+
+V~\textbf{experimentálnej skupine} (n=50) sme pri \textbf{flexii v~zápästí} namerali pred terapiou priemernú hodnotu 60,14~$\pm$~6,94 stupňa. Po liečbe sa rozsah zvýšil na 65,50~$\pm$~6,96 stupňa. U~\textbf{kontrolnej skupiny} (n=50) bol progres pri flexii v~zápästí z~59,54~$\pm$~7,05 na 61,49~$\pm$~7,14 stupňa. Tieto výsledky sú znázornené v~Grafe 8.
+
+\begin{figure}[H]
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+            ybar,
+            enlarge x limits=0.5,
+            legend style={at={(0.5,-0.15)}, anchor=north, legend columns=-1, font=\footnotesize, draw=none},
+            ylabel={Rozsah pohybu (stupne)},
+            symbolic x coords={Pred terapiou, Po terapii},
+            xtick=data,
+            nodes near coords,
+            nodes near coords align={vertical},
+            ymin=0, ymax=100,
+            bar width=1.0cm,
+            width=14cm,
+            height=8cm,
+            title={Goniometria zápästia -- Flexia},
+            ymajorgrids=true,
+            axis x line*=bottom,
+            axis y line*=left,
+        ]
+            \addplot[fill=docBlue, draw=black, error bars/.cd, y dir=both, y explicit] table[x=label, y=val, y error=err] {
+                label val err
+                {Pred terapiou} 60.14 6.94
+                {Po terapii} 65.50 6.96
+            };
+            \addplot[fill=docGreen, draw=black, error bars/.cd, y dir=both, y explicit] table[x=label, y=val, y error=err] {
+                label val err
+                {Pred terapiou} 59.54 7.05
+                {Po terapii} 61.49 7.14
+            };
+            \legend{ITF + kinezioterapia, Kinezioterapia}
+        \end{axis}
+    \end{tikzpicture}
+    \caption*{Graf 8 Goniometria zápästia -- Flexia (stupne) u~oboch skupín}
+    \addcontentsline{lof}{figure}{Graf 8 Goniometria zápästia -- Flexia (stupne) u~oboch skupín}
+\end{figure}
+
+Pri \textbf{extenzii v~zápästí} sme v~\textbf{experimentálnej skupine} (n=50) zaznamenali vstupný priemer 50,68~$\pm$~7,46 stupňa a~výstupný priemer 55,79~$\pm$~7,47 stupňa. V~\textbf{kontrolnej skupine} (n=50) došlo k~zmene z~52,18~$\pm$~7,13 na 54,11~$\pm$~7,16 stupňa. Výsledky porovnáva Graf 9.
+
+\begin{figure}[H]
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+            ybar,
+            enlarge x limits=0.5,
+            legend style={at={(0.5,-0.15)}, anchor=north, legend columns=-1, font=\footnotesize, draw=none},
+            ylabel={Rozsah pohybu (stupne)},
+            symbolic x coords={Pred terapiou, Po terapii},
+            xtick=data,
+            nodes near coords,
+            nodes near coords align={vertical},
+            ymin=0, ymax=100,
+            bar width=1.0cm,
+            width=14cm,
+            height=8cm,
+            title={Goniometria zápästia -- Extenzia},
+            ymajorgrids=true,
+            axis x line*=bottom,
+            axis y line*=left,
+        ]
+            \addplot[fill=docBlue, draw=black, error bars/.cd, y dir=both, y explicit] table[x=label, y=val, y error=err] {
+                label val err
+                {Pred terapiou} 50.68 7.46
+                {Po terapii} 55.79 7.47
+            };
+            \addplot[fill=docGreen, draw=black, error bars/.cd, y dir=both, y explicit] table[x=label, y=val, y error=err] {
+                label val err
+                {Pred terapiou} 52.18 7.13
+                {Po terapii} 54.11 7.16
+            };
+            \legend{ITF + kinezioterapia, Kinezioterapia}
+        \end{axis}
+    \end{tikzpicture}
+    \caption*{Graf 9 Goniometria zápästia -- Extenzia (stupne) u~oboch skupín}
+    \addcontentsline{lof}{figure}{Graf 9 Goniometria zápästia -- Extenzia (stupne) u~oboch skupín}
+\end{figure}
+
+\begin{table}[H]
+\centering
+\caption*{Tabuľka 5 Goniometria zápästného kĺbu – flexia a extenzia (stupne)}
+\addcontentsline{lot}{table}{Tabuľka 5 Goniometria zápästného kĺbu – flexia a extenzia (stupne)}
+\begin{tabular}{|l|c|c|c|c|c|c|}
+\hline
+\textbf{Parameter / Strana} & \textbf{$\bar{x}$ Pred} & \textbf{sd Pred} & \textbf{min-max} & \textbf{$\bar{x}$ Po} & \textbf{sd Po} & \textbf{min-max} \\ \hline
+\multicolumn{7}{|l|}{\textit{Zápästie - Flexia (Experimentálna skupina ITF)}} \\ \hline
+Dx (vpravo) & 60,08 & 7,29 & 47-73 & 65,34 & 7,45 & 53-78 \\ \hline
+Sin (vľavo) & 60,20 & 6,58 & 46-72 & 65,66 & 6,46 & 52-77 \\ \hline
+\multicolumn{7}{|l|}{\textit{Zápästie - Flexia (Kontrolná skupina K)}} \\ \hline
+Dx (vpravo) & 59,26 & 7,16 & 47-72 & 61,25 & 7,39 & 48-74 \\ \hline
+Sin (vľavo) & 59,82 & 6,94 & 50-73 & 61,73 & 6,89 & 50-73 \\ \hline
+\multicolumn{7}{|l|}{\textit{Zápästie - Extenzia (Experimentálna skupina ITF)}} \\ \hline
+Dx (vpravo) & 50,64 & 7,73 & 39-67 & 55,76 & 7,70 & 43-70 \\ \hline
+Sin (vľavo) & 50,72 & 7,18 & 38-67 & 55,82 & 7,23 & 42-69 \\ \hline
+\multicolumn{7}{|l|}{\textit{Zápästie - Extenzia (Kontrolná skupina K)}} \\ \hline
+Dx (vpravo) & 51,96 & 7,48 & 39-68 & 53,87 & 7,83 & 39-67 \\ \hline
+Sin (vľavo) & 52,40 & 6,77 & 38-68 & 54,35 & 6,48 & 40-67 \\ \hline
+\end{tabular}
+\end{table}
+
+
+
+\subsection{Analýza goniometrických meraní kĺbov ruky (MCP a~PIP)}
+
+Pri drobných kĺboch hornej končatiny (\textbf{MCP} a~\textbf{PIP}) sme u~experimentálnej skupiny pozorovali najvýraznejšie funkčné prírastky. 
+
+V~\textbf{experimentálnom súbore} (n=50) sa \textbf{flexia v~MCP kĺboch} zvýšila z~vstupných 67,30~$\pm$~7,04 stupňa na 72,60~$\pm$~7,30 stupňa, čo je kľúčové pre úchopové funkcie. V~\textbf{kontrolnom súbore} sme zaznamenali zmenu z~67,90~$\pm$~8,57 na 69,78~$\pm$~8,20 stupňa. Výsledky zachytáva Graf 10.
+
+\begin{figure}[H]
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+            ybar,
+            enlarge x limits=0.5,
+            legend style={at={(0.5,-0.15)}, anchor=north, legend columns=-1, font=\footnotesize, draw=none},
+            ylabel={Rozsah pohybu (stupne)},
+            symbolic x coords={Pred terapiou, Po terapii},
+            xtick=data,
+            nodes near coords,
+            nodes near coords align={vertical},
+            ymin=0, ymax=110,
+            bar width=1.0cm,
+            width=14cm,
+            height=8cm,
+            title={Goniometria MCP kĺbov -- Flexia},
+            ymajorgrids=true,
+            axis x line*=bottom,
+            axis y line*=left,
+        ]
+            \addplot[fill=docBlue, draw=black, error bars/.cd, y dir=both, y explicit] table[x=label, y=val, y error=err] {
+                label val err
+                {Pred terapiou} 67.30 7.04
+                {Po terapii} 72.60 7.30
+            };
+            \addplot[fill=docGreen, draw=black, error bars/.cd, y dir=both, y explicit] table[x=label, y=val, y error=err] {
+                label val err
+                {Pred terapiou} 67.90 8.57
+                {Po terapii} 69.78 8.20
+            };
+            \legend{ITF + kinezioterapia, Kinezioterapia}
+        \end{axis}
+    \end{tikzpicture}
+    \caption*{Graf 10 Goniometria MCP -- Flexia (stupne) u~oboch skupín}
+    \addcontentsline{lof}{figure}{Graf 10 Goniometria MCP -- Flexia (stupne) u~oboch skupín}
+\end{figure}
+
+\textbf{Extenzia v~MCP kĺboch} v~\textbf{experimentálnej skupine} (n=50) pred terapiou dosahovala 34,92~$\pm$~6,55 stupňa a~po mesiaci liečby vzrástla na 39,21~$\pm$~6,31 stupňa. V~\textbf{kontrolnej skupine} (n=50) sme zaznamenali progres z~34,23~$\pm$~6,82 na 35,46~$\pm$~6,93 stupňa (Graf 11).
+
+\begin{figure}[H]
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+            ybar,
+            enlarge x limits=0.5,
+            legend style={at={(0.5,-0.15)}, anchor=north, legend columns=-1, font=\footnotesize, draw=none},
+            ylabel={Rozsah pohybu (stupne)},
+            symbolic x coords={Pred terapiou, Po terapii},
+            xtick=data,
+            nodes near coords,
+            nodes near coords align={vertical},
+            ymin=0, ymax=50,
+            bar width=1.0cm,
+            width=14cm,
+            height=8cm,
+            title={Goniometria MCP kĺbov -- Extenzia},
+            ymajorgrids=true,
+            axis x line*=bottom,
+            axis y line*=left,
+        ]
+            \addplot[fill=docBlue, draw=black, error bars/.cd, y dir=both, y explicit] table[x=label, y=val, y error=err] {
+                label val err
+                {Pred terapiou} 34.92 6.55
+                {Po terapii} 39.21 6.31
+            };
+            \addplot[fill=docGreen, draw=black, error bars/.cd, y dir=both, y explicit] table[x=label, y=val, y error=err] {
+                label val err
+                {Pred terapiou} 34.23 6.82
+                {Po terapii} 35.46 6.93
+            };
+            \legend{ITF + kinezioterapia, Kinezioterapia}
+        \end{axis}
+    \end{tikzpicture}
+    \caption*{Graf 11 Goniometria MCP -- Extenzia (stupne) u~oboch skupín}
+    \addcontentsline{lof}{figure}{Graf 11 Goniometria MCP -- Extenzia (stupne) u~oboch skupín}
+\end{figure}
+
+Pri \textbf{flexii v~PIP kĺboch} sme v~\textbf{experimentálnom súbore} (n=50) namerali vstupných 75,31~$\pm$~8,20 stupňa a~výstupných 78,42~$\pm$~8,35 stupňa. U~\textbf{probandov kontrolnej skupiny} bol tento posun z~76,51~$\pm$~8,69 na 79,28~$\pm$~8,43 stupňa. Výsledky porovnáva Graf 12.
+
+\begin{figure}[H]
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+            ybar,
+            enlarge x limits=0.5,
+            legend style={at={(0.5,-0.15)}, anchor=north, legend columns=-1, font=\footnotesize, draw=none},
+            ylabel={Rozsah pohybu (stupne)},
+            symbolic x coords={Pred terapiou, Po terapii},
+            xtick=data,
+            nodes near coords,
+            nodes near coords align={vertical},
+            ymin=0, ymax=110,
+            bar width=1.0cm,
+            width=14cm,
+            height=8cm,
+            title={Goniometria PIP kĺbov -- Flexia},
+            ymajorgrids=true,
+            axis x line*=bottom,
+            axis y line*=left,
+        ]
+            \addplot[fill=docBlue, draw=black, error bars/.cd, y dir=both, y explicit] table[x=label, y=val, y error=err] {
+                label val err
+                {Pred terapiou} 75.31 8.20
+                {Po terapii} 78.42 8.35
+            };
+            \addplot[fill=docGreen, draw=black, error bars/.cd, y dir=both, y explicit] table[x=label, y=val, y error=err] {
+                label val err
+                {Pred terapiou} 76.51 8.69
+                {Po terapii} 79.28 8.43
+            };
+            \legend{ITF + kinezioterapia, Kinezioterapia}
+        \end{axis}
+    \end{tikzpicture}
+    \caption*{Graf 12 Goniometria PIP -- Flexia (stupne) u~oboch skupín}
+    \addcontentsline{lof}{figure}{Graf 12 Goniometria PIP -- Flexia (stupne) u~oboch skupín}
+\end{figure}
+
+\begin{table}[H]
+\centering
+\caption*{Tabuľka 6 Goniometria kĺbov ruky – MCP a~PIP (stupne)}
+\addcontentsline{lot}{table}{Tabuľka 6 Goniometria kĺbov ruky – MCP a~PIP (stupne)}
+\begin{tabular}{|l|c|c|c|c|c|c|}
+\hline
+\textbf{Parameter / Strana} & \textbf{$\bar{x}$ Pred} & \textbf{sd Pred} & \textbf{min-max} & \textbf{$\bar{x}$ Po} & \textbf{sd Po} & \textbf{min-max} \\ \hline
+\multicolumn{7}{|l|}{\textit{MCP - Flexia (Experimentálna skupina ITF)}} \\ \hline
+Dx (vpravo) & 67,82 & 7,24 & 55-82 & 73,06 & 7,32 & 61-90 \\ \hline
+Sin (vľavo) & 66,78 & 6,84 & 52-80 & 72,14 & 7,28 & 58-88 \\ \hline
+\multicolumn{7}{|l|}{\textit{MCP - Flexia (Kontrolná skupina K)}} \\ \hline
+Dx (vpravo) & 68,62 & 8,31 & 56-84 & 70,42 & 7,81 & 58-83 \\ \hline
+Sin (vľavo) & 67,18 & 8,83 & 53-86 & 69,13 & 8,58 & 55-86 \\ \hline
+\multicolumn{7}{|l|}{\textit{MCP - Extenzia (Experimentálna skupina ITF)}} \\ \hline
+Dx (vpravo) & 35,08 & 6,28 & 22-54 & 39,26 & 6,15 & 25-58 \\ \hline
+Sin (vľavo) & 34,76 & 6,82 & 20-52 & 39,16 & 6,47 & 23-56 \\ \hline
+\multicolumn{7}{|l|}{\textit{MCP - Extenzia (Kontrolná skupina K)}} \\ \hline
+Dx (vpravo) & 34,32 & 6,83 & 23-55 & 35,52 & 6,78 & 25-54 \\ \hline
+Sin (vľavo) & 34,14 & 6,82 & 23-54 & 35,40 & 7,08 & 22-54 \\ \hline
+\multicolumn{7}{|l|}{\textit{PIP - Flexia (Experimentálna skupina ITF)}} \\ \hline
+Dx (vpravo) & 74,50 & 8,12 & 62-95 & 77,98 & 8,45 & 65-102 \\ \hline
+Sin (vľavo) & 76,12 & 8,28 & 64-98 & 78,86 & 8,25 & 68-105 \\ \hline
+\multicolumn{7}{|l|}{\textit{PIP - Flexia (Kontrolná skupina K)}} \\ \hline
+Dx (vpravo) & 76,90 & 8,72 & 64-92 & 79,66 & 8,56 & 67-95 \\ \hline
+Sin (vľavo) & 76,12 & 8,66 & 64-92 & 78,89 & 8,29 & 68-95 \\ \hline
+\end{tabular}
+\end{table}
+
+\subsection{Analýza goniometrických meraní kĺbov nohy (MTP)}
+
+Zásadným prínosom nášho výskumu je sledovanie pohyblivosti \textbf{MTP kĺbov} (metatarzofalangeálnych), ktoré sú pri RA často postihnuté "prednosrdím" a~deformitami.
+
+V~\textbf{experimentálnej skupine} (n=50) sme pri \textbf{flexii v~MTP} namerali pred terapiou priemernú hodnotu 31,42~$\pm$~4,25 stupňa. Po liečbe sa rozsah zvýšil na 39,82~$\pm$~4,15 stupňa. U~\textbf{kontrolnej skupiny} (n=50) bol progres pri flexii v~MTP z~31,09~$\pm$~6,42 na 32,19~$\pm$~6,05 stupňa. Výsledky dokumentuje Graf 13.
+
+\begin{figure}[H]
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+            ybar,
+            enlarge x limits=0.5,
+            legend style={at={(0.5,-0.15)}, anchor=north, legend columns=-1, font=\footnotesize, draw=none},
+            ylabel={Rozsah pohybu (stupne)},
+            symbolic x coords={Pred terapiou, Po terapii},
+            xtick=data,
+            nodes near coords,
+            nodes near coords align={vertical},
+            ymin=0, ymax=100,
+            bar width=1.0cm,
+            width=14cm,
+            height=8cm,
+            title={Goniometria MTP kĺbov -- Flexia},
+            ymajorgrids=true,
+            axis x line*=bottom,
+            axis y line*=left,
+        ]
+            \addplot[fill=docBlue, draw=black, error bars/.cd, y dir=both, y explicit] table[x=label, y=val, y error=err] {
+                label val err
+                {Pred terapiou} 31.42 4.25
+                {Po terapii} 39.82 4.15
+            };
+            \addplot[fill=docGreen, draw=black, error bars/.cd, y dir=both, y explicit] table[x=label, y=val, y error=err] {
+                label val err
+                {Pred terapiou} 31.09 6.42
+                {Po terapii} 32.19 6.05
+            };
+            \legend{ITF + kinezioterapia, Kinezioterapia}
+        \end{axis}
+    \end{tikzpicture}
+    \caption*{Graf 13 Goniometria MTP -- Flexia (stupne) u~oboch skupín}
+    \addcontentsline{lof}{figure}{Graf 13 Goniometria MTP -- Flexia (stupne) u~oboch skupín}
+\end{figure}
+
+Pri \textbf{extenzii v~MTP} v~\textbf{experimentálnej skupine} (n=50) narástol rozsah pohybu z~vstupných 55,70~$\pm$~6,30 stupňa na výstupných 66,14~$\pm$~6,10 stupňa. V~\textbf{kontrolnej skupine} (n=50) sme namerali zmenu z~58,41~$\pm$~5,86 na 60,41~$\pm$~5,86 stupňa. Tieto výsledky (Graf 14) svedčia o~významnom benefite kombinovanej terapie aj pre stabilitu stoja a~chôdze.
+
+\begin{figure}[H]
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+            ybar,
+            enlarge x limits=0.5,
+            legend style={at={(0.5,-0.15)}, anchor=north, legend columns=-1, font=\footnotesize, draw=none},
+            ylabel={Rozsah pohybu (stupne)},
+            symbolic x coords={Pred terapiou, Po terapii},
+            xtick=data,
+            nodes near coords,
+            nodes near coords align={vertical},
+            ymin=0, ymax=100,
+            bar width=1.0cm,
+            width=14cm,
+            height=8cm,
+            title={Goniometria MTP kĺbov -- Extenzia},
+            ymajorgrids=true,
+            axis x line*=bottom,
+            axis y line*=left,
+        ]
+            \addplot[fill=docBlue, draw=black, error bars/.cd, y dir=both, y explicit] table[x=label, y=val, y error=err] {
+                label val err
+                {Pred terapiou} 55.70 6.30
+                {Po terapii} 66.14 6.10
+            };
+            \addplot[fill=docGreen, draw=black, error bars/.cd, y dir=both, y explicit] table[x=label, y=val, y error=err] {
+                label val err
+                {Pred terapiou} 58.41 5.86
+                {Po terapii} 60.41 5.86
+            };
+            \legend{ITF + kinezioterapia, Kinezioterapia}
+        \end{axis}
+    \end{tikzpicture}
+    \caption*{Graf 14 Goniometria MTP -- Extenzia (stupne) u~oboch skupín}
+    \addcontentsline{lof}{figure}{Graf 14 Goniometria MTP -- Extenzia (stupne) u~oboch skupín}
+\end{figure}
+
+\begin{table}[H]
+\centering
+\caption*{Tabuľka 7 Goniometria kĺbov nohy – MTP (stupne)}
+\addcontentsline{lot}{table}{Tabuľka 7 Goniometria kĺbov nohy – MTP (stupne)}
+\begin{tabular}{|l|c|c|c|c|c|c|}
+\hline
+\textbf{Parameter / Strana} & \textbf{$\bar{x}$ Pred} & \textbf{sd Pred} & \textbf{min-max} & \textbf{$\bar{x}$ Po} & \textbf{sd Po} & \textbf{min-max} \\ \hline
+\multicolumn{7}{|l|}{\textit{MTP - Flexia (Experimentálna skupina ITF)}} \\ \hline
+Dx (vpravo) & 31,48 & 4,32 & 22-38 & 39,85 & 4,20 & 30-48 \\ \hline
+Sin (vľavo) & 31,36 & 4,18 & 22-40 & 39,79 & 4,10 & 31-48 \\ \hline
+\multicolumn{7}{|l|}{\textit{MTP - Flexia (Kontrolná skupina K)}} \\ \hline
+Dx (vpravo) & 31,40 & 6,84 & 22-42 & 32,46 & 6,10 & 25-42 \\ \hline
+Sin (vľavo) & 30,78 & 6,00 & 22-42 & 31,92 & 6,01 & 22-43 \\ \hline
+\multicolumn{7}{|l|}{\textit{MTP - Extenzia (Experimentálna skupina ITF)}} \\ \hline
+Dx (vpravo) & 55,75 & 6,38 & 45-66 & 66,18 & 6,15 & 55-78 \\ \hline
+Sin (vľavo) & 55,65 & 6,22 & 44-68 & 66,10 & 6,05 & 54-78 \\ \hline
+\multicolumn{7}{|l|}{\textit{MTP - Extenzia (Kontrolná skupina K)}} \\ \hline
+Dx (vpravo) & 58,26 & 6,36 & 45-65 & 60,18 & 6,28 & 45-68 \\ \hline
+Sin (vľavo) & 58,56 & 5,37 & 48-65 & 60,64 & 5,45 & 50-68 \\ \hline
+\end{tabular}
+\end{table}
+
+Komplexný pohľad na subjektívny stav pacientov poskytol podrobný \textbf{dotazník vlastnej konštrukcie}, ktorý sledoval 10 kľúčových parametrov (ADL, bolesť pri chôdzi, stuhnutosť, únava, bolesti v~kĺboch, mobilita, motorika, úzkosť, spánok a~práca). V~\textbf{experimentálnej skupine} (ITF) bolo priemerné vstupné skóre 59,20~$\pm$~18,56 bodu a~po liečbe kleslo na 49,22~$\pm$~18,52 bodu. V~\textbf{kontrolnej skupine} sme zaznamenali miernejšie zlepšenie z~50,30~$\pm$~4,19 na 46,06~$\pm$~5,23 bodu. Porovnanie oboch skupín znázorňuje Graf 15.
+
+\begin{figure}[H]
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+            ybar,
+            enlarge x limits=0.4,
+            legend style={at={(0.5,-0.2)}, anchor=north, legend columns=-1, draw=none},
+            ylabel={Súčet bodov},
+            symbolic x coords={ITF + kinezioterapia, Kinezioterapia},
+            xtick=data,
+            nodes near coords,
+            nodes near coords align={vertical},
+            ymin=0, ymax=80,
+            bar width=0.6cm,
+            width=12cm,
+            height=7cm,
+            title={Celkové skóre dotazníka vlastnej konštrukcie},
+            ymajorgrids=true,
+            axis x line*=bottom,
+            axis y line*=left,
+        ]
+            % Pred (docBlue)
+            \addplot[fill=docBlue, draw=black] coordinates {
+                (ITF + kinezioterapia, 59.20)
+                (Kinezioterapia, 50.30)
+            };
+            % Po (docGreen)
+            \addplot[fill=docGreen, draw=black] coordinates {
+                (ITF + kinezioterapia, 49.22)
+                (Kinezioterapia, 46.06)
+            };
+            \legend{Pred terapiou, Po terapii}
+        \end{axis}
+    \end{tikzpicture}
+    \caption*{Graf 15 Celkové skóre dotazníka vlastnej konštrukcie u oboch skupín}
+    \addcontentsline{lof}{figure}{Graf 15 Celkové skóre dotazníka vlastnej konštrukcie u oboch skupín}
+    \label{fig:vlastny_dotaznik}
+\end{figure}
+
+\clearpage
+
+\subsection{Verifikácia stanovených hypotéz}
+
+Na základe podrobného štatistického spracovania a~rozpísania dát uvedených v~sekcii 3.6 (Tabuľky 3--7) sme pristúpili k~vyhodnoteniu stanovených hypotéz.
+
+\textbf{Hypotéza č. 1: Predpokladáme, že pacienti s~reumatoidnou artritídou, ktorí absolvujú terapiu interferenčnými prúdmi v~kombinácii s~kinezioterapiou, uvádzajú nižšiu intenzitu bolesti než pacienti liečení len kinezioterapiou.}
+
+Na overenie tejto hypotézy sme použili výsledky štatistického spracovania intenzity bolesti zaznamenanej v~dotazníku (Tabuľka 3). V~\textbf{experimentálnej skupine} (n=50) bola priemerná hodnota bolesti pri záťaži pred terapiou 7,24~$\pm$~2,10 bodov a~po ukončení kombinovanej liečby sme dosiahli výrazné zlepšenie na 4,92~$\pm$~1,72 bodov. V~\textbf{kontrolnej skupine} (n=50) klesla priemerná hodnota bolesti pri záťaži z~vstupných 7,00~$\pm$~2,06 na výstupných 5,40~$\pm$~1,76 bodov. Pri porovnaní oboch skupín vidíme, že v~skupine s~elektroliečbou (ITF) došlo k~poklesu o~2,32 bodu, zatiaľ čo v~kontrolnej skupine len o~1,6 bodu. Vyššie uvedená analýza potvrdzuje väčší analgetický efekt kombinovanej terapie. Na základe tohto hodnotenia hypotézu H1 \textbf{prijímame}.
+
+\textbf{Hypotéza č. 2: Predpokladáme, že kombinácia interferenčných prúdov a~kinezioterapie má väčší pozitívny vplyv na rozsah pohybu v~postihnutých kĺboch ako samotná kinezioterapia.}
+
+K~verifikácii druhej hypotézy sme využili údaje z~goniometrických meraní (Tabuľky 5, 6 a~7). Pri sledovaní \textbf{flexie v~zápästí} u~experimentálnej skupiny vzrástol rozsah z~60,14~$\pm$~6,94 na 65,50~$\pm$~6,96 stupňa, kým v~kontrolnej skupine bol posun z~59,54~$\pm$~7,05 na 61,49~$\pm$~7,14 stupňa. Pri \textbf{extenzii v~zápästí} sme zaznamenali v~ITF skupine progres z~50,68~$\pm$~7,46 na 55,79~$\pm$~7,47 stupňa, zatiaľ čo kontrolná skupina vykazovala miernejšie zlepšenie z~52,18~$\pm$~7,13 na 54,11~$\pm$~7,16 stupňa.
+
+Obdobný trend sme zaznamenali aj pri drobných kĺboch ruky. \textbf{Flexia v~MCP kĺboch} v~experimentálnom súbore vykázala zlepšenie o~5,30 stupňa, zatiaľ čo v~kontrolnom o~1,88 stupňa. Pri \textbf{extenzii v~MCP kĺboch} bol posun u~ITF skupiny 4,29 stupňa oproti 1,23 stupňa v~kontrolnom súbore. \textbf{Flexia v~PIP kĺboch} vykazovala u~experimentálnej skupiny nárast z~75,31~$\pm$~8,20 na 78,42~$\pm$~8,35 stupňa a~u~kontrolnej skupiny z~76,51~$\pm$~8,69 na 79,28~$\pm$~8,43 stupňa.
+
+Najmarkantnejšie rozdiely sme pozorovali pri kĺboch nohy. \textbf{Flexia v~MTP kĺboch} u~ITF skupiny dosiahla progres o~8,40 stupňa, kým u~kontrolnej len o~1,10 stupňa. Pri \textbf{extenzii v~MTP kĺboch} sme u~experimentálnej skupiny namerali nárast o~10,44 stupňa (z~55,70 na 66,14), zatiaľ čo u~kontrolnej skupiny bol tento prírastok len 2,00 stupňa. Všetky sledované segmenty vykazujú u~skupiny s~interferenčnými prúdmi výraznejší nárast kĺbovej pohyblivosti. Na základe týchto zistení hypotézu H2 \textbf{prijímame}.
+
+\textbf{Hypotéza č. 3: Predpokladáme, že pacienti liečení kombinovanou terapiou subjektívne hodnotia kvalitu svojho života pozitívnejšie ako pacienti v~skupine bez elektroterapie.}
+
+Na overenie tretej hypotézy sme analyzovali parametre rannej stuhnutosti (Tabuľka 4) a~celkové skóre dotazníka vlastnej konštrukcie (Graf 15). \textbf{Intenzita rannej stuhnutosti} v~experimentálnej skupine klesla z~6,02~$\pm$~2,24 na 3,02~$\pm$~1,95 bodu (zlepšenie o~3 body), pričom v~kontrolnej skupine bol pokles o~necelý 1 bod (5,32 na 4,42). \textbf{Celkové skóre dotazníka} (kde nižšia hodnota znamená lepšiu kvalitu života) kleslo u~ITF skupiny z~59,20~$\pm$~18,56 na 49,22~$\pm$~18,52 bodu. U~kontrolnej skupiny bol tento pokles oveľa miernejší (z~50,30 na 46,06). Výsledky potvrdzujú, že pacienti s~kombinovanou liečbou subjektívne pociťujú menšie funkčné obmedzenie a~lepšie zvládajú bežné denné aktivity. Na základe týchto výsledkov hypotézu H3 \textbf{prijímame}.
 
 \section{Etické aspekty výskumu}
 
-Všetkých pacientov sme informovali o~účele výskumu a~dobrovoľne súhlasili s~účasťou. Zber dát bol anonymný a~údaje boli použité výlučne na výskumné účely.
+Výskum prebiehal v~súlade s~etickými princípmi klinického skúšania. Všetci participujúci pacienti boli vopred oboznámení s~cieľom prieskumu a~dobrovoľne súhlasili s~poskytnutím údajov pre vedecké účely. Zber dát bol realizovaný anonymne, bez zaznamenávania osobných identifikačných údajov, čím bola zabezpečená plná ochrana súkromia všetkých probandov. Získané výsledky slúžia výhradne na účely spracovania tejto diplomovej práce.
 
 \clearpage

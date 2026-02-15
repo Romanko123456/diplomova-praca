@@ -1,0 +1,3060 @@
+TRENČIANSKA UNIVERZITA ALEXANDRA DUBČEKA
+V TRENČÍNE
+FAKULTA ZDRAVOTNÍCTVA
+
+VYUŽITIE FYZIOTERAPIE U PACIENTOV S REUMATICKÝM
+OCHORENÍM
+DIPLOMOVÁ PRÁCA
+
+2026
+
+Bc. Roman Ballek
+
+TRENČIANSKA UNIVERZITA ALEXANDRA DUBČEKA
+V TRENČÍNE
+FAKULTA ZDRAVOTNÍCTVA
+
+VYUŽITIE FYZIOTERAPIE U PACIENTOV S REUMATICKÝM
+OCHORENÍM
+DIPLOMOVÁ PRÁCA
+
+Študijný program: Fyzioterapia - 2. stupeň
+Študijný odbor: 46. Zdravotnícke vedy
+Pracovisko: Katedra fyzioterapie
+Vedúci záverečnej práce: MUDr. Miroslav Malay, PhD.
+
+Trenčín 2026
+
+Bc. Roman Ballek
+
+Čestné vyhlásenie
+Vyhlasujem, že som diplomovú prácu na tému „Využitie fyzioterapie u pacientov s
+reumatickým ochorením“ vypracoval samostatne s použitím uvedenej literatúry a na základe
+konzultácií s vedúcim diplomovej práce.
+
+V Trenčíne 12.4.2025
+
+...........................................
+Bc. Roman Ballek
+
+Pod’akovanie
+Dovol’ujem si touto cestou vyjadrit’ úprimnú vd’aku vedúcemu mojej diplomovej
+práce, MUDr. Miroslavovi Malayovi, PhD., za jeho odborné vedenie, cenné rady a pripomienky, ochotu a trpezlivost’, ktoré významne prispeli k úspešnému spracovaniu a dokončeniu tejto diplomovej práce.
+
+V Trenčíne 12.4.2025
+
+Analytický list
+Autor:
+Názov práce:
+Jazyk práce:
+Typ práce:
+Počet strán:
+Akademický titul:
+Univerzita:
+V TRENČÍNE
+Fakulta:
+Katedra:
+Študijný odbor:
+Študijný program:
+Mesto:
+Vedúci DP:
+Dátum odovzdania:
+Dátum obhajoby:
+Kl’účové slová:
+Citovanie práce:
+
+Názov práce v AJ:
+Kl’účové slová v AJ:
+
+Bc. Roman Ballek
+Využitie fyzioterapie u pacientov s reumatickým ochorením
+slovenský
+Diplomová práca
+62
+Magister
+TRENČIANSKA UNIVERZITA ALEXANDRA DUBČEKA
+FAKULTA ZDRAVOTNÍCTVA (FZ)
+Katedra fyzioterapie (KFYZ)
+46. Zdravotnícke vedy
+Fyzioterapia - 2. stupeň
+Trenčín
+MUDr. Miroslav Malay, PhD.
+
+reumatoidná artritída, fyzioterapia, interferenčné prúdy, kinezioterapia, kvalita života
+BALLEK, Roman: Využitie fyzioterapie u pacientov s reumatickým ochorením, Diplomová práca, Trenčianska univerzita Alexandra Dubčeka v Trenčíne
+Use of Physiotherapy in Patients with Rheumatic Disease
+rheumatoid arthritis, physiotherapy, interferential currents,
+kinesiotherapy, quality of life
+
+iii
+
+Abstrakt
+BALLEK, Roman: Využitie fyzioterapie u pacientov s reumatickým ochorením. [Diplomová
+práca]. – TRENČIANSKA UNIVERZITA ALEXANDRA DUBČEKA
+V TRENČÍNE. FAKULTA ZDRAVOTNÍCTVA; Vedúci diplomovej práce: MUDr. Miroslav
+Malay, PhD.. – Trenčín: FZ TnUAD, 2026. – XX s.
+
+Diplomová práca sa zaoberá využitím fyzioterapie u pacientov s reumatoidnou artritídou. Hlavným ciel’om práce bolo zistit’ účinnost’ kombinovanej liečby interferenčnými
+prúdmi a kinezioterapiou v porovnaní so samotnou kinezioterapiou. Sledovali sme vplyv terapie na intenzitu bolesti, rozsah pohybu v postihnutých kĺboch a subjektívne hodnotenie
+kvality života pacientov.
+Teoretická čast’ práce definuje reumatoidnú artritídu, jej etiológiu, patogenézu, klinický obraz a diagnostiku. Ďalej sa venuje možnostiam fyzioterapeutickej liečby so zameraním na interferenčné prúdy a kinezioterapiu.
+Praktická čast’ obsahuje výsledky výskumu realizovaného na vzorke pacientov s potvrdenou diagnózou reumatoidnej artritídy. Pacienti boli rozdelení do experimentálnej a kontrolnej skupiny. Údaje sme zbierali pomocou dotazníka vlastnej konštrukcie pred začiatkom
+a po ukončení terapeutického cyklu. Na štatistické vyhodnotenie údajov sme použili Wilcoxonov párový test.
+Výsledky ukázali... [doplnit’ po ukončení výskumu]
+Kl’účové slová: reumatoidná artritída, fyzioterapia, interferenčné prúdy, kinezioterapia, kvalita života
+
+iv
+
+Abstract
+BALLEK, Roman: Use of Physiotherapy in Patients with Rheumatic Disease. [Diploma thesis]. – Alexander Dubček University of Trenčín. Faculty of Health Care; Supervisor: MUDr.
+Miroslav Malay, PhD.. – Trenčín: FZ TnUAD, 2026. – XX p.
+
+The diploma thesis deals with the use of physiotherapy in patients with rheumatoid
+arthritis. The main objective was to determine the effectiveness of combined treatment with
+interferential currents and kinesiotherapy compared to kinesiotherapy alone. We monitored
+the effect of therapy on pain intensity, range of motion in affected joints, and subjective
+assessment of patients’ quality of life.
+The theoretical part of the thesis defines rheumatoid arthritis, its etiology, pathogenesis, clinical presentation, and diagnosis. It also addresses physiotherapeutic treatment options
+with a focus on interferential currents and kinesiotherapy.
+The practical part contains the results of research conducted on a sample of patients
+with a confirmed diagnosis of rheumatoid arthritis. Patients were divided into experimental
+and control groups. Data were collected using a self-constructed questionnaire before the
+start and after the completion of the therapeutic cycle. Wilcoxon signed-rank test was used
+for statistical analysis.
+Results showed... [to be completed after research]
+Keywords: rheumatoid arthritis, physiotherapy, interferential currents, kinesiotherapy, quality of life
+
+v
+
+Obsah
+Čestné vyhlásenie
+
+i
+
+Pod’akovanie
+
+ii
+
+Abstrakt
+
+iv
+
+Abstract
+
+v
+
+Zoznam použitých skratiek
+
+xi
+
+Úvod
+
+1
+
+1 Reumatoidná artritída
+1.1 Funkčná anatómia kĺbového systému . . . . . . . . . . . . . . . . . . . . .
+1.1.1 Stavba synoviálneho kĺbu . . . . . . . . . . . . . . . . . . . . . . .
+1.1.2 Synoviálna membrána a jej úloha . . . . . . . . . . . . . . . . . . .
+1.1.3 Anatomické predilekčné miesta pri RA . . . . . . . . . . . . . . .
+1.2 Epidemiológia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.3 Etiológia a patofyziológia . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.3.1 Autoimunitné mechanizmy . . . . . . . . . . . . . . . . . . . . . .
+1.3.2 Patofyziologická kaskáda . . . . . . . . . . . . . . . . . . . . . . .
+1.3.3 Úloha synoviálnych fibroblastov . . . . . . . . . . . . . . . . . . .
+1.3.4 Tvorba panusu a deštrukcia kĺbu . . . . . . . . . . . . . . . . . . .
+1.4 Klinický obraz . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.4.1 Kĺbové deformity a štrukturálne zmeny . . . . . . . . . . . . . . .
+1.4.2 Mimokĺbové (extraartikulárne) prejavy . . . . . . . . . . . . . . . .
+1.5 Diagnostika . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.6 Komplikácie reumatoidnej artritídy . . . . . . . . . . . . . . . . . . . . . .
+1.6.1 Kardiovaskulárne komplikácie . . . . . . . . . . . . . . . . . . . .
+1.6.2 Osteoporóza a fraktúry . . . . . . . . . . . . . . . . . . . . . . . .
+1.6.3 Infekčné komplikácie . . . . . . . . . . . . . . . . . . . . . . . . .
+1.6.4 Pl’úcne a hematologické komplikácie . . . . . . . . . . . . . . . .
+1.6.5 Metabolické poruchy pri RA . . . . . . . . . . . . . . . . . . . . .
+1.6.6 Fyzická a funkčná doména . . . . . . . . . . . . . . . . . . . . . .
+1.6.7 Psychologická doména . . . . . . . . . . . . . . . . . . . . . . . .
+1.6.8 Sociálna a ekonomická doména . . . . . . . . . . . . . . . . . . .
+1.7 Diferenciálna diagnostika . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.7.1 Osteoartróza (OA) . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2
+2
+2
+3
+3
+4
+4
+4
+5
+5
+5
+6
+6
+8
+8
+9
+9
+10
+10
+10
+11
+12
+12
+12
+13
+13
+
+vi
+
+1.7.2 Séronegatívne spondyloartritídy . . . . . . . . . . . . . . . . . . .
+1.7.3 Kryštálové artropatie (Dna) . . . . . . . . . . . . . . . . . . . . . .
+1.7.4 Systémový lupus erythematosus (SLE) . . . . . . . . . . . . . . . .
+1.8 Terapia reumatoidnej artritídy . . . . . . . . . . . . . . . . . . . . . . . . .
+1.8.1 Farmakologická liečba . . . . . . . . . . . . . . . . . . . . . . . .
+1.9 Komplexná rehabilitácia . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.9.1 Kinezioterapia a liečebná telesná výchova . . . . . . . . . . . . . .
+1.9.2 Efektívnost’ fyzioterapie pri RA . . . . . . . . . . . . . . . . . . .
+1.9.3 Fyzikálna terapia . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.9.4 Balneoterapia a kúpel’ná liečba . . . . . . . . . . . . . . . . . . . .
+1.9.5 Ergoterapia a ochrana kĺbov . . . . . . . . . . . . . . . . . . . . .
+1.9.6 Rehabilitácia a reumatológia – interdisciplinárna spolupráca . . . .
+1.10 Prognóza reumatoidnej artritídy . . . . . . . . . . . . . . . . . . . . . . . .
+1.10.1 Faktory ovplyvňujúce dlhodobý výsledok . . . . . . . . . . . . . .
+1.10.2 Mortalita a kvalita života . . . . . . . . . . . . . . . . . . . . . . .
+
+13
+13
+14
+14
+14
+15
+15
+17
+17
+18
+18
+18
+19
+19
+19
+
+2 Interferenčné prúdy
+2.1 História a vývoj metódy . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.2 Fyzikálne princípy interferencie . . . . . . . . . . . . . . . . . . . . . . .
+2.2.1 Fenomén prekonania kožného odporu . . . . . . . . . . . . . . . .
+2.3 Fyziologické účinky na organizmus . . . . . . . . . . . . . . . . . . . . . .
+2.3.1 Analgetický účinok (Tlmenie bolesti) . . . . . . . . . . . . . . . .
+2.3.2 Myorelaxačný účinok (Uvol’nenie svalov) . . . . . . . . . . . . . .
+2.3.3 Vazodilatačný a antiedematózny účinok . . . . . . . . . . . . . . .
+2.4 Metodika aplikácie a variácie . . . . . . . . . . . . . . . . . . . . . . . . .
+2.4.1 Dvojpólová interferencia (Premodulovaná) . . . . . . . . . . . . . .
+2.4.2 Štvorpólová interferencia (Klasická) . . . . . . . . . . . . . . . . .
+2.4.3 Aplikácia s vákuovou jednotkou (Vákuová terapia) . . . . . . . . .
+2.5 Indikácie a kontraindikácie pri RA . . . . . . . . . . . . . . . . . . . . . .
+2.5.1 Indikácie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.5.2 Kontraindikácie . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.6 Porovnanie IFP s inými nízkofrekvenčnými prúdmi . . . . . . . . . . . . .
+2.6.1 Interferencia vs. TENS . . . . . . . . . . . . . . . . . . . . . . . .
+2.6.2 Interferencia vs. Diadynamické prúdy (DD) . . . . . . . . . . . . .
+2.7 Súčasný stav dôkazov (Evidence-Based Medicine) . . . . . . . . . . . . . .
+2.7.1 Účinnost’ pri bolestiach chrbtice a kĺbov . . . . . . . . . . . . . . .
+2.7.2 Neuromodulačný potenciál . . . . . . . . . . . . . . . . . . . . . .
+2.8 Praktická aplikácia pri RA . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.8.1 Parametre stimulácie . . . . . . . . . . . . . . . . . . . . . . . . .
+
+20
+20
+20
+21
+21
+21
+22
+22
+22
+22
+22
+23
+23
+23
+24
+24
+24
+24
+25
+25
+25
+25
+26
+
+2.8.2 Aplikačné schémy pre jednotlivé kĺby . . . . . . . . . . . . . . . .
+2.8.3 Frekvencia a dĺžka liečby . . . . . . . . . . . . . . . . . . . . . . .
+2.8.4 Kombinácia s inými terapeutickými modalitami . . . . . . . . . . .
+2.9 Bezpečnostné aspekty a nežiaduce účinky . . . . . . . . . . . . . . . . . .
+2.9.1 Možné nežiaduce účinky . . . . . . . . . . . . . . . . . . . . . . .
+2.9.2 Monitorovanie pacienta . . . . . . . . . . . . . . . . . . . . . . . .
+2.10 Záver kapitoly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+26
+27
+27
+27
+27
+27
+28
+
+3 Ciel’ práce a metodológia
+3.1 Ciel’ práce . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.2 Hypotézy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.3 Charakteristika výskumného súboru . . . . . . . . . . . . . . . . . . . . .
+3.4 Metodika výskumu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.5 Štatistické spracovanie dát . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.6 Analýza výsledkov . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.6.1 Analýza subjektívnych parametrov – Bolest’ a stuhnutost’ . . . . . .
+3.6.2 Analýza goniometrických meraní zápästného kĺbu . . . . . . . . . .
+3.6.3 Analýza goniometrických meraní kĺbov ruky (MCP a PIP) . . . . .
+3.6.4 Analýza goniometrických meraní kĺbov nohy (MTP) . . . . . . . .
+3.6.5 Verifikácia stanovených hypotéz . . . . . . . . . . . . . . . . . . .
+3.7 Etické aspekty výskumu . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+29
+29
+29
+29
+33
+34
+34
+34
+38
+40
+42
+45
+46
+
+4 Diskusia
+4.1 Interpretácia výsledkov a biofyzikálne súvislosti . . . . . . . . . . . . . . .
+4.2 Porovnanie s literárnymi prameňmi . . . . . . . . . . . . . . . . . . . . . .
+4.3 Bio-psycho-sociálny aspekt a klinický význam . . . . . . . . . . . . . . . .
+4.4 Limity a silné stránky štúdie . . . . . . . . . . . . . . . . . . . . . . . . .
+
+47
+47
+48
+49
+49
+
+ODPORÚČANIA PRE PRAX
+
+51
+
+ZÁVER
+
+52
+
+Zoznam príloh
+Príloha 1 Žiadost’ o povolenie výskumu . . . . . . . . . . . . . . . . . . . . . .
+Príloha 2 Vlastný dotazník . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+58
+60
+61
+
+Zoznam obrázkov
+1.1
+
+Schematické znázornenie typických deformít ruky pri pokročilej reumatoidnej artritíde. Zobrazená je ulnárna deviácia v MCP kĺboch a deformity prstov
+(Netter, 2014) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+7
+
+Graf 1 Počet mužov a žien pre jednotlivé skupiny . . . . . . . . . . . . . . . . .
+Graf 2 Rozdelenie pacientov podl’a typu zamestnania . . . . . . . . . . . . . . .
+Graf 3 Porovnanie intenzity bolesti (VAS) pred a po terapii . . . . . . . . . . . .
+Graf 4 Charakter bolesti u jednotlivých skupín . . . . . . . . . . . . . . . . . . .
+Graf 5 Časový výskyt bolesti počas dňa u oboch skupín . . . . . . . . . . . . . .
+Graf 6 Porovnanie intenzity rannej stuhnutosti (VAS) . . . . . . . . . . . . . . .
+Graf 7 Výskyt rannej stuhnutosti u oboch skupín . . . . . . . . . . . . . . . . . .
+Graf 8 Goniometria zápästia – Flexia (stupne) u oboch skupín . . . . . . . . . . .
+Graf 9 Goniometria zápästia – Extenzia (stupne) u oboch skupín . . . . . . . . .
+Graf 10 Goniometria MCP – Flexia (stupne) u oboch skupín . . . . . . . . . . .
+Graf 11 Goniometria MCP – Extenzia (stupne) u oboch skupín . . . . . . . . . .
+Graf 12 Goniometria PIP – Flexia (stupne) u oboch skupín . . . . . . . . . . . .
+Graf 13 Goniometria MTP – Flexia (stupne) u oboch skupín . . . . . . . . . . .
+Graf 14 Goniometria MTP – Extenzia (stupne) u oboch skupín . . . . . . . . . .
+Graf 15 Celkové skóre dotazníka vlastnej konštrukcie u oboch skupín . . . . . .
+
+30
+31
+35
+36
+36
+37
+38
+39
+39
+40
+41
+41
+43
+43
+44
+
+ix
+
+Zoznam tabuliek
+Tabul’ka 1 Demografické údaje pacientov v skupine ITF + kinezioterapia . . . . .
+Tabul’ka 2 Demografické údaje pacientov v skupine Kinezioterapia . . . . . . . .
+Tabul’ka 3 Porovnanie intenzity bolesti v pokoji a pri zát’aži (body 0-10) . . . . .
+Tabul’ka 4 Porovnanie rannej stuhnutosti a ADL (body 0-10) . . . . . . . . . . .
+Tabul’ka 5 Goniometria zápästného kĺbu – flexia a extenzia (stupne) . . . . . . .
+Tabul’ka 6 Goniometria kĺbov ruky – MCP a PIP (stupne) . . . . . . . . . . . . .
+Tabul’ka 7 Goniometria kĺbov nohy – MTP (stupne) . . . . . . . . . . . . . . . .
+
+x
+
+31
+32
+35
+38
+40
+42
+44
+
+Zoznam použitých skratiek
+ACR
+anti-CCP
+CRP
+DAS28
+DMARD
+ESR
+EULAR
+HAQ
+IFP
+IL
+MTP
+NSA
+PIP
+RA
+RF
+ROM
+SF-36
+TNF
+VAS
+WHO
+
+American College of Rheumatology
+protilátky proti cyklickým citrulinovaným peptidom
+C-reaktívny proteín
+Disease Activity Score 28
+disease-modifying antirheumatic drugs
+erytrocytová sedimentačná rýchlost’
+European League Against Rheumatism
+Health Assessment Questionnaire
+interferenčné prúdy
+interleukín
+metatarzofalangeálny kĺb
+nesteroidné antireumatiká
+proximálny interfalangeálny kĺb
+reumatoidná artritída
+reumatoidný faktor
+range of motion (rozsah pohybu)
+Short Form 36 Health Survey
+tumor nekrotizujúci faktor
+vizuálna analógová škála
+World Health Organization
+
+xi
+
+Úvod
+Reumatoidná artritída (RA) patrí medzi najčastejšie chronické zápalové ochorenia
+pohybového aparátu, ktoré výrazne ovplyvňuje kvalitu života postihnutých pacientov. Toto
+autoimunitné ochorenie postihuje predovšetkým synoviálne kĺby a bez adekvátnej liečby
+vedie k progresívnej deštrukcii kĺbových štruktúr, bolesti a funkčnému obmedzeniu (Smolen
+et al., 2018). Podl’a epidemiologických údajov postihuje RA približne 0,5–1 % celosvetovej
+populácie, pričom ženy sú postihnuté trikrát častejšie ako muži (Firestein et al., 2021).
+Komplexná liečba reumatoidnej artritídy zahŕňa farmakoterapiu, chirurgickú liečbu
+a rehabilitáciu. Fyzioterapia predstavuje neoddelitel’nú súčast’ liečebného procesu, pričom
+jej ciel’om je zmiernit’ bolest’, zachovat’ alebo zlepšit’ pohyblivost’ kĺbov a udržat’ funkčnú
+zdatnost’ pacienta (Kolář; kol., 2012). V posledných rokoch sa do popredia dostávajú kombinované terapeutické prístupy, ktoré integrujú rôzne fyzikálne modality s kinezioterapiou.
+Medzi moderné fyzioterapeutické metódy patrí elektroterapia, konkrétne aplikácia
+interferenčných prúdov. Tieto strednefrekvenčné prúdy majú preukázaný analgetický, vazodilatačný a myorelaxačný účinok (Érika Patrícia Rampazo et al., 2022). V kombinácii
+s kinezioterapiou, ktorá zahŕňa aktívne a pasívne cvičenia, môže byt’ dosiahnutý synergický
+efekt v liečbe pacientov s RA (Herbert et al., 2022).
+Napriek rozšírenému používaniu fyzioterapeutických metód v praxi stále chýbajú dostatočné dôkazy o účinnosti kombinovaných terapeutických protokolov u pacientov s reumatoidnou artritídou. Fuentes a kol. (2010) v systematickom prehl’ade konštatovali, že kvalita
+dôkazov o účinnosti interferenčných prúdov je limitovaná a je potrebný d’alší výskum v tejto
+oblasti. Táto skutočnost’ nás motivovala k realizácii výskumu, ktorého výsledky prezentujeme v tejto diplomovej práci.
+Ciel’om našej diplomovej práce bolo preskúmat’ účinnost’ kombinovanej liečby interferenčnými prúdmi a kinezioterapiou u pacientov s reumatoidnou artritídou. Zamerali sme
+sa na hodnotenie zmien v intenzite bolesti, rozsahu pohybu v postihnutých kĺboch a subjektívnom vnímaní kvality života pacientov.
+Teoretická čast’ práce poskytuje prehl’ad súčasných poznatkov o reumatoidnej artritíde, jej diagnostike a možnostiach fyzioterapeutickej liečby na základe analýzy domácej
+(Macejová, 2019; Poděbradský et al., 2009) a zahraničnej literatúry (Watson, 2020; Smolen
+et al., 2018). Praktická čast’ obsahuje metodiku výskumu a výsledky štúdie realizovanej na
+vzorke pacientov s potvrdenou diagnózou RA.
+
+1
+
+1 Reumatoidná artritída
+Reumatoidná artritída (RA) predstavuje závažné, chronické zápalové ochorenie autoimunitnej etiológie, ktoré sa vyznačuje systémovým charakterom a progresívnym priebehom. Jablkom sváru v patogenéze tohto ochorenia je imunitný systém, ktorý omylom identifikuje vlastné tkanivá ako cudzorodé, čo vedie k deštrukcii, bolesti a strate funkcie. Hoci
+primárnym ciel’om patologického procesu sú periférne synoviálne kĺby, najmä drobné skĺbenia rúk a nôh, RA sa v plnej miere prejavuje ako systémová choroba postihujúca aj mimokĺbové štruktúry a vnútorné orgány. Tento aspekt ochorenia významne prispieva k zvýšenej
+morbidite a skráteniu dĺžky života postihnutých jedincov. Ochorenie sa môže manifestovat’ v
+ktoromkol’vek veku, avšak demografické krivky jasne poukazujú na vrchol incidencie v produktívnom veku, typicky medzi 30. až a 50. rokom života, čo má nesmierny celospoločenský
+a ekonomický dopad. Etiopatogenéza ochorenia je multifaktoriálna a hoci nie je do posledného detailu objasnená, predpokladá sa zložitá interakcia genetickej predispozície hostitel’a
+a spúšt’acích faktorov vonkajšieho prostredia. Priebeh choroby je vysoko individuálny – od
+miernych foriem s pomalou progresiou až po agresívne formy vedúce k rýchlej invalidizácii
+(Rovenský, 2001).
+Anatomickým substrátom, kde sa odohráva hlavná dráma autoimunitnej reakcie, je
+synoviálna membrána. Za normálnych okolností tenká vrstva buniek sa pri RA mení na hyperplastické, zapálené tkanivo prestúpené bunkami imunitného systému. Táto zmenená synovia, označovaná ako panus, sa správa ako lokálny tumor, ktorý invazívne prerastá do okolia,
+nahlodáva kĺbovú chrupavku a následne aj subchondrálnu kost’. Výsledkom tohto procesu je
+nielen bolest’ a opuch, ale predovšetkým nezvratná deštrukcia kĺbovej architektúry a strata
+hybnosti (Rovenský, 2001; Shah et al., 2024).
+1.1
+
+Funkčná anatómia kĺbového systému
+
+Pochopenie anatomických a biomechanických princípov kĺbového aparátu je nevyhnutným predpokladom pre správnu interpretáciu patologických zmien pri reumatoidnej artritíde. Kĺby l’udského tela možno rozdelit’ podl’a rôznych kritérií, pričom z pohl’adu reumatológie má primárny význam delenie podl’a prítomnosti kĺbovej dutiny na spojenia nepravé
+(synartrózy) a pravé kĺby (diartrózy). Práve pravé kĺby obsahujúce synoviálnu membránu sú
+terčom autoimunitného útoku pri RA (Dylevský, 2009).
+1.1.1
+
+Stavba synoviálneho kĺbu
+
+Synoviálny kĺb predstavuje zložitú anatomickú jednotku, ktorej základnými komponentmi sú kĺbové povrchy pokryté hyalínnou chrupavkou, kĺbové puzdro s jeho vrstvami a
+kĺbová dutina vyplnená synoviálnou tekutinou. Každá z týchto štruktúr zohráva špecifickú
+úlohu v biomechanike pohybu a súčasne predstavuje potenciálny substrát pre patologické
+
+2
+
+zmeny (Dylevský, 2009).
+Kĺbová chrupavka pokrýva artikulačné plochy kostí a zabezpečuje hladký pohyb s
+minimálnym trením. Je tvorená prevažne extracelulárnou matrix bohatou na kolagén typu II a
+proteoglykány, ktoré viažu vodu a poskytujú chrupavke jej typické viskoelastické vlastnosti.
+Chondrocyty, jediné bunky prítomné v chrupavke, udržiavajú rovnováhu medzi syntézou a
+degradáciou matrix. Pri RA dochádza k narušeniu tejto rovnováhy v prospech degradácie, čo
+vedie k progresívnemu úbytku chrupavkového tkaniva.
+Kĺbové puzdro pozostáva z dvoch vrstiev. Vonkajšia fibrózna vrstva (membrana fibrosa) je tvorená hustým väzivom bohatým na kolagénové vlákna typu I, ktoré zabezpečujú
+mechanickú stabilitu kĺbu. Vnútorná synoviálna vrstva (membrana synovialis) je pri RA
+miestom najintenzívnejších zápalových zmien. Za fyziologických podmienok je synoviálna
+membrána tenká, tvorená jednou až tromi vrstvami buniek – synoviocytov (Kolář, 2009).
+1.1.2
+
+Synoviálna membrána a jej úloha
+
+Synoviálna membrána je metabolicky aktívne tkanivo, ktoré produkuje synoviálnu
+tekutinu – viskózny ultrafiltrátt krvnej plazmy obohatený o kyselinu hyalurónovú. Táto tekutina plní niekol’ko kl’účových funkcií: lubrikáciu kĺbových povrchov, výživu avaskulárnej
+chrupavky difúziou živín a odstraňovanie metabolických produktov z kĺbovej dutiny.
+V synoviálnej membráne rozlišujeme dva hlavné typy buniek. Synoviocyty typu A
+majú makrofágový pôvod a zabezpečujú fagocytózu debris a imunitný dohl’ad. Synoviocyty
+typu B sú fibroblastového charakteru a produkujú komponenty synoviálnej tekutiny, najmä
+kyselinu hyalurónovú a lubricín. Pri RA dochádza k masívnej infiltrácii synoviálnej membrány imunitnými bunkami a transformácii rezidentných synoviocytov do agresívneho fenotypu (Smith, 2015).
+1.1.3
+
+Anatomické predilekčné miesta pri RA
+
+Reumatoidná artritída vykazuje charakteristickú predilekciu pre určité kĺbové skupiny, čo má diagnostický význam. Najčastejšie postihnuté sú metakarpofalangeálne (MCP)
+kĺby, proximálne interfalangeálne (PIP) kĺby rúk, zápästné kĺby a metatarzofalangeálne (MTP)
+kĺby nôh. Distálne interfalangeálne (DIP) kĺby sú typicky ušetrené, čo odlišuje RA od osteoartrózy a psoriatickej artritídy (Olejárová, 2008).
+Táto selektívna distribúcia postihnutia nie je náhodná. Drobné kĺby prstov obsahujú
+pomerne vel’kú synoviálnu membránu v pomere k vel’kosti kĺbu, čo poskytuje väčšiu plochu pre autoimunitnú reakciu. Navyše tieto kĺby sú vystavené opakovanému mechanickému
+stresu pri bežných denných činnostiach, čo môže potencovat’ zápalový proces (K. Pavelka;
+Rovenský et al., 2003).
+
+3
+
+1.2
+
+Epidemiológia
+
+Výskyt a rozšírenie RA sa líši podl’a diagnostických schém, pričom incidencia je
+vyššia u žien než u mužov, a to v 70 percentách prípadov. Prevalencia sa pohybuje okolo
+pol percenta až jedného percenta populácie, líši sa avšak podl’a regiónu a etnických skupín.
+Zatial’ čo v Amerike je prevalencia vyššia, v Afrike je práve naopak nižšia. RA je charakteristická výskytom vo veku 20 až 55 rokov; s novými štúdiami sa potvrdilo, že vzniká už aj v
+neskoršom štádiu veku (Rovenský, 2001; Rovenský, 1998).
+Podl’a odhadov v roku 2020 trpelo RA celosvetovo približne 17,6 milióna obyvatel’ov, po zohl’adnení vekovej štruktúry populácie sa odhaduje, že celosvetovo postihuje reumatoidná artritída približne 0,21 % l’udí. V porovnaní s rokom 1990 došlo k 14,1% nárastu
+počtu prípadov RA. Predpokladá sa, že do 25 rokov počet pacientov s RA stúpne na 31,7 milióna. Epidemiologické štúdie v Číne uvádzajú okolo 5 miliónov pacientov, čo predstavuje
+prevalenciu 0,42 % populácie (Gao et al., 2020; Rovenský, 2001; Rovenský, 1998).
+U starších pacientov zaznamenávame odlišné epidemiologické charakteristiky. Gerontorevmatológia poukazuje na špecifiká RA v geriatrickej populácii, kde ochorenie často
+nadobúda atypický klinický priebeh. Séropozitivita býva nižšia a diferenciálna diagnostika
+voči polymyalgii reumatike a osteoartróze je náročnejšia (Rovenský, 2014).
+1.3
+
+Etiológia a patofyziológia
+
+Súčasná veda nazerá na vznik reumatoidnej artritídy ako na viacstupňový proces, v
+ktorom dochádza k prelomeniu imunologickej tolerancie. Na začiatku stojí geneticky predisponovaný jedinec (nosič určitých alel HLA-DRB1), u ktorého environmentálny spúšt’ač – napríklad fajčenie, chronická parodontitída (baktéria Porphyromonas gingivalis) alebo
+zmeny v črevnom mikrobióme – naštartuje produkciu autoprotilátok. Tento predklinický stav
+môže trvat’ roky predtým, než sa objaví prvá synovitída. Kl’účovými biomarkerovými hráčmi
+v tomto procese sú reumatoidný faktor (RF) a protilátky proti cyklickému citrulínovanému
+peptidu (anti-CCP), ktorých prítomnost’ často predchádza klinickým symptómom (Shah et
+al., 2024; Scherer et al., 2020).
+1.3.1
+
+Autoimunitné mechanizmy
+
+Autoimunita predstavuje stav, pri ktorom imunitný systém stráca schopnost’ rozlišovat’ medzi vlastnými a cudzorodými antigénmi. Pri fyziologických podmienkach existujú
+viaceré kontrolné mechanizmy – centrálna a periférna tolerancia – zabraňujúce útoku na
+vlastné tkanivá. U pacientov s RA dochádza k zlyhaniu týchto mechanizmov na viacerých
+úrovniach (Buc, 2016).
+Genetická predispozícia zohráva kl’účovú úlohu v rozvoji autoimunitného procesu.
+Asociácia s hlavným histokompatibilným komplexom (MHC), konkrétne s určitými alelami HLA-DRB1 obsahujúcimi tzv. zdiel’aný epitop (shared epitope), je jedným z najsilnejších genetických rizikových faktorov. Tieto molekuly HLA prezentujú autoantigény T4
+
+lymfocytom, čím iniciujú patologickú imunitnú odpoved’ (Tak et al., 2011).
+Proces citrulinácie predstavuje ústredný mechanizmus v patogenéze RA. Ide o posttranslačnú modifikáciu proteínov, pri ktorej enzým peptidylarginín deimináza (PAD) konvertuje arginín na citrulín. Citrulínované proteíny sa stávajú neoantigénmi, voči ktorým organizmus vytvára protilátky (ACPA). Tieto autoprotilátky sa môžu objavit’ roky pred manifestáciou klinických príznakov a ich prítomnost’ je silným prediktorom erozívneho priebehu
+ochorenia (Choy, 2012).
+1.3.2
+
+Patofyziologická kaskáda
+
+V patofyziologickej kaskáde dominuje dysregulácia imunitného systému. Dochádza
+k patologickej aktivácii T-lymfocytov (najmä Th1 a Th17 subpopulácií), ktoré migrujú do
+kĺbovej výstelky. Tu prostredníctvom medzibunkovej komunikácie stimulujú makrofágy, Blymfocyty a fibroblasty k nadprodukcii prozápalových mediátorov. Vzniká tzv. cytokínová
+búrka, v ktorej dominujú tumor nekrotizujúci faktor alfa (TNF-α), interleukín-1 (IL-1) a
+interleukín-6 (IL-6). Tieto molekuly sú zodpovedné nielen za lokálny zápal a bolest’, ale
+aj za systémové prejavy, ako je únava, horúčka či tvorba reaktantov akútnej fázy v pečeni
+(CRP) (Gao et al., 2020).
+1.3.3
+
+Úloha synoviálnych fibroblastov
+
+Synoviálne fibroblasty, označované aj ako fibroblastom podobné synoviocyty (FLS),
+zohrávajú centrálnu úlohu v patogenéze RA. Na rozdiel od imunitných buniek, ktoré do kĺbu
+infiltrujú zvonka, FLS sú rezidentné bunky synoviálnej membrány, ktoré pri RA podliehajú
+fenotypovej transformácii. Nadobúdajú agresívne, nádoru podobné vlastnosti charakterizované zvýšenou proliferáciou, zníženou apoptózou a schopnost’ou invadovat’ do chrupavky a
+kosti (Smith, 2015).
+Aktivované FLS produkujú široké spektrum deštruktívnych enzýmov, predovšetkým
+matrix metaloproteinázy (MMP-1, MMP-3, MMP-13), ktoré degradujú kolagén a d’alšie
+komponenty extracelulárnej matrix. Súčasne sekretujú chemokíny prit’ahujúce d’alšie zápalové bunky a rastové faktory podporujúce angiogenézu v zapálenom tkanive. Tento autokriný
+a parakriný komunikačný systém vytvára sebaposilňujúci cyklus chronického zápalu (Smith,
+2015; Tak et al., 2011).
+1.3.4
+
+Tvorba panusu a deštrukcia kĺbu
+
+Chronická stimulácia vedie k transformácii synoviocytov, ktoré sa začínajú nekontrolovane množit’ a správat’ invazívne. Vytvára sa hypervaskularizované granulačné tkanivo – panus. Bunky panusu produkujú metaloproteinázy a iné enzýmy, ktoré doslova "trávia"kĺbovú chrupavku. Súčasne dochádza k aktivácii osteoklastov, buniek odbúravajúcich
+kost’, čo vedie k vzniku typických kostných erózií. Tento deštruktívny proces je nezvratný;
+raz zničenú chrupavku a kost’ organizmus nedokáže plnohodnotne regenerovat’, čo podčiar5
+
+kuje nutnost’ včasnej a agresívnej liečby (Rovenský, 2001; Isaacs et al., 2002).
+1.4
+
+Klinický obraz
+
+Klinická manifestácia RA je povestná svojou heterogenitou. U väčšiny pacientov
+(približne 70 %) sa ochorenie vkráda do života plazivo, nenápadne, v priebehu niekol’kých
+týždňov či mesiacov. Prvými príznakmi nemusia byt’ bolesti kĺbov, ale nešpecifické, prodromálne symptómy pripomínajúce virózu: nmerná únava, subfebrílie, nechutenstvo a mierny
+úbytok hmotnosti. Až následne sa pridružuje typická artikulárna symptomatológia. Dominantným znakom je ranná stuhnutost’ kĺbov. Na rozdiel od krátkodobej stuhnutosti pri artróze, pri RA tento stav trvá dlhšie než hodinu, často celé predpoludnie, a odznieva až po
+rozhýbaní. Stuhnutost’ je odrazom nahromadenia zápalového edému v kĺbe počas nočného
+pokoja (Němec, 2023).
+Artritída sa klinicky prejavuje klasickou päticou príznakov zápalu: bolest’ou (dolor),
+opuchom (tumor), zvýšenou teplotou kĺbu (calor) a poruchou funkcie (functio laesa); začervenanie (rubor) býva pri RA menej časté. Postihnutie je typicky polyartikulárne (zasahuje
+viac ako 3 kĺbové oblasti) a symetrické (postihuje rovnaké kĺby na oboch stranách tela).
+Predilekčnými lokalitami sú drobné kĺby ruky – metakarpofalangeálne (MCP) a proximálne
+interfalangeálne (PIP) kĺby, ako aj zápästia a metatarzofalangeálne (MTP) kĺby nohy. Distálne interfalangeálne kĺby (DIP) bývajú typicky ušetrené, čo je dôležitý diferenciačný znak
+oproti osteoartróze a psoriatickej artritíde (Němec, 2023; Rovenský, 2001).
+U menšej časti pacientov môže mat’ choroba akútny, búrlivý nástup, ktorý pacienta
+doslova pripúta na lôžko v priebehu niekol’kých dní. Ešte zriedkavejší je palindromatický
+reumatizmus, charakterizovaný krátkymi, opakujúcimi sa záchvatmi artritídy, ktoré nezanechávajú trvalé následky, no môžu prejst’ do klasickej RA. Zvláštnu pozornost’ si vyžaduje
+RA u starších l’udí, ktorá sa často prezentuje asymetrickým postihnutím vel’kých kĺbov,
+najmä ramenných pletencov (tzv. "shoulder-likeönset), čo môže viest’ k zámene s polymyalgiou reumaticou (Němec, 2023).
+1.4.1
+
+Kĺbové deformity a štrukturálne zmeny
+
+Dlhodobo neostatočne kontrolovaný zápal vedie k deštrukcii väzivového aparátu a
+kĺbových puzdier, čo má za následok vznik typických deformít. Tieto zmeny nie sú len kozmetickým defektom, ale vedú k t’ažkej funkčnej poruche úchopu a lokomočnej schopnosti
+(Olejárová; kol., 2016).
+Ruka a zápästie: Artikulárny komplex ruky je zrkadlom RA. Synovitída zápästia vedie k deštrukcii karpálnych kostičiek a väzov, čo často vyústi do volárnej subluxácie zápästia
+a instability. Častou komplikáciou je kompresia *nervus medianus* – syndróm karpálneho
+tunela. Na prstoch pozorujeme charakteristickú ulnárnu deviáciu (vybočenie prstov smerom
+k lakt’ovej kosti) v MCP kĺboch. Ďalšími typickými deformitami sú:
+• Deformita gombíkovej dierky (Boutonnière): Je charakterizovaná fixovanou flexiou
+6
+
+v PIP kĺbe a hyperextenziou v DIP kĺbe. Vzniká pretrhnutím centrálneho pruhu extenzorovej šl’achy.
+• Deformita labutej šije (Swan neck): Opačná situácia – hyperextenzia v PIP kĺbe a
+flexia v DIP kĺbe, spôsobená spazmom vnútorných svalov ruky a laxicitou volárnej
+platničky.
+Noha: Postihnutie nôh je časté a bolestivé. Dochádza k poklesu priečnej klenby,
+vzniku hallux valgus (vybočený palec) a kladivkových prstov (digiti mallei). Pod hlavičkami
+metatarzov sa tvoria bolestivé otlaky, ktoré pacientovi st’ažujú chôdzu a vyžadujú ortopedickú obuv.
+Vel’ké nosné kĺby: Koleno je postihnuté často, s tvorbou rozsiahlych výpotkov. Hypertrofická synovia alebo tekutina sa môže pretlačit’ do podkolennej jamky a vytvorit’ Bakerovu cystu, ktorej prasknutie imituje trombózu žíl lýtka. Bedrový kĺb býva postihnutý menej
+často, ale koxitída má tendenciu k rýchlej progresii a vyžaduje často totálnu endoprotézu.
+Chrbtica: Kritickou oblast’ou je krčná chrbtica. Zápal v okolí atlantoaxiálneho skĺbenia (C1-C2) môže viest’ k uvol’neniu väzov a instabilite. Tento stav je život ohrozujúci, pretože pri neopatrnom pohybe môže dôjst’ k útlaku miechy. Každý pacient s RA podstupujúci
+operáciu v celkovej anestézii musí mat’ RTG krčnej chrbtice na vylúčenie tejto komplikácie.
+
+Obr. 1.1: Schematické znázornenie typických deformít ruky pri pokročilej reumatoidnej artritíde. Zobrazená je ulnárna deviácia v MCP kĺboch a deformity prstov (Netter, 2014)
+
+7
+
+1.4.2
+
+Mimokĺbové (extraartikulárne) prejavy
+
+Reumatoidná artritída je systémové ochorenie par excellence. Prítomnost’ mimokĺbových prejavov signalizuje t’ažšiu formu ochorenia a horšiu prognózu (Rovenský, 2001).
+Reumatoidné uzly: Sú najčastejším extraartikulárnym prejavom, vyskytujúcim sa u
+20-30 % séropozitívnych pacientov. Sú to tuhé, nebolestivé podkožné útvary, ktoré sa tvoria
+najmä v miestach mechanického tlaku – nad lakt’ovým výbežkom (olecranon), na chrbte
+ruky či na achilovke.
+Očné postihnutie: Najbežnejšia je keratokonjunktivitída sicca (syndróm suchého
+oka) ako súčast’ sekundárneho Sjögrenovho syndrómu. Závažnejšou komplikáciou je skleritída alebo episkleritída, ktorá sa prejavuje bolestivým začervenaním oka a môže viest’ až
+k poškodeniu zraku.
+Pl’úcne postihnutie: Pl’úca sú častým terčom. Môže íst’ o pleuritídu (zápal pohrudnice) s výpotkom, alebo o závažnejšiu intersticiálnu pl’úcnu fibrózu, ktorá postupne znižuje
+dýchaciu kapacitu pl’úc.
+Vaskulitída: Reumatoidná vaskulitída je zápal ciev, ktorý môže viest’ k tvorbe kožných vredov, nekróz na prstoch alebo k postihnutiu nervov (mononeuritis multiplex). Je to
+vážna komplikácia vyžadujúca agresívnu liečbu.
+1.5
+
+Diagnostika
+
+Moderná reumatológia kladie dôraz na včasnú diagnostiku, tzv. ökno príležitosti"(window
+of opportunity). Ciel’om je zachytit’ ochorenie v jeho počiatkoch, kedy je terapeutická intervencia najúčinnejšia a dokáže zabránit’ trvalému poškodeniu kĺbov. Diagnostický proces je
+komplexný a vychádza zo syntézy klinického obrazu, laboratórnych výsledkov a zobrazovacích metód. Zlatým štandardom sú v súčasnosti klasifikačné kritériá ACR/EULAR z roku
+2010, ktoré boli vyvinuté práve pre záchyt včasných štádií artritídy (Aletaha et al., 2010).
+Bodovací systém kritérií hodnotí štyri domény, pričom na potvrdenie diagnózy "jednoznačnej RA"je potrebný súčet 6 a viac bodov z maximálnych 10:
+1. Postihnutie kĺbov (0 – 5 bodov): Dôraz sa kladie na počet a typ postihnutých kĺbov.
+Najvyššie bodové ohodnotenie (5 bodov) získava pacient s postihnutím viac ako 10
+kĺbov, pričom aspoň jeden z nich musí byt’ malý kĺb.
+2. Sérológia (0 – 3 body): Prítomnost’ reumatoidných faktorov (RF) a protilátok proti
+citrulínovaným peptidom (ACPA/anti-CCP). Vysoké titre týchto protilátok sú vysoko
+špecifické pre RA a prognosticky nepriaznivé.
+3. Reaktanty akútnej fázy (0 – 1 bod): Laboratórny dôkaz systémového zápalu – zvýšená sedimentácia erytrocytov (FW) alebo C-reaktívny proteín (CRP).
+4. Trvanie symptómov (0 – 1 bod): Pretrvávanie t’ažkostí dlhšie ako 6 týždňov odlišuje
+chronickú artritídu od prechodných vírusových artralgií.
+8
+
+Okrem klasického röntgenového vyšetrenia (RTG), ktoré v skorom štádiu môže byt’
+negatívne, sa dnes do popredia dostávajú senzitívnejšie metódy. Ultrasonografia (USG) kĺbov
+s Power Doppler módom dokáže zobrazit’ synoviálny zápal a prekrvenie skôr, než dôjde k
+poškodeniu kosti. Magnetická rezonancia (MRI) je najcitlivejšou metódou na detekciu kostného edému, ktorý je predzvest’ou budúcich erózií (Smolen et al., 2018).
+1.6
+
+Komplikácie reumatoidnej artritídy
+
+Je nevyhnutné vnímat’ RA nielen ako izolovanú artropatiu, ale ako komplexnú systémovú chorobu, ktorej zápalový potenciál indukuje rad závažných komorbidít a komplikácií,
+majúcich zásadný vplyv na morbiditu a predčasnú mortalitu postihnutých jedincov. Tieto
+nežiaduce stavy môžu pramenit’ priamo z aktivity základného ochorenia alebo môžu byt’
+iatrogénnym následkom dlhodobej imunosupresívnej liečby (Smolen et al., 2018).
+1.6.1
+
+Kardiovaskulárne komplikácie
+
+Epidemiologické štúdie konzistentne potvrdzujú, že populácia s RA čelí markantne
+vyššiemu riziku kardiovaskulárnych príhod (približne 1,5 až 2-násobne) v porovnaní so zdravou populáciou. Práve kardiovaskulárne zlyhanie je hlavnou príčinou skrátenia dĺžky života
+u týchto pacientov. Pretrvávajúci systémový zápal poškodzuje endotelovú výstelku ciev a
+akceleruje aterosklerotické procesy, čo vyúst’uje do zvýšenej incidencie infarktu myokardu,
+cievnych mozgových príhod a kongestívneho srdcového zlyhania (Smolen et al., 2018).
+Mechanizmy kardiovaskulárneho poškodenia
+Patofyziologický vzt’ah medzi reumatoidnou artritídou a kardiovaskulárnym ochorením je komplexný a zahŕňa viaceré mechanizmy. Chronický systémový zápal prispieva k
+endotelovej dysfunkcii – počiatočnému štádiu aterosklerózy. Prozápalové cytokíny (TNF-α,
+IL-6) aktivujú endotelové bunky, čím podporujú adhéziu monocytov a ich transmigráciu do
+cievnej steny. Výsledkom je formácia aterómových plátov, ktoré sú u pacientov s RA často
+menej stabilné a náchylnejšie na ruptúru (Freedman et al., 2014).
+Rizikový profil je navyše zhoršený prítomnost’ou konvenčných faktorov, ako sú hypertenzia a dyslipidémia, ktoré môžu byt’ potencované terapiou kortikoidmi a nesteroidnými
+antireumatikami (NSA). Z klinického hl’adiska je významná aj perikarditída, ktorá hoci často
+prebieha asymptomaticky, môže byt’ detegovaná echokardiograficky. Striktný manažment
+krvného tlaku a lipidov je preto imperatívom (Smolen et al., 2018; Freedman et al., 2014).
+Preventívne stratégie
+Prevencia kardiovaskulárnych príhod u pacientov s RA vyžaduje komplexný prístup.
+Na prvom mieste je efektívna kontrola zápalovej aktivity základného ochorenia – pacienti
+v remisii majú významne nižšie kardiovaskulárne riziko. Ďalej je potrebný striktný manažment tradičných rizikových faktorov vrátane liečby hypertenzie, dyslipidémie a diabetu. Od9
+
+porúča sa používat’ modifikované skórovacie systémy (SCORE) s korekčným faktorom 1,5
+pre pacientov s RA. Významná je aj úloha pravidelnej fyzickej aktivity, ktorá nielen zlepšuje
+kardiovaskulárnu kondíciu, ale má aj protizápalové účinky (Freedman et al., 2014).
+1.6.2
+
+Osteoporóza a fraktúry
+
+Demineralizácia kostného tkaniva, osteoporóza, predstavuje jednu z najčastejších extraartikulárnych komplikácií s komplexnou etiológiou. V patogenéze rozlišujeme lokálnu
+periartikulárnu osteoporózu, ktorá je priamym následkom pôsobenia prozápalových cytokínov v okolí postihnutého kĺbu, a generalizovanú systémovú osteoporózu. Na jej vzniku
+sa podiel’a synergický efekt chronického zápalu, imobilizácie pacienta (zníženie mechanickej zát’aže kosti pre bolest’) a najmä dlhodobej kortikoterapie, ktorá inhibuje osteoblastickú
+aktivitu a redukuje intestinálnu resorpciu vápnika. Dôsledkom je zvýšená fragilita skeletu a
+vysoké riziko patologických fraktúr, predovšetkým stavcov a proximálneho femuru, čo vedie
+k d’alšiemu zhoršeniu funkčného stavu (Karel Pavelka et al., 2018).
+1.6.3
+
+Infekčné komplikácie
+
+Dysfunkcia imunitného dohl’adu, ktorá je inherentnou súčast’ou patofyziológie RA,
+v kombinácii s účinkami potentných imunosupresív (vrátane biologík), robí pacientov zranitel’nými voči infekčným agens. Infekcie respiračného traktu (pneumónie), urogenitálneho
+systému a kože majú u týchto pacientov tendenciu k t’ažšiemu priebehu a častejším komplikáciám. Pri liečbe inhibítormi TNF-α existuje špecifické riziko reaktivácie latentnej tuberkulózy alebo chronickej hepatitídy B, čo vyžaduje prísny skríning pred zahájením liečby.
+Zvýšená je aj incidencia herpes zoster. Vakcinácia proti chrípke a pneumokokom je preto
+kl’účovou preventívnou stratégiou (Macejová, 2019).
+1.6.4
+
+Pl’úcne a hematologické komplikácie
+
+Pl’úcne prejavy sú častou viscerálnou manifestáciou RA. Môžu mat’ formu intersticiálnej pl’úcnej choroby (ILD), ktorá progreduje do nezvratnej fibrózy, pleurálnych výpotkov
+alebo reumatoidných uzlov v pl’úcnom parenchýme (v kombinácii s pneumokoniózou známe
+ako Caplanov syndróm). Klinickým korulátom je progredujúca dyspnoe a suchý, dráždivý
+kašel’. V krvnom obraze dominuje normocytárna anémia chronických chorôb, mechanizmom ktorej je hepcidínom sprostredkovaná blokáda metabolizmu železa. Zriedkavou, no život ohrozujúcou entitou je Feltyho syndróm (triáda: RA, splenomegália, granulocytopénia),
+ktorý extrémne zvyšuje náchylnost’ na fulminantné bakteriálne infekcie (Rovenský, 2001).
+Intersticiálne ochorenie pl’úc pri RA
+Intersticiálne ochorenie pl’úc asociované s reumatoidnou artritídou (RA-ILD) predstavuje závažnú extraartikulárnu manifestáciu, ktorá významne zhoršuje prognózu pacientov.
+Prevalencia subklinického postihnutia pl’úc detegovaného pomocou vysokorozlišovacieho
+10
+
+CT (HRCT) dosahuje až 60 percent, pričom klinicky manifestná forma sa vyskytuje u 10 až
+30 percent chorých. Rizikové faktory zahŕňajú mužské pohlavie, vyšší vek, fajčenie, vysoké
+titre ACPA protilátok a prítomnost’ reumatoidných uzlov (Kadura et al., 2021).
+Patogenéza RA-ILD zahŕňa komplexnú interakciu genetických faktorov, autoimunitných mechanizmov a environmentálnych vplyvov. Cytokíny produkované v rámci systémového zápalu, najmä TNF-alfa, IL-6 a transformujúci rastový faktor beta (TGF-β ), stimulujú
+proliferáciu fibroblastov a nadmernú depozíciu kolagénu v pl’úcnom interstíciu. Histopatologicky prevláda obraz obvyklej intersticiálnej pneumónie (UIP) alebo nešpecifickej intersticiálnej pneumónie (NSIP) (Kadura et al., 2021; Klener, 2011).
+Manažment RA-ILD vyžaduje multidisciplinárny prístup zahŕňajúci reumatológa a
+pneumológa. Terapeutické možnosti sú limitované; niektoré DMARDs (napr. metotrexát)
+môžu potenciálne zhoršit’ pl’úcne postihnutie, zatial’ čo iné (rituximab, abatacept) sa javia
+ako bezpečnejšie. V pokročilých štádiách prichádza do úvahy antifibrotická liečba pirfenidónom alebo nintedanibom (Kadura et al., 2021).
+1.6.5
+
+Metabolické poruchy pri RA
+
+Vzt’ah medzi reumatoidnou artritídou a metabolickými poruchami je bidirecionálny a
+komplexný. Chronický zápal pri RA negatívne ovplyvňuje metabolické parametre, zatial’ čo
+metabolický syndróm zhoršuje zápalovú aktivitu a komplikuje liečbu základného ochorenia
+(Kašperová et al., 2021).
+Inzulínová rezistencia a diabetes mellitus
+Pacienti s RA majú zvýšené riziko rozvoja diabetes mellitus 2. typu v porovnaní s
+bežnou populáciou. Prozápalové cytokíny, predovšetkým TNF-α a IL-6, interferujú so signálnou dráhou inzulínu na úrovni inzulínového receptorového substrátu (IRS-1), čo vedie
+k rozvoju inzulínovej rezistencie. Situáciu d’alej komplikuje dlhodobá kortikoterapia, ktorá
+priamo zvyšuje glykémiu a podporuje viscerálnu obezitu (Kašperová et al., 2021).
+Dyslipidémia a ateroskleróza
+Lipidový profil u pacientov s aktívnou RA vykazuje charakteristické zmeny označované ako "lipidový paradox". Napriek nízkym hodnotám celkového cholesterolu a LDLcholesterolu (ktoré sú konzumované zápalovým procesom) je kardiovaskulárne riziko zvýšené. Príčinou sú kvalitatívne zmeny lipoproteínov – oxidácia LDL častíc a znížená antiaterogénna aktivita HDL cholesterolu. Efektívna kontrola zápalovej aktivity pomocou DMARDs
+vedie k paradoxnému zvýšeniu hladín lipidov, čo však reflektuje zlepšenie metabolického
+stavu (Freedman et al., 2014; Kašperová et al., 2021).
+
+11
+
+Reumatická kachexia
+Osobitným metabolickým fenoménom pri RA je reumatická kachexia, charakterizovaná stratou svalovej hmoty pri zachovanej alebo dokonca zvýšenej tukovej hmote. Na
+rozdiel od klasickej kachexie pri malígnych ochoreniach, telesná hmotnost’ môže zostat’ nezmenená, čo maskuje závažný úbytok svalstva. Patofyziologicky sa uplatňuje katabolický
+efekt prozápalových cytokínov, znížená fyzická aktivita pre bolest’ a artritídu a niekedy aj
+nedostatočný príjem bielkovín. Dôsledkom je svalová slabost’, zhoršená funkčná kapacita a
+zvýšené riziko pádov (Klener, 2011).
+Dopad reumatoidnej artritídy na kvalitu života (QoL) je devastačný a multodimenzionálny, zasahujúci d’aleko za hranice fyzickej disability. WHO definuje zdravie ako stav
+kompletnej bio-psycho-sociálnej pohody, čo je ideál, ktorý je u pacientov s RA často nedosiahnutel’ný (Krchňavá et al., 2018).
+1.6.6
+
+Fyzická a funkčná doména
+
+Kl’účovými faktormi, ktoré negatívne determinujú QoL, sú perzistujúca bolest’, patologická únava a ranná stuhnutost’. Bolest’, prítomná v pokoji aj pri aktivite, narúša spánkovú
+architektúru a vedie k syndrómu chronického vyčerpania (fatigue), ktorý pacienti často hodnotia ako viac limitujúci než bolest’ samotnú. Ranná stuhnutost’, trvajúca nezriedka hodiny,
+blokuje ranné rutinné činnosti. Progresívna strata kĺbových rozsahov a svalovej sily znemožňuje sebaobsluhu (hygiena, obliekanie), čo vedie k závislosti na pomoci druhej osoby, strate
+autonómie a pocitom bezmocnosti. Vzniká tak circulus vitiosus: bolest’ – inaktivita – atrofia
+– zhoršenie funkcie (Krchňavá et al., 2018).
+1.6.7
+
+Psychologická doména
+
+Chronický, celoživotný charakter choroby s nepredvídatel’ným striedaním relapsov
+a remisií, spolu s hrozbou trvalého postihnutia, generuje u pacientov chronickú úzkost’ a
+depresívne poruchy. Prevalencia depresie sa odhaduje na 15 – 40 %, pričom je známe, že
+depresia znižuje prah bolesti a zhoršuje adherenciu k liečbe. Významným faktorom je aj
+alterácia telesného obrazu (body image) v dôsledku viditel’ných deformít, čo vedie k sociálnemu stiahnutiu. Pacienti často zažívajú fenomén "naučenej bezmocnostiä stratu identity
+(Olejárová; kol., 2016).
+1.6.8
+
+Sociálna a ekonomická doména
+
+RA postihuje jedincov na vrchole produktívneho veku, čo vedie k vysokej miere invalidizácie a strate pracovnej schopnosti. Absencia príjmu prináša ekonomickú instabilitu.
+Znížená mobilita vedie k sociálnej izolácii a zanechaniu zál’ub. Ochorenie mení dynamiku
+rodinných vzt’ahov, ked’ sú partneri nútení prevziat’ rolu opatrovatel’ov. Úlohou fyzioterapie je prostredníctvom edukácie a tréningu kompenzačných mechanizmov maximalizovat’
+funkčnú nezávislost’ a tým zlepšit’ QoL (Krchňavá et al., 2018; Poliaková et al., 2019).
+12
+
+1.7
+
+Diferenciálna diagnostika
+
+Proces diferenciálnej diagnostiky pri RA je intelektuálnou výzvou, ktorá vyžaduje
+rigorózne vylúčenie iných nozologických jednotiek s prekrývajúcou sa symptomatológiou.
+Správna a včasná diferenciácia je sine qua non pre vol’bu adekvátnej terapie, nakol’ko liečebné prístupy sa pri jednotlivých ochoreniach diametrálne líšia (Karel Pavelka et al., 2018).
+1.7.1
+
+Osteoartróza (OA)
+
+Osteoartróza je najčastejším ïmitátorom"RA, predovšetkým u geriatrickej populácie.
+Na rozdiel od RA, ktorá je primárne zápalovým ochorením, je OA degeneratívny proces
+spojený s opotrebovaním chrupavky.
+• Charakter bolesti: Pri OA je bolest’ mechanická – zhoršuje sa námahou a v pokoji
+ustupuje. Pri RA je bolest’ zápalová, prítomná aj v kl’ude.
+• Stuhnutost’: Pri OA je krátka, "štartovacia"(do 30 minút). Pri RA je dlhodobá.
+• Lokalizácia: OA postihuje typicky DIP kĺby (Heberdenove uzly), PIP kĺby (Bouchardove uzly) a kĺb palca ruky (rhizartróza). RA postihuje MCP kĺby a zápästie.
+• Laboratórium: Pri OA sú zápalové markery (CRP, FW) v norme (Olejárová; kol.,
+2016).
+1.7.2
+
+Séronegatívne spondyloartritídy
+
+Ide o skupinu zápalových ochorení, pre ktoré je typická neprítomnost’ reumatoidného
+faktora a väzba na antigén HLA-B27.
+1. Psoriatická artritída (PsA): Môže byt’ klinicky vel’mi podobná RA. Typickými diferenciačnými znakmi sú prítomnost’ psoriázy na koži (hoci artritída môže predchádzat’
+kožným prejavom), postihnutie DIP kĺbov, daktylitída (párkovitý opuch celého prsta) a
+zmeny na nechtoch (jamky, onycholýza). Na RTG vidíme súčasne erózie aj novotvorbu
+kosti (Macejová, 2019).
+2. Ankylózujúca spondylitída (Bechterevova choroba): Dominuje postihnutie axiálneho skeletu – zápalová bolest’ chrbta a sakroiliitída. Periférna artritída je zvyčajne
+asymetrická a týka sa vel’kých kĺbov dolných končatín (Gravaldi et al., 2022).
+3. Reaktívna artritída: Vzniká v časovej súvislosti s prekonanou urogenitálnou alebo
+črevnou infekciou. Klasická Reiterova triáda zahŕňa artritídu, uretritídu a konjunktivitídu (Scherer et al., 2020).
+1.7.3
+
+Kryštálové artropatie (Dna)
+
+Dnavá artritída je metabolické ochorenie spôsobené depozíciou kryštálov nátriumurátu v kĺboch.
+13
+
+• Priebeh: Typický je akútny, perakútny dnavý záchvat s extrémne silnou bolest’ou,
+opuchom a začervenaním, ktorý vzniká náhle, často v noci ("podagra"– postihnutie
+MTP kĺbu palca nohy).
+• Chronická forma: Tofózna dna môže imitovat’ RA prítomnost’ou uzlov (tofov) a erózií, ale rozlíšenie umožní punkcia synoviálnej tekutiny a dôkaz kryštálov (Rovenský,
+2001).
+1.7.4
+
+Systémový lupus erythematosus (SLE)
+SLE je multisystémové autoimunitné ochorenie.
+
+• Kĺby: Artritída pri SLE býva polyartikulárna a symetrická ako pri RA, ale je typicky
+neerozívna (Jaccoudova artropatia) – neničí kost’, hoci spôsobuje deformity.
+• Ostatné príznaky: Fotosenzitivita, motýl’ovitý exantém na tvári, postihnutie obličiek
+(nefritída), serozitídy. Typická je prítomnost’ anti-dsDNA a anti-Sm protilátok (Rovenský et al., 2015).
+1.8
+
+Terapia reumatoidnej artritídy
+
+Manažment RA prešiel v posledných dvoch dekádach revolučnými zmenami. Súčasná stratégia je založená na koncepte "Treat to Target" (liečba k ciel’u), ktorého imperatívom je dosiahnutie klinickej remisie alebo aspoň stavu nízkej aktivity choroby v čo
+najkratšom čase. Tento prístup si vyžaduje proaktívnu úpravu liečby a úzku spoluprácu reumatológa, pacienta a rehabilitačného tímu (Smolen et al., 2018).
+1.8.1
+
+Farmakologická liečba
+
+Farmakoterapia zostáva pilierom liečby a delí sa na symptomatickú, ktorá len tlmí
+prejavy, a chorobu modifikujúcu, ktorá mení priebeh ochorenia.
+Symptomatická liečba (NSA a Kortikoidy)
+Tieto lieky poskytujú pacientovi rýchlu úl’avu, ale neriešia podstatu – nezastavujú
+kĺbovú deštrukciu.
+• Nesteroidné antiflogistiká (NSA): Efektívne tlmia bolest’ a rannú stuhnutost’ inhibíciou enzýmov cyklooxygenázy. Ich dlhodobé užívanie je však limitované rizikom
+gastropatie (vredy), kardiovaskulárnych príhod a renálneho poškodenia.
+• Glukokortikoidy: Majú silný a rýchly protizápalový efekt. Využívajú sa najmä ako
+premost’ujúca liečba (bridging therapy) vo včasných štádiách alebo pri vzplanutiach.
+Pre riziko závažných nežiaducich účinkov (osteoporóza, diabetes, hypertenzia, katarakta) je snahou podávat’ čo najnižšiu účinnú dávku čo najkratší čas (Olejárová; kol.,
+2016).
+14
+
+Chorobu modifikujúce lieky (DMARDs)
+DMARDs (Disease Modifying Antirheumatic Drugs) zasahujú priamo do patogenetických mechanizmov a spomal’ujú rádiografickú progresiu.
+1. Konvenčné syntetické DMARDs (csDMARDs): Metotrexát je "zlatým štandardomä
+liekom prvej vol’by. Pôsobí ako antagonista kyseliny listovej. K d’alším liekom patria
+leflunomid, sulfasalazín a antimalariká (hydroxychlorochín).
+2. Biologické DMARDs (bDMARDs): Sú to geneticky inžinierované proteíny, ktoré
+cielene blokujú špecifické cytokíny alebo bunky. Sú indikované pri zlyhaní konvenčnej
+liečby. Patrí sem:
+• anti-TNF liečba (Adalimumab, Infliximab),
+• blokátory IL-6 (Tocilizumab),
+• B-bunková deplécia (Rituximab),
+• modulátory kostimulácie T-buniek (Abatacept).
+3. Cielené syntetické DMARDs (tsDMARDs): Ide o tzv. malé molekuly (inhibítory
+JAK-kináz – tofacitinib, baricitinib), ktoré sa podávajú perorálne a blokujú vnútrobunkový prenos signálu. Sú rovnako účinné ako biologiká (Scherer et al., 2020).
+1.9
+
+Komplexná rehabilitácia
+
+Rehabilitácia je neoddelitel’nou súčast’ou terapeutického plánu. Zatial’ čo farmakoterapia kontroluje zápal, rehabilitácia rieši funkčné dopady ochorenia. Jej ciel’om je udržat’
+rozsah pohybu, svalovú silu, zmiernit’ bolest’ a naučit’ pacienta žit’ s chorobou tak, aby bol
+čo najdlhšie sebestačný (Kolář; kol., 2012).
+1.9.1
+
+Kinezioterapia a liečebná telesná výchova
+
+Pohybová liečba (LTV) musí byt’ prísne individuálna a rešpektovat’ aktuálnu aktivitu ochorenia (akútne vs. chronické štádium). Nedávne systematické prehl’ady a metaanalýzy potvrdzujú, že pravidelné cvičenie je bezpečné a má signifikantný pozitívny vplyv
+na funkčnú kapacitu a aeróbnu zdatnost’ bez zhoršenia aktivity ochorenia alebo poškodenia
+kĺbov (Zhang et al., 2025; Metsios et al., 2020).
+Cvičenie v akútnom štádiu V čase exacerbácie (vzplanutia) zápalu je prioritou ochrana
+kĺbu (Kolář; kol., 2012).
+• Polohovanie: Kĺby sa polohujú vo funkčne výhodných postaveniach na prevenciu
+flekčných kontraktúr.
+
+15
+
+• Pasívne pohyby: Vykonávajú sa opatrne do prahu bolesti na udržanie kĺbovej vôl’e a
+výživy chrupavky.
+• Izometrické cvičenie: Svalové kontrakcie bez zmeny dĺžky svalu sú kl’účové na prevenciu rýchlej svalovej atrofie, ktorá sprevádza zápal.
+(Kolář; kol., 2012; Navrátil et al., 2019)
+Cvičenie v chronickom štádiu a remisii V tomto období je ciel’om obnova funkcie a
+kondície (Metsios et al., 2020).
+1. Aeróbny tréning: Chôdza, cyklistika, plávanie. Odporúča sa stredná intenzita (60 –
+70 % maximálnej tepovej frekvencie) 30 minút denne. Aeróbne cvičenie znižuje kardiovaskulárne riziko, ktoré je u pacientov s RA zvýšené, a redukuje únavu (Metsios
+et al., 2020).
+2. Silový tréning: Cvičenie proti odporu (s pružnými t’ahmi Thera-Band, l’ahkými činkami) je nevyhnutné na boj proti reumatickej kachexii (úbytku svalovej hmoty). Štúdie
+ukazujú, že dynamický silový tréning je bezpečný a vedie k zlepšeniu svalovej sily a
+funkčnej schopnosti (Zhang et al., 2025).
+3. Cvičenie ruky: Špecifické posilňovacie a mobilizačné cvičenia pre drobné kĺby ruky
+(program SARAH) zlepšujú silu úchopu a manuálnu zručnost’ efektívnejšie ako bežná
+starostlivost’ (Williams et al., 2015).
+High-intensity interval training Vysokointenzívny intervalový tréning (HIIT) predstavuje inovatívny prístup, ktorý bol dlho považovaný za nevhodný pre pacientov so zápalovými artropatiami. Nedávne randomizované kontrolované štúdie však priniesli prekvapivé
+zistenia. Štúdia ExeHeart preukázala, že HIIT v primárnej fyzioterapeutickej starostlivosti
+je bezpečný a efektívny u pacientov so zápalovou artritídou vrátane RA. Výsledky naznačujú zlepšenie aeróbnej kapacity a kardiovaskulárnych parametrov bez zhoršenia zápalovej
+aktivity ochorenia (Nordén et al., 2024).
+Kl’účom k úspešnej implementácii HIIT u pacientov s RA je individuálna adaptácia protokolu. Intervaly vysokej intenzity by mali byt’ kratšie a odpočinkové fázy dlhšie v
+porovnaní so zdravou populáciou. Cvičenie by malo prebiehat’ na nebolestivých kĺboch s
+preferenciou aktivít s nízkou nárazovou zát’ažou, ako je cyklistika alebo plávanie (Nordén
+et al., 2024; Metsios et al., 2020).
+Podpora zmeny životného štýlu Fyzioterapeutom vedené intervencie zamerané na zmenu
+správania (behavior change interventions) sa ukazujú ako sl’ubný prístup na zvýšenie dlhodobej adherencie k pohybovej aktivite. Štúdia PIPPRA preukázala realizovatel’nost’ takejto
+16
+
+intervencie u pacientov s RA. Kombinácia edukácie, stanovenia individuálnych ciel’ov a pravidelného follow-upu vedie k udržatel’nému zvýšeniu fyzickej aktivity (Larkin et al., 2024).
+1.9.2
+
+Efektívnost’ fyzioterapie pri RA
+
+Systematické prehl’ady a meta-analýzy poskytujú vysokú úroveň dôkazov pre účinnost’ fyzioterapie v manažmente RA. Najnovší systematický prehl’ad analyzujúci randomizované kontrolované štúdie dospel k záveru, že fyzioterapeutická intervencia vedie k signifikantnému zmierneniu bolesti a zlepšeniu funkčných parametrov u pacientov s RA (El
+Ammare et al., 2023).
+Špecificky pre rehabilitáciu pri reumatických ochoreniach existujú štandardizované
+protokoly zahŕňajúce kombináciu kinezioterapie, fyzikálnych procedúr a edukácie. Komplexný rehabilitačný program by mal byt’ zostavený multidisciplinárnym tímom a prispôsobený individuálnym potrebám pacienta, fáze ochorenia a prítomnosti komorbidít (Jarošová
+et al., 2018).
+1.9.3
+
+Fyzikálna terapia
+
+Fyzikálna terapia predstavuje integrálnu súčast’ rehabilitačného programu pri RA.
+Jej základným princípom je využitie fyzikálnych podnetov – tepla, chladu, elektrických impulzov, svetla a mechanickej energie – na dosiahnutie terapeutických účinkov v ciel’ových
+tkanivách. Tieto procedúry primárne slúžia ako príprava pred kinezioterapiou, pričom ich
+analgezujúci a myorelaxačný efekt umožňuje pacientovi efektívnejšie cvičit’ (Kraft, 2018;
+Křížová, 2014).
+Termoterapia
+Aplikácia tepla (hypertermoterapia) nachádza uplatnenie predovšetkým v chronickom štádiu ochorenia. Teplo spôsobuje vazodilatáciu, zlepšuje perfúziu tkanív a uvol’ňuje
+svalový spazmus. Najčastejšie využívané modality zahŕňajú parafínové zábaly, ktoré sú obzvlášt’ vhodné pre drobné kĺby rúk, a solux lamp. V akútnom štádiu zápalu je naopak indikovaná kryoterapia (chlad), ktorá tlmí zápalovú reakciu a znižuje opuch (Vavrová et al.,
+2016).
+Elektroliečba
+Elektroterapeutické modality majú v liečbe RA dlhodobú tradíciu. TENS (transkutánna elektrická nervová stimulácia) poskytuje analgéziu prostredníctvom vrátkového mechanizmu tlmenia bolesti. Interferenčné prúdy (IFP) kombinujú výhody stredofrekvenčných
+a nízkofrekvenčných prúdov a sú suverénnou modalitou pre hlboko uložené kĺby. Podrobnejšie o IFP pojednáva samostatná kapitola tejto práce (Poděbradský et al., 2009; Navrátil
+et al., 2019).
+
+17
+
+Fototerapia a mechanoterapia
+Nízkohladinový laser (LLLT) a ultrazvuk podporujú hojivé procesy v mäkkých tkanivách prostredníctvom fotobiomodulačných a termických účinkov. Tieto modality sú vhodné
+pri tendosynovitíde, entezopatii a na podporu hojenia po artikulárnych injekciách (Poděbradský et al., 2009).
+1.9.4
+
+Balneoterapia a kúpel’ná liečba
+
+Významnou súčast’ou komplexnej starostlivosti o pacientov s RA je balneoterapia,
+ktorá má v našich podmienkach dlhoročnú tradíciu. Ide o využitie prírodných liečivých vôd,
+peloidov (bahna) a klimatických faktorov. Podl’a najnovšej meta-analýzy, ktorú publikovala
+Aribi et al. (2025), prináša balneoterapia signifikantné zlepšenie v redukcii bolesti a zlepšení
+kvality života (QoL) u pacientov s reumatickými ochoreniami. Efekt nie je len placebo; termálne minerálne vody pôsobia chemicky (cez kožu sa vstrebávajú minerály ako síra, jód) a
+fyzikálne (teplo, vztlak). Verhagen et al. (2015) v Cochrane systematickom prehl’ade potvrdzujú, že "kúpel’ná liečba"(Spa therapy) má pozitívny vplyv na funkčnú kapacitu pacientov s
+RA, pričom benefity pretrvávajú 3 až 6 mesiacov po ukončení liečebného pobytu. Špecifický
+význam majú sírne vody (napr. Piešt’any, Trenčianske Teplice). Štúdia autorov Zapolski et
+al. (2024) poukázala na to, že sírne kúpele nielen tlmia zápal, ale majú aj pozitívny vplyv na
+kardiovaskulárne parametre, čo je u RA pacientov (často trpiacich aterosklerózou) kl’účové.
+Mechanizmus účinku zahŕňa pravdepodobne aj moduláciu oxidačného stresu. Wator
+˛ (2020)
+uvádzajú, že balneochemické vlastnosti vôd ovplyvňujú redoxný potenciál v tkanivách, čím
+napomáhajú neutralizácii vol’ných radikálov vznikajúcich pri chronickom zápale.
+1.9.5
+
+Ergoterapia a ochrana kĺbov
+
+Ergoterapia učí pacienta techniky "Joint Protection"– ako vykonávat’ bežné činnosti
+bez zbytočného pret’ažovania kĺbov. Zahŕňa používanie dlahovania na prevenciu deformít,
+úpravu domáceho prostredia a používanie kompenzačných pomôcok (napr. špeciálne otvárače, zosilnené rúčky príborov), ktoré šetria drobné kĺby ruky a umožňujú pacientovi zostat’
+nezávislým (Herbert et al., 2022).
+Rehabilitačné ošetrovatel’stvo dopĺňa ergoterapeutickú intervenciu o nácvik základných sebaobslužných aktivít u pacientov s t’ažkými poruchami hybnosti. Ciel’om je maximalizácia funkčnej nezávislosti a prevencia sekundárnych komplikácií z imobility (Klusoňová
+et al., 2014).
+1.9.6
+
+Rehabilitácia a reumatológia – interdisciplinárna spolupráca
+
+Optimálny manažment pacienta s RA vyžaduje koordinovanú spoluprácu reumatológa, fyzioterapeuta, ergoterapeuta, rehabilitačného lekára a d’alších špecialistov. Rehabilitačná intervencia by mala byt’ integrovaná do liečebného plánu od momentu stanovenia
+diagnózy a nie až po rozvoji ireverzibilných deformít (Gúth, 2010).
+18
+
+Včasná rehabilitácia zahŕňa nielen kinezioterapiu a fyzikálnu liečbu, ale aj edukáciu
+pacienta o ochorení, nácvik kompenzačných stratégií a psychologickú podporu. Pacient by
+mal byt’ aktívnym partnerom v liečebnom procese a mat’ realistické očakávania ohl’adom
+priebehu ochorenia a možností terapie (Gúth, 2010; Špiritović, 2018).
+1.10
+
+Prognóza reumatoidnej artritídy
+
+Prognóza RA je vysoko variabilná a závisí od množstva faktorov. Identifikácia prognostických markerov umožňuje stratifikovat’ pacientov podl’a rizika a prispôsobit’ intenzitu
+liečby (Wolfe et al., 2010).
+1.10.1
+
+Faktory ovplyvňujúce dlhodobý výsledok
+
+Nepriaznivé prognostické faktory zahŕňajú vysoké titre reumatoidného faktora a antiCCP protilátok, prítomnost’ erozívnych zmien v skorom štádiu ochorenia, extraartikulárne
+manifestácie, vysokú zápalovú aktivitu a funkčnú disabilitu na začiatku choroby. Ženy majú
+všeobecne horšiu prognózu než muži a genetické faktory (HLA-DR4) sú spojené s agresívnejším priebehom (Wolfe et al., 2010).
+Včasné zahájenie liečby DMARDs, dosiahnutie remisie do 6 mesiacov od začiatku
+symptómov a striktná kontrola zápalovej aktivity ("Treat to Target") signifikantne zlepšujú
+dlhodobé výsledky. Pacienti, ktorí dosiahnu remisiu v ökne príležitosti", majú dobré šance
+na dlhodobé funkčné zachovanie bez významného štrukturálneho poškodenia (K. Pavelka,
+2012; McCarthy et al., 2018).
+1.10.2
+
+Mortalita a kvalita života
+
+Napriek pokrokom v terapii zostáva stredná dĺžka života pacientov s RA skrátená v
+porovnaní s bežnou populáciou, a to približne o 5 až 10 rokov. Hlavnými príčinami smrti sú
+kardiovaskulárne ochorenia, infekcie a malignity. Moderná agresívna terapia však viedla k
+zlepšeniu prežívania v posledných dekádach (Wolfe et al., 2010).
+Kvalita života súvisí predovšetkým s funkčným stavom a kontrolou bolesti. Pacienti
+v remisii alebo s nízkou aktivitou ochorenia udávajú kvalitu života porovnatel’nú s bežnou
+populáciou. Súčasná terapeutická stratégia preto kladie dôraz nielen na kontrolu zápalu, ale
+aj na maximalizáciu funkčnej kapacity a aktívne zapojenie pacienta do bežného života (Olejárová, 2008).
+
+19
+
+2 Interferenčné prúdy
+Interferenčná terapia (IFP), často označovaná ako "král’ovná elektroliečby", predstavuje jednu z najsofistikovanejších modalít vo fyzikálnej medicíne. Patrí do skupiny stredofrekvenčných prúdov, ktoré vd’aka svojim unikátnym fyzikálnym vlastnostiam dokážu prekonat’ bariéru kože s minimálnym odporom a doručit’ tak terapeuticky účinnú elektrickú
+energiu priamo do hlboko uložených tkanív – svalov, nervov a kĺbov. Táto kapitola ponúka
+hĺbkovú analýzu teoretických východísk, biofyzikálnych interakcií a klinických aplikácií interferenčných prúdov, pričom osobitný zretel’ je kladený na ich nezastupitel’né miesto v
+komplexnej rehabilitačnej starostlivosti o pacientov s reumatoidnou artritídou (Capko, 1998).
+2.1
+
+História a vývoj metódy
+
+Genéza tejto revolučnej metódy siaha do polovice 20. storočia a je neodmyslitel’ne
+spätá s menom rakúskeho fyzika a vynálezcu, Dr. Hansa Nemeca (1907–1981). V 40. rokoch minulého storočia čelila rehabilitácia vážnemu technickému limitu: vtedajšie nízkofrekvenčné prúdy (napr. faradický impulz alebo diadynamické prúdy) mali výborný liečebný
+efekt, ale narážali na vysokú impedanciu l’udskej kože. Koža sa pri nízkych frekvenciách
+správa ako izolátor. Aby sa prúd dostal do hĺbky, bolo nutné použit’ vysokú intenzitu, čo
+však vyvolávalo nepríjemné pálenie, bolest’ a v krajných prípadoch až poleptanie pokožky
+pod elektródou. Pacienti túto liečbu často netolerovali (Capko, 1998).
+Dr. Nemec prišiel s geniálnym riešením, ktoré obišlo tento problém. Všimol si, že s
+rastúcou frekvenciou klesá odpor kože. Navrhol preto použit’ dva nezávislé prúdové okruhy
+so strednou frekvenciou (okolo 4000 Hz), pre ktoré je koža takmer priehl’adná. Kl’účovou
+myšlienkou bolo, že tieto dva prúdy sa "stretnúäž v hĺbke tkaniva. V mieste ich prekríženia
+dôjde k fyzikálnemu javu interferencie, čím vznikne nový, nízkofrekvenčný pulz priamo v
+ciel’ovom orgáne. Tento princíp ëndogénneho generovania"liečivého signálu znamenal zásadný zlom. Kým prvé prístroje známe ako "Nemectron"využívali statickú interferenciu, neskorší technologický vývoj umožnil vznik dynamických vektorových polí, schopných ošetrit’
+aj rozsiahle a anatomicky zložité oblasti (Poděbradský et al., 2009; Goats, 1990).
+2.2
+
+Fyzikálne princípy interferencie
+
+Fundamentálnym princípom metódy je superpozícia vlnení. Do organizmu sú privádzané dva sínusové striedavé prúdy strednej frekvencie pomocou štyroch elektród. Prvý
+okruh má konštantnú nosnú frekvenciu f1 (napríklad 4000 Hz) a druhý okruh má frekvenciu f2 mierne odlišnú (napríklad 4100 Hz). Tieto prúdy prechádzajú tkanivom bez toho, aby
+pacienta dráždili. V mieste, kde sa ich dráhy pretnú (geometrický stred polohy elektród), dochádza k ich vzájomnému skladaniu – interferencii. Výsledkom je vznik amplitúdovej modulácie. Frekvencia tejto modulácie nie je náhodná; presne zodpovedá rozdielu frekvencií
+
+20
+
+oboch nosných prúdov. Tento parameter nazývame Amplitúdovo modulovaná frekvencia
+(AMF):
+AMF = | f2 − f1 | = |4100 − 4000| = 100 Hz
+Z klinického hl’adiska to znamená, že hoci tkanivom preteká prúd 4000 Hz (ktorý necítime),
+bunky v hĺbke reagujú na "rytmus"100 Hz (ktorý lieči). Týmto spôsobom dokážeme doručit’
+účinok nízkej frekvencie (1–100 Hz) do hĺbky, kam by sa priama nízka frekvencia cez kožu
+nedostala (Robertson et al., 2006; Goats, 1990).
+2.2.1
+
+Fenomén prekonania kožného odporu
+
+Elektrické vlastnosti kože sú kl’účom k pochopeniu výhody IFP. Koža sa správa ako
+kapacitný odpor (kondenzátor). Jej impedancia (Z) je nepriamo úmerná frekvencii prúdu ( f ):
+Z≈
+
+1
+f
+
+Pri klasickej frekvencii 50 Hz je odpor kože enormný, približne 3200 Ω. To predstavuje
+bariéru, ktorá bráni prieniku energie. Avšak pri použití "nemecovskej"frekvencie 4000 Hz
+tento odpor klesá strmo nadol, až na hodnotu okolo 40 Ω. Prúd tak vstupuje do tela l’ahko,
+"hladko", bez dráždenia vol’ných nervových zakončení v koži (nociceptorov). Pacient necíti
+žiadne pálenie povrchu, ale vníma príjemné, masívne vibrácie v hĺbke svalu alebo kĺbu. To
+umožňuje terapeutovi použit’ podstatne vyššie intenzity prúdu než pri iných metódach, čo
+vedie k silnejšiemu biologickému účinku (Navrátil et al., 2019; Watson, 2020).
+2.3
+
+Fyziologické účinky na organizmus
+
+Spektrum účinkov IFP je determinované predovšetkým vol’bou frekvencie AMF. Reumatológia využíva najmä tieto tri hlavné efekty:
+2.3.1
+
+Analgetický účinok (Tlmenie bolesti)
+Potlačenie bolesti je najčastejšou indikáciou. Mechanizmus je duálny a závisí od frek-
+
+vencie:
+1. Vrátková teória bolesti (Gate Control Theory): Aplikácia vyšších frekvencií AMF
+(80 – 100 Hz) silne stimuluje hrubé myelinizované nervové vlákna typu Aβ , ktoré
+vedú dotykové a tlakové informácie. Tieto rýchle vzruchy prichádzajú do zadných
+rohov miechy skôr než signály bolesti vedené pomalými vláknami C. Tým sa aktivujú
+inhibičné interneuróny, ktoré "zatvoria vrátka"pre bolest’. Efekt je okamžitý, pacient
+cíti úl’avu priamo počas procedúry (Kolář; kol., 2012).
+2. Opioidný mechanizmus: Pri nízkych, rytmických frekvenciách (1 – 10 Hz) dochádza
+k stimulácii produkcie endogénnych opiátov (endorfínov a enkefalínov) v centrálnom
+nervovom systéme. Tento typ analgézie nastupuje pomalšie (po cca 15-20 minútach),
+21
+
+ale pretrváva dlhodobo, často niekol’ko hodín po ukončení terapie (Navrátil et al.,
+2019).
+2.3.2
+
+Myorelaxačný účinok (Uvol’nenie svalov)
+
+Pri reumatoidnej artritíde sú svaly v okolí postihnutého kĺbu často v reflexnom kŕči
+(spazme), čo zvyšuje bolest’ a obmedzuje pohyb. IFP využíva jav zvaný Wedenského útlm.
+Pri nosných frekvenciách okolo 4000 Hz nervové vlákno nie je schopné reagovat’ na každý
+jeden impulz depolarizáciou, pretože sa dostáva do stavu únavy (refraktérnej fázy). Dochádza k zníženiu dráždivosti a následnému uvol’neniu svalového tonusu (Poděbradský et al.,
+2009).
+2.3.3
+
+Vazodilatačný a antiedematózny účinok
+
+Zlepšenie prekrvenia je vitálne pre odvádzanie zápalových metabolitov (laktát, prostaglandíny, histamín). IFP tlmí aktivitu sympatického nervového systému, čo vedie k relaxácii hladkej svaloviny v stenách ciev a ich rozšíreniu (vazodilatácii). Súčasne, rytmické
+striedanie kontrakcie a relaxácie svalov pri nižších frekvenciách (10-50 Hz) funguje ako
+"svalová pumpa", ktorá mechanicky vytláča venóznu krv a lymfu z oblasti, čím efektívne
+redukuje opuchy (edémy) (Capko, 1998).
+2.4
+
+Metodika aplikácie a variácie
+
+Správna technika je podmienkou úspechu. V praxi rozlišujeme dva základné spôsoby
+aplikácie, ktoré sa líšia počtom elektród a miestom vzniku interferencie.
+2.4.1
+
+Dvojpólová interferencia (Premodulovaná)
+
+Tento režim využíva len dve elektródy (jeden kanál). Špecifikom je, že k zmiešaniu
+prúdov a vzniku nízkofrekvenčnej obálky nedochádza v tele pacienta, ale už v samotnom
+prístroji. Z elektród teda vystupuje už hotový, modulovaný prúd. Výhody: Je to ideálna
+technika pre ošetrenie malých plôch, trigger bodov alebo drobných kĺbov ruky, kam by sa
+štyri elektródy fyzicky nezmestili. Nevýhody: Nakol’ko prúd je modulovaný už pred vstupom do kože, čiastočne sa stráca výhoda l’ahkého prieniku typická pre klasickú interferenciu.
+Hĺbkový efekt je preto o niečo slabší (Watson, 2020).
+2.4.2
+
+Štvorpólová interferencia (Klasická)
+
+Zlatý štandard pri liečbe vel’kých kĺbov a chrbtice. Vyžaduje použitie štyroch elektród zapojených do dvoch krížiacich sa okruhov. Liečivý účinok vzniká presne v strede, v
+tzv. zóne interferencie. Moderné prístroje umožňujú modifikovat’ tvar tohto pol’a:
+• Statické pole: Zóna účinku je fixná, má tvar štvorlístka. Vhodné pre lokalizovanú
+bolest’.
+
+22
+
+• Vektorové pole (Dynamické): Prístroj cyklicky mení intenzitu jedného okruhu, čím
+dochádza k "rotácii"pol’a. Interferenčná zóna sa tak pohybuje a premasíruje celú oblast’ medzi elektródami. Toto je metóda vol’by pri difúznych bolestiach kĺbov (napr.
+celé rameno, koleno) (Navrátil et al., 2019).
+2.4.3
+
+Aplikácia s vákuovou jednotkou (Vákuová terapia)
+
+Vel’mi často sa v klinickej praxi stretneme s kombináciou interferenčných prúdov
+a vákuovej jednotky. Elektródy nie sú pripevnené elastickými pásmi, ale sú umiestnené vo
+vnútri špeciálnych pohárikov (baniek), ktoré sa prisajú na kožu pomocou podtlaku. Táto
+kombinácia prináša synergický efekt dvoch terapií v jednom čase:
+1. Zlepšenie kontaktu: Podtlak zabezpečí dokonalé pril’nutie elektródy na nerovný povrch tela (napr. rameno, lopatka), čo zaručuje konštantný prenos prúdu.
+2. Hyperémia (prekrvenie): Samotný podtlak vtiahne kožu a podkožie do pohárika, čím
+spôsobí mechanickú vazodilatáciu. Zlepšené prekrvenie pod elektródou znižuje kožný
+odpor ešte výraznejšie než samotná frekvencia 4000 Hz, čím sa zvyšuje účinnost’ prenosu energie do hĺbky.
+3. Mikromasáž: Moderné vákuové jednotky pracujú v pulznom režime, kedy sa sila
+prisatia rytmicky mení. Táto mechanická pulsácia pôsobí ako jemná vákuová masáž,
+ktorá stimuluje lymfatický obeh a pomáha pri redukcii opuchov.
+Pri použití vákuovej jednotky je však nutné dbat’ na opatrnost’ u pacientov s krehkými cievami (varixy) alebo u seniorov s atrofickou kožou, kde by silný podtlak mohol spôsobit’
+petéchie alebo hematómy (Poděbradský et al., 2009).
+2.5
+2.5.1
+
+Indikácie a kontraindikácie pri RA
+Indikácie
+
+IFP je suverénnou metódou vol’by najmä v subakútnom a chronickom štádiu RA.
+Hlavnými ciel’mi sú:
+1. Analgesia: Zvládnutie bolesti bez nutnosti zvyšovat’ dávky liekov.
+2. Resorpcia: Urýchlenie vstrebávania chronických burzitíd a synoviálnych výpotkov.
+3. Relaxácia: Uvol’nenie reflexných spazmov paravertebrálneho svalstva a svalov v okolí
+postihnutých kĺbov.
+4. Trofika: Zlepšenie výživy tkanív pri akrocyanóze a Raynaudovom syndróme (Kolář;
+kol., 2012; Capko, 1998).
+
+23
+
+2.5.2
+
+Kontraindikácie
+Hoci je IFP bezpečná, existujú stavy vylučujúce jej použitie:
+
+• Absolútne: Gravidita (aplikácia na driek a panvu), kardiostimulátor (riziko elektromagnetickej interferencie), febrilné stavy, akútna tromboflebitída a flebotrombóza (riziko embolizácie!), onkologické ochorenia v mieste aplikácie.
+• Relatívne/Lokálne: Aplikácia v oblasti očí, karotických sínusov. Poruchy citlivosti
+kože vyžadujú opatrnost’. Prítomnost’ kovových implantátov (TEP) nie je absolútnou
+kontraindikáciou, nakol’ko stredofrekvenčný prúd nemá galvanickú zložku a nespôsobuje chemické popálenie, avšak odporúča sa nižšia intenzita kvôli riziku prehriatia
+kovu (Watson, 2020).
+2.6
+
+Porovnanie IFP s inými nízkofrekvenčnými prúdmi
+
+Pre správnu indikáciu je kl’účové chápat’, v čom sa interferenčné prúdy líšia od klasických nízkofrekvenčných metód, ako sú TENS (Transkutánna elektrická nervová stimulácia) alebo diadynamické prúdy (DD).
+2.6.1
+
+Interferencia vs. TENS
+
+TENS je najčastejšie používanou metódou domácej liečby bolesti. Pracuje s nízkou
+frekvenciou (1-150 Hz) priamo na koži.
+• TENS: Má silný povrchový účinok, ale t’ažšie preniká do hĺbky kĺbu kvôli odporu
+kože. Pacient cíti ostré "bodanieälebo mravčenie priamo pod elektródou.
+• IFP: Vd’aka nosnej frekvencii 4000 Hz prekonáva kožný odpor l’ahšie. Účinok vzniká
+až v hĺbke (ëndogénne"). Pacienti tolerujú vyššie intenzity prúdu pri IFP než pri TENS,
+čo vedie k hlbšiemu myorelaxačnému účinku (Goats, 1990).
+2.6.2
+
+Interferencia vs. Diadynamické prúdy (DD)
+DD prúdy (podl’a Bernarda) sú staršou metódou využívajúcou sínusové prúdy 50/100
+
+Hz.
+• Tolerancia: DD prúdy majú silnú galvanickú zložku (jednosmernú), ktorá dráždi kožu
+a spôsobuje hyperémiu (začervenanie) pod elektródou. Hrozí riziko poleptania kože pri
+dlhšej aplikácii.
+• Komfort: IFP nemajú galvanickú zložku (sú čisto striedavé), preto nespôsobujú chemické zmeny pod elektródou ani pálenie. Sú bezpečnejšie pre pacientov s citlivou pokožkou a môžu sa aplikovat’ aj v prítomnosti kovových implantátov (s opatrnost’ou),
+kým DD sú pri kovoch prísne kontraindikované (Poděbradský et al., 2009).
+
+24
+
+2.7
+
+Súčasný stav dôkazov (Evidence-Based Medicine)
+
+V ére medicíny založenej na dôkazoch je nevyhnutné overovat’ empirické skúsenosti
+exaktnými dátami z klinických štúdií. Výskum účinnosti interferenčných prúdov v posledných rokoch priniesol viacero významných zistení, ktoré potvrdzujú ich miesto v moderných
+liečebných protokoloch.
+2.7.1
+
+Účinnost’ pri bolestiach chrbtice a kĺbov
+
+Najnovší systematický prehl’ad a meta-analýza, ktorú publikovali Érika P Rampazo
+et al. (2023), sa zamerala na pacientov s chronickou nešpecifickou bolest’ou dolnej časti
+chrbta (LBP), čo je častá komorbidita u pacientov s reumatickými ochoreniami. Autori analyzovali dáta z viacerých randomizovaných kontrolovaných štúdií a dospeli k záveru, že IFP
+má štatisticky významný efekt na zníženie intenzity bolesti oproti placebu. Dôležitým zistením bolo, že IFP nielenže znižuje bolest’ bezprostredne po aplikácii, ale zlepšuje aj funkčné
+parametre (pohyblivost’), čo je pre rehabilitáciu kl’účové.
+Podobne povzbudivé výsledky priniesla štúdia zameraná na osteoartrózu kolena, ktorú
+viedli Chen et al. (2022). Hoci sa zamerali na gonartrózu, patofyziologický mechanizmus bolesti je podobný ako pri RA. Ich meta-analýza potvrdila, že interferenčná terapia je efektívna
+nielen v manažmente bolesti, ale významne prispieva k zlepšeniu kvality života pacientov.
+V porovnaní s inými elektroterapeutickými modalitami sa IFP javí ako superiorná najmä
+vd’aka schopnosti preniknút’ do hĺbky kĺbneho puzdra, čo povrchové prúdy (napr. TENS)
+nedokážu v takej miere.
+2.7.2
+
+Neuromodulačný potenciál
+
+Zaujímavý pohl’ad prináša práca Moore et al. (2018), ktorá skúmala využitie IFP
+pri neuromodulácii gastrointestinálnych porúch. Hoci to priamo nesúvisí s liečbou kĺbov,
+potvrdzuje to schopnost’ interferenčných prúdov ovplyvňovat’ autonómny nervový systém.
+Tento poznatok je aplikovatel’ný aj v reumatológii, kde modulácia sympatika (vazodilatačný
+efekt) zohráva úlohu pri liečbe trofických zmien a zlepšení mikrocirkulácie v zapálenom
+tkanive.
+Všeobecne možno konštatovat’, že IFP predstavuje bezpečnú, neinvazívnu alternatívu
+k farmakologickej liečbe bolesti, čím umožňuje znížit’ spotrebu analgetík a nesteroidných
+antireumatík, ktoré majú pri dlhodobom užívaní vážne vedl’ajšie účinky (Goats, 1990).
+2.8
+
+Praktická aplikácia pri RA
+
+Aplikácia interferenčných prúdov u pacientov s reumatoidnou artritídou vyžaduje
+zohl’adnenie špecifík tohto ochorenia. Na rozdiel od degeneratívnych artropatií, kde je zápalová zložka sekundárna, pri RA dominuje primárny imunitne mediovaný zápal. Preto je
+vol’ba parametrov stimulácie a načasovanie terapie kl’účová pre dosiahnutie optimálneho
+terapeutického efektu.
+25
+
+2.8.1
+
+Parametre stimulácie
+
+1. Akútna bolest’ a edém: Volíme vyššie frekvencie AMF, typicky 90 – 100 Hz, prípadne s malým rozkmitom (Spectrum) napr. 10 Hz. Ciel’om je analgézia cez vrátkovú
+teóriu. Intenzita musí byt’ striktne podprahová (jemné mravčenie), nesmie vyvolat’
+motorickú reakciu. Doba aplikácie kratšia, 10–15 minút.
+2. Chronická stuhnutost’ svalov: Volíme nízke frekvencie AMF, 1 – 10 Hz, alebo striedavé režimy (1–100 Hz). Ciel’om je myorelaxácia a "gymnastika ciev". Intenzita môže
+byt’ vyššia, až na hranicu motorického prahu (viditel’né chvenie svalu). Doba aplikácie
+dlhšia, 15–20 minút.
+3. Zlepšenie trofiky tkanív: Pri vaskulárnych komplikáciách RA (Raynaudov fenomén,
+akrocyanóza) volíme strednú frekvenciu 50 Hz s vektorovým pol’om. Kombinujeme s
+podtlakovými elektródami pre synergický vazodilatačný efekt (Capko, 1998).
+2.8.2
+
+Aplikačné schémy pre jednotlivé kĺby
+
+Ramenný kĺb: Využíva sa tetrapolárna aplikácia s vektorovým pol’om. Jedna elektróda sa umiestňuje ventrálne, druhá na úpon deltoidu, tretia a štvrtá dorzálne. Interferenčné
+pole tak prestúpi celým kĺbnym puzdrom. Ideálne je použitie vákuových elektród pre lepší
+kontakt na oblých tvaroch ramena. Pri frozen shoulder (adhezívna kapsulitída), ktorá môže
+komplikovat’ RA, volíme kombinovaný protokol: najprv analgézia (100 Hz, 10 min), potom
+myorelaxácia (1-10 Hz, 10 min) (Navrátil et al., 2019).
+Kolenný kĺb: Klasická aplikácia "do kríža". Elektródy obklopujú patelu. Pri oslabení kvadricepsu volíme frekvencie okolo 50 Hz, ktoré majú tonizačný vplyv na svalstvo.
+Pri opuchoch volíme 100 Hz na podporu rezorpcie. U pacientov s RA je častá prítomnost’
+Bakerovej cysty v popliteálnej oblasti; v takomto prípade je vhodné zahrnút’ túto oblast’ do
+terapeutického pol’a (Kolář; kol., 2012).
+Ruky a zápästia: Pre ošetrenie drobných kĺbov rúk, ktoré sú pri RA najčastejšie
+postihnuté, je suverénne najlepšou metódou "vodný kúpel’". Do dvoch plastových nádob s
+vodou sa vložia uhlíkové elektródy. Pacient ponorí ruky (alebo nohy) do vody. Voda zabezpečí dokonalý kontakt s celým nerovným povrchom prstov. Táto metóda umožňuje ošetrit’
+všetky kĺby ruky naraz, čo je pri lepení elektród nemožné (Navrátil et al., 2019).
+Bedrový kĺb: Hlboká lokalizácia bedrového kĺbu vyžaduje použitie väčších elektród a vyššej intenzity. Tetrapolárna aplikácia s elektródami umiestnenými v oblasti triesla,
+laterálne od vel’kého trochanteru, gluteálne a posteromediálne. Vektorové pole zabezpečí
+ošetrenie celého kĺbu vrátane jeho hlbokých štruktúr (Robertson et al., 2006).
+Krčná chrbtica: U pacientov s RA je nutná opatrnost’ kvôli možnej atlantoaxiálnej
+instabilite. Pred aplikáciou IFP na krčnú chrbticu by mal byt’ vylúčený subluxácia C1-C2
+pomocou RTG vyšetrenia. Aplikácia sa realizuje paravertebrálne s nízkymi intenzitami a
+frekvenciami 80-100 Hz pre analgéziu (Poděbradský et al., 2009).
+26
+
+2.8.3
+
+Frekvencia a dĺžka liečby
+
+Štandardný liečebný cyklus pozostáva z 10-15 sedení aplikovaných denne alebo obdeň. Účinok jednej procedúry trvá niekol’ko hodín, pri sériovej aplikácii dochádza ku kumulácii efektu. Po ukončení cyklu nasleduje prestávka 4-6 týždňov pred prípadným opakovaním. U pacientov s chronickou RA možno liečbu opakovat’ podl’a potreby, typicky 2-3 cykly
+ročne (Capko, 1998).
+2.8.4
+
+Kombinácia s inými terapeutickými modalitami
+
+Interferenčné prúdy je možné efektívne kombinovat’ s d’alšími fyzioterapeutickými
+metódami. Najčastejšie sa IFP aplikuje pred kinezioterapiou – zníženie bolesti a uvol’nenie
+svalov umožňuje pacientovi efektívnejšie cvičit’. Kombinácia s hydroterapiou (teplý bazén)
+je obzvlášt’ výhodná – vztlak vody odl’ahčuje kĺby a teplo potencuje vazodilatačný efekt
+elektrického prúdu (Gúth, 2010).
+Pri lokálnej aplikácii kryoterapie pred IFP u pacientov s akútnym vzplanutím využívame protizápalový efekt chladu nasledovaný analgetickým účinkom elektrického prúdu.
+Táto kombinácia je preferovaná pred termoterapiou v akútnej fáze zápalu (Poděbradský et
+al., 2009).
+2.9
+
+Bezpečnostné aspekty a nežiaduce účinky
+
+Interferenčná terapia patrí medzi najbezpečnejšie elektroterapeutické modality. Stredofrekvenčný charakter prúdu eliminuje riziko chemického popálenia pod elektródou, ktoré
+hrozí pri galvanických prúdoch. Napriek tomu je nevyhnutné dodržiavat’ bezpečnostné protokoly (Watson, 2020).
+2.9.1
+
+Možné nežiaduce účinky
+
+• Prechodná erytéma: Začervenanie kože pod elektródami je fyziologickou reakciou
+na vazodilatáciu a nevyžaduje prerušenie liečby.
+• Svalová únava: Pri nadmernej intenzite alebo príliš dlhej aplikácii s motorickou odpoved’ou môže dôjst’ k únave svalstva.
+• Nepríjemné pocity: Pacienti môžu pocit’ovat’ mravčenie, vibrácie alebo tlak. Tieto
+pocity by nemali byt’ bolestivé – v takom prípade je nutné znížit’ intenzitu.
+• Vertigo: Pri aplikácii v oblasti krku sa vzácne môže objavit’ závrat’, čo vyžaduje
+okamžité ukončenie procedúry (Goats, 1990).
+2.9.2
+
+Monitorovanie pacienta
+
+Počas procedúry by mal terapeut pravidelne kontrolovat’ subjektívne pocity pacienta.
+Otázky by mali smerovat’ k intenzite vnímania prúdu, lokalizácii pocitov a komfortu. U
+27
+
+pacientov s reumatoidnou artritídou je potrebné venovat’ pozornost’ aj stavu kože – atrofická,
+ztenčená koža pri dlhodobej kortikoterapii je náchylnejšia na poškodenie (Watson, 2020).
+2.10
+
+Záver kapitoly
+
+Interferenčné prúdy predstavujú efektívnu a bezpečnú terapeutickú modalitu s pevným miestom v komplexnej rehabilitácii pacientov s reumatoidnou artritídou. Ich unikátna
+schopnost’ doručit’ terapeuticky účinnú nízkofrekvenčnú stimuláciu do hlboko uložených
+tkanív bez dráždenia povrchových štruktúr ich predurčuje pre liečbu kĺbov postihnutých zápalovým procesom.
+Súčasná vedecká evidencia podporuje využitie IFP na zvládnutie bolesti, redukciu
+opuchov a prípravu pacienta na kinezioterapiu. V kombinácii s farmakologickou liečbou a
+komplexným rehabilitačným programom prispievajú k zlepšeniu funkčnej kapacity a kvality
+života pacientov s RA (Érika Patrícia Rampazo et al., 2022; Fuentes et al., 2010).
+Budúci výskum by mal priniest’ štandardizované protokoly špecificky pre reumatoidnú artritídu a dlhodobé sledovanie efektivity v kontexte modernej biologickej liečby.
+
+28
+
+3 Ciel’ práce a metodológia
+Praktická čast’ diplomovej práce je zameraná na overenie účinnosti navrhnutej terapie. V tejto kapitole definujeme hlavný a čiastkové ciele práce, stanovujeme hypotézy a charakterizujeme výskumný súbor. Ďalej popisujeme metodiku zberu dát a postup spracovania
+získaných výsledkov.
+3.1
+
+Ciel’ práce
+
+Ciel’om diplomovej práce bolo na základe dostupnej literatúry a vlastného výskumu
+posúdit’ účinnost’ fyzioterapie pri liečbe pacientov s reumatoidnou artritídou.
+Hlavný ciel’: Zistit’, ako kombinovaná liečba interferenčnými prúdmi a kinezioterapiou ovplyvňuje intenzitu bolesti, rozsah pohybu a subjektívne hodnotenie kvality života
+pacientov s reumatoidnou artritídou.
+Čiastkové ciele:
+1. Porovnat’ účinnost’ kombinovanej terapie (IFP + kinezioterapia) a samotnej kinezioterapie na intenzitu bolesti.
+2. Analyzovat’ vplyv kombinovanej terapie na rozsah pohybu v postihnutých kĺboch.
+3. Zhodnotit’ subjektívne vnímanie kvality života pacientov pred a po terapii.
+4. Porovnat’ výsledky experimentálnej a kontrolnej skupiny.
+3.2
+
+Hypotézy
+
+Na základe stanovených ciel’ov sme formulovali nasledujúce hypotézy:
+H1: Predpokladáme, že pacienti s reumatoidnou artritídou, ktorí absolvujú terapiu
+interferenčnými prúdmi v kombinácii s kinezioterapiou, uvádzajú nižšiu intenzitu bolesti
+než pacienti liečení len kinezioterapiou.
+H2: Predpokladáme, že kombinácia interferenčných prúdov a kinezioterapie má väčší
+pozitívny vplyv na rozsah pohybu v postihnutých kĺboch ako samotná kinezioterapia.
+H3: Predpokladáme, že pacienti liečení kombinovanou terapiou subjektívne hodnotia
+kvalitu svojho života pozitívnejšie ako pacienti v skupine bez elektroterapie.
+3.3
+
+Charakteristika výskumného súboru
+
+Výskumný súbor tvorilo 100 pacientov s potvrdenou diagnózou reumatoidnej artritídy. Podmienkou zaradenia do štúdie bola lekárom potvrdená diagnóza RA. Pacientov sme
+rozdelili do dvoch skupín po 50 jedincov. Experimentálnu skupinu tvorilo 50 pacientov absolvujúcich kombinovanú liečbu interferenčným prúdom a kinezioterapiou. Kontrolnú skupinu tvorilo 50 pacientov podstupujúcich iba kinezioterapiu.
+29
+
+Graf zobrazuje rozdelenie mužov a žien v skupine s kombinovanou liečbou aj v skupine s izolovanou kinezioterapiou.
+Rozdelenie súboru podl’a pohlavia
+35,00
+
+Počet pacientov
+
+30,00
+25,00
+
+24,00
+
+28,00
+
+26,00
+22,00
+
+20,00
+
+Muži
+Ženy
+
+15,00
+10,00
+5,00
+0,00
+ITF + kinezioterapia
+
+Kinezioterapia
+
+Graf 1 Počet mužov a žien pre jednotlivé skupiny
+Skupinu s kombinovanou liečbou tvorilo 24 mužov a 26 žien, pričom kontrolná skupina zahŕňala zastúpenie 22 mužov a 28 žien. Z hl’adiska rozloženia pohlavia možno konštatovat’, že obe skupiny boli homogénne.
+Okrem základného rozdelenia podl’a pohlavia sme sa zamerali aj na analýzu pracovného zat’aženia pacientov, ked’že typ zamestnania môže významne ovplyvňovat’ mieru
+zát’aže pohybového aparátu. V nasledujúcom grafe (Graf 2) je znázornená štruktúra súboru
+z hl’adiska typu vykonávanej práce.
+
+30
+
+Rozdelenie súboru podl’a typu zamestnania
+35,00
+
+Počet pacientov
+
+30,00
+25,00
+20,00
+15,00
+
+21,00
+
+19,0018,00
+
+17,00
+
+13,00
+
+12,00
+
+Fyzické
+Sedavé
+Neaktívne
+
+10,00
+5,00
+0,00
+ITF + kinezioterapia
+
+Kinezioterapia
+
+Graf 2 Rozdelenie pacientov podl’a typu zamestnania
+V oboch skupinách bolo zastúpenie typu zamestnania porovnatel’né. V skupine ITF
+bolo zastúpených 19 pacientov s fyzickým, 18 so sedavým a 13 s neaktívnym životným
+štýlom. V kontrolnej skupine (kinezioterapia) bolo 17 pacientov s fyzickým, 21 so sedavým
+a 12 s neaktívnym typom zamestnania. Rozdiely v pracovnom zat’ažení medzi skupinami
+neboli štatisticky významné.
+Súčast’ou charakteristiky výskumného súboru bolo aj sledovanie základných demografických a antropometrických parametrov, ako sú vek, telesná výška a hmotnost’. Tieto
+údaje nám umožnili posúdit’ homogenitu oboch skupín. Ako vyplýva z údajov v Tabul’ke 1
+a Tabul’ke 2, obe skupiny vykazovali porovnatel’né priemerné hodnoty sledovaných premenných, čo svedčí o vysokej miere vyrovnanosti výskumnej vzorky. Táto podobnost’ je dôležitá
+pre objektivitu porovnania terapeutických výsledkov.
+Tabul’ka 1 Demografické údaje pacientov v skupine ITF + kinezioterapia
+Pacienti
+Vek
+Výška
+Hmotnost’
+
+n
+50
+50
+50
+
+x̄
+52,76
+173,24
+73,04
+
+sd
+5,05
+10,13
+12,35
+
+xm
+54,5
+175,5
+77,5
+
+min.
+41
+159
+60
+
+max.
+60
+193
+101
+
+Legenda: n – počet pacientov, x̄ – aritmetický priemer, sd – smerodajná odchýlka, xm – medián, min. –
+minimálna hodnota, max. – maximálna hodnota
+Skupina ITF + kinezioterapia vykazovala priemerný vek 52,76±5,05 roka, pričom priemerná telesná výška
+dosahovala 173,24±10,13 cm a hmotnost’ 73,04±12,35 kg.
+
+31
+
+Tabul’ka 2 Demografické údaje pacientov v skupine Kinezioterapia
+Pacienti
+Vek
+Výška
+Hmotnost’
+
+n
+50
+50
+50
+
+x̄
+51,62
+173,04
+74,22
+
+sd
+5,90
+10,23
+11,06
+
+xm
+52,5
+174
+74,0
+
+min.
+40
+157
+57
+
+max.
+60
+190
+96
+
+Legenda: n – počet pacientov, x̄ – aritmetický priemer, sd – smerodajná odchýlka, xm – medián, min. –
+minimálna hodnota, max. – maximálna hodnota
+V skupine liečenej samostatnou kinezioterapiou bol priemerný vek pacientov 51,62±5,90 roka. Priemerná
+výška týchto pacientov bola 173,04±10,23 cm a ich priemerná hmotnost’ predstavovala 74,22±11,06 kg.
+
+32
+
+3.4
+
+Metodika výskumu
+
+Pre potreby nášho prieskumu sme zvolili metodologický postup kombinujúci subjektívne dotazníkové hodnotenie s objektívnym meraním fyzických parametrov. Celý proces
+zberu údajov sa realizoval v prostredí neštátneho zdravotníckeho zariadenia, pričom časový
+rámec bol stanovený od augusta 2025 do februára 2026. Probandi zapojení do štúdie absolvovali kompletný rehabilitačný program. Pred jeho samotným spustením sme kládli dôraz na
+náležité poučenie každého pacienta, ktoré zahŕňalo inštruktáž k vypĺňaniu formulárov, vysvetlenie výskumného zámeru a ubezpečenie o prísnej anonymite všetkých spracovávaných
+údajov. Vstupné vyšetrenie spolu s distribúciou dotazníkov prebehlo v prvý deň terapie, zatial’ čo kontrolné výstupné vyšetrenie sa uskutočnilo v záverečný deň cyklu.
+Hlavným nástrojom pre monitoring subjektívneho stavu bol nami vytvorený dotazník, v ktorom pacienti kvantifikovali kl’účové oblasti na 10-bodovej stupnici, kde maximálna
+hodnota reflektovala najvyššiu mieru t’ažkostí. Sledované ukazovatele sme zamerali na intenzitu kĺbovej bolesti v pokoji aj pri pohybovej zát’aži, funkčnú mieru sebaobsĺužných aktivít
+(ADL), nácvik jemnej motoriky a mobilitu pri chôdzi. Opomenuté nezostali ani typické pridružené symptómy reumatoidnej artritídy, konkrétne subjektívny pocit únavy a prítomnost’
+rannej stuhnutosti. Psychosociálny dopad ochorenia sme mapovali cez kvalitu spánkového
+cyklu, úroveň úzkostných prejavov a vplyv na pracovný výkon. Súbežne so subjektívnym
+hodnotením sme vykonávali goniometrické merania s ciel’om exaktne stanovit’ aktívny rozsah pohybu v segmentoch hornej aj dolnej končatiny. Naša pozornost’ bola upriamená na
+kĺby zápästné, drobné kĺby ruky (MCP a PIP) a kĺby nohy (MTP), ktoré toto systémové
+ochorenie postihuje primárne.
+Samotný terapeutický režim bol navrhnutý ako mesačný cyklus pozostávajúci z 12
+rehabilitačných jednotiek s frekvenciou trikrát v týždni. Výskumný súbor sme rozdelili na
+dve porovnávané skupiny s odlišným liečebným protokolom. Experimentálna čast’ súboru
+podstúpila kombinovanú intervenciu integrujúcu fyzikálnu zložku vo forme interferenčných
+prúdov a cielenú kinezioterapiu. Kontrolná čast’ pacientov absolvovala výhradne pohybovú
+liečbu v identickom rozsahu, čo nám umožnilo validne posúdit’ terapeutický benefit elektroterapie u pacientov trpiacich chronickými zápalovými zmenami kĺbového aparátu.
+Aplikáciu interferenčných prúdov sme realizovali prostredníctvom prístroja BTL4000 Smart. Vzhl’adom na ciel’ dosiahnut’ analgetický efekt a myorelaxáciu sme zvolili
+tetrapolárnu techniku s konštantne nastavenou frekvenciou 100 Hz, ktorá je v reumatológii
+preferovaná pre jej výrazný vplyv na tlmenie bolesti. Intenzitu sme u každého probanda ladili individuálne podl’a subjektívneho vnímania príjemného mravenčenia. Každá aplikácia
+v trvaní 15 minút prebiehala transregionálne v mieste najväčších t’ažkostí. Nadväzujúca kinezioterapia v dĺžke 20 až 25 minút bola obsahovo identická pre obe skupiny. Intervencia
+zahŕňala techniky mäkkých tkanív, pasívne uvol’ňovanie a postizometrickú relaxáciu (PIR)
+svalového aparátu. Aktívna zložka cvičenia bola orientovaná na udržanie kĺbovej pohyblivosti, cvičenie úchopových funkcií ruky za pomoci rôznych terapeutických pomôcok a vše33
+
+obecné uvol’nenie s dôrazom na ochranu kĺbových plôch pred pret’ažením.
+3.5
+
+Štatistické spracovanie dát
+
+Všetky údaje získané prostredníctvom dotazníka vlastnej konštrukcie a goniometrických meraní sme následne spracovali a vyhodnotili pomocou štatistických metód. Na základnú charakteristiku súboru a popis sledovaných klinických parametrov (ako sú bolest’,
+rozsah pohybu a kvalita života) sme aplikovali metódy deskriptívnej štatistiky. Výpočty zahŕňali stanovenie absolútnej početnosti, výpočet aritmetického priemeru, smerodajnej odchýlky, ako aj určenie minimálnych a maximálnych nameraných hodnôt. Pred samotným
+testovaním hypotéz sme preverili charakter rozdelenia dát pomocou Shapiro-Wilkovho testu
+normality. Vzhl’adom na výsledky, ktoré vo väčšine parametrov nepotvrdili normálne rozdelenie dát, sme pre d’alšiu analýzu zvolili neparametrické testy.
+Na porovnanie výsledkov medzi experimentálnou a kontrolnou skupinou (inter-skupinové
+porovnanie) sme využili neparametrický Mann-Whitneyho U-test. Zmeny v rámci jednotlivých skupín, teda porovnanie hodnôt pred zahájením terapie a po jej ukončení (intraskupinové porovnanie), sme posudzovali na základe výsledkov Wilcoxonovho párového
+testu. Štatistické spracovanie bolo realizované v programe Microsoft Excel. Výstupy sme
+spracovali do formy prehl’adných tabuliek a grafov (stĺpcové a krabicové grafy), pričom
+hladina štatistickej významnosti bola pri všetkých testoch stanovená na hodnotu α = 0, 05.
+3.6
+
+Analýza výsledkov
+
+V tejto kapitole predkladáme kompletné spracovanie výsledkov nášho výskumu, ktoré
+vychádza z podrobnej analýzy primárnych dát (100 probandov). Údaje získané z goniometrických meraní a subjektívneho dotazníka sme podrobili detailnému spracovaniu. Pre každý
+sledovaný parameter uvádzame štatistické ukazovatele: priemer (x̄), smerodajnú odchýlku
+(sd), minimálne (min) a maximálne (max) namerané hodnoty, doplnené o naratívny komentár podl’a metodických požiadaviek.
+3.6.1
+
+Analýza subjektívnych parametrov – Bolest’ a stuhnutost’
+
+Subjektívne vnímanie klinického stavu je pre pacienta s RA kl’účové. V tejto časti
+analyzujeme intenzitu bolesti, jej charakter a problematiku kĺbovej stuhnutosti.
+V experimentálnom súbore (n=50) bola pred terapiou priemerná intenzita bolesti
+pri zát’aži 7,24 ± 2,10 bodu, pričom minimálna hodnota bola 3 a maximálna 10 bodov
+(VAS). Po absolvovaní komplexnej terapie (ITF + kinezioterapia) klesla priemerná bolest’ na
+4,92 ± 1,72 bodu (min. 1, max. 9 bodov). Bolest’ v pokoji klesla v tejto skupine z 5,28 ± 2,08
+(min. 2, max. 9) na 2,12 ± 1,12 bodu (min. 1, max. 4 body).
+V kontrolnom súbore (n=50) klesla bolest’ pri zát’aži z 7,00 ± 2,06 bodu (min. 3,
+max. 10) na 5,40 ± 1,76 bodu (min. 2, max. 10). Bolest’ v pokoji v kontrolnom súbore pred
+terapiou dosahovala v priemere 5,12 ± 2,05 bodu (min. 2, max. 9) a po mesiaci liečby klesla
+34
+
+na 3,92 ± 1,80 bodu (min. 2, max. 7 bodov). Výsledky porovnáva Tabul’ka 3.
+Tabul’ka 3 Porovnanie intenzity bolesti v pokoji a pri zát’aži (body 0-10)
+Parameter / Skupina
+Bolest’ v pokoji
+Exp. (ITF + K)
+Kontr. (K)
+Bolest’ pri zát’aži
+Exp. (ITF + K)
+Kontr. (K)
+
+x̄ Pred
+
+sd Pred
+
+min-max
+
+x̄ Po
+
+sd Po
+
+min-max
+
+5,28
+5,12
+
+2,08
+2,05
+
+2-9
+2-9
+
+2,12
+3,92
+
+1,12
+1,80
+
+1-4
+2-7
+
+7,24
+7,00
+
+2,10
+2,06
+
+3-10
+3-10
+
+4,92
+5,40
+
+1,72
+1,76
+
+1-9
+2-10
+
+Porovnanie intenzity bolesti (VAS)
+10,00
+
+VAS skóre (0–10)
+
+8,00
+7,24
+
+7,00
+
+6,00
+5,40
+
+4,92
+
+4,00
+
+Pred terapiou
+Po terapii
+
+2,00
+0,00
+ITF + kinezioterapia
+
+Kinezioterapia
+
+Graf 3 Porovnanie intenzity bolesti (VAS) pred a po terapii
+Pri analýze charakteru bolesti sme v experimentálnej skupine zaznamenali vyrovnané zastúpenie tupej (26 %) a pulzujúcej bolesti (26 %). Nasledovala bolest’ bodavá (22 %),
+tlaková (20 %) a pálivá (6 %). V kontrolnej skupine bol pomer síce rôznorodejší, ale dominovala taktiež tupá bolest’ (28 %), pulzujúca (24 %) a tlaková (22 %). Bodavú bolest’
+pocit’ovalo 20 % a pálivú 6 % pacientov. Tieto rozdiely v charaktere bolesti poukazujú na
+heterogenitu vnímania reumatických t’ažkôd.
+
+35
+
+Charakter bolesti u oboch skupín
+60
+
+Zastúpenie (%)
+
+50
+40
+30
+26
+
+28
+
+26
+22
+
+20
+
+24
+20
+
+20
+
+22
+
+10
+6
+
+6
+
+ITF + kinezioterapia
+
+Kinezioterapia
+
+0
+
+Tupá
+Pulzujúca
+
+Pálivá
+Tlaková
+
+Bodavá
+
+Graf 4 Charakter bolesti u jednotlivých skupín
+S charakterom bolesti úzko súvisí aj časový výskyt bolesti počas dňa. Z analýzy
+vstupných hodnôt vyplýva, že u oboch skupín dochádza k najväčšej intenzite problémov
+v ranných hodinách (ITF n=36, Kontrolná n=34). Popoludní pocit’ovalo bolest’ 14 pacientov
+v ITF a 16 pacientov v kontrolnej skupine.
+Časový výskyt bolesti počas dňa
+60
+
+Zastúpenie (%)
+
+50
+40
+36
+
+34
+
+30
+20
+14
+
+16
+
+10
+0
+Ráno
+
+Popoludní
+ITF + kinezioterapia
+
+Kinezioterapia
+
+Graf 5 Časový výskyt bolesti počas dňa u oboch skupín
+
+36
+
+Kl’účovým príznakom je ranná stuhnutost’. V experimentálnom súbore (n=50)
+merali pacienti intenzitu ranného stuhnutia pred terapiou na úrovni 6,02 ± 2,24 bodu (min.
+2, max. 10). Po terapii sa táto hodnota znížila na 3,02 ± 1,95 bodu (min. 1, max. 7). V kontrolnom súbore (n=50) bol vstupný stav 5,32 ± 2,15 bodu (min. 2, max. 10) and výstupný
+stav 4,42 ± 2,00 bodu (min. 2, max. 9).
+Intenzita rannej stuhnutosti (VAS)
+
+Intenzita stuhnutia (0–10)
+
+10,00
+8,00
+6,00
+
+6,02
+5,32
+4,42
+
+4,00
+
+Pred terapiou
+Po terapii
+
+3,02
+
+2,00
+0,00
+ITF + kinezioterapia
+
+Kinezioterapia
+
+Graf 6 Porovnanie intenzity rannej stuhnutosti (VAS)
+Čo sa týka výskytu rannej stuhnutosti, v čase vstupného vyšetrenia uvádzalo prítomnost’ ranného fenoménu 72 % probandov v experimentálnej skupine (n=36) a 76 %
+v kontrolnej skupine (n=38). Zvyšná čast’ súboru (28 % resp. 24 %) tento príznak nepocit’ovala. Po liečbe v experimentálnej skupine 45 % pacientov uviedlo, že stav stuhnutosti
+vymizol úplne alebo sa objavuje len sporadicky po vel’kej zát’aži.
+
+37
+
+Výskyt rannej stuhnutosti u respondentov
+100,00
+
+Zastúpenie (%)
+
+80,00
+
+76,00
+
+72,00
+
+60,00
+40,00
+28,00
+
+24,00
+
+20,00
+0,00
+ITF + kinezioterapia
+
+Kinezioterapia
+Áno
+
+Nie
+
+Graf 7 Výskyt rannej stuhnutosti u oboch skupín
+
+Tabul’ka 4 Porovnanie rannej stuhnutosti a ADL (body 0-10)
+Parameter / Skupina
+Ranná stuhnutost’
+Exp. (ITF + K)
+Kontr. (K)
+ADL
+Exp. (ITF + K)
+Kontr. (K)
+
+x̄ Pred
+
+sd Pred
+
+min-max
+
+x̄ Po
+
+sd Po
+
+min-max
+
+6,02
+5,32
+
+2,24
+2,15
+
+2-10
+2-10
+
+3,02
+4,42
+
+1,95
+2,00
+
+1-7
+2-9
+
+5,34
+5,12
+
+1,85
+1,28
+
+2-9
+3-8
+
+3,48
+4,54
+
+1,62
+1,66
+
+1-6
+2-8
+
+Zlepšenie v oblasti bežných denných aktivít (ADL) bolo v experimentálnom súbore
+markantné (skóre kleslo o 1,86 bodu), čo svedčí o obnovení funkčnej nezávislosti pacientov,
+zatial’ čo v kontrolnom súbore bolo toto zlepšenie len o približne 0,5 bodu.
+3.6.2
+
+Analýza goniometrických meraní zápästného kĺbu
+
+Pri zápästnom kĺbe sme sledovali flexiu a extenziu. V oboch skupinách došlo k zlepšeniu rozsahu pohybu, pričom experimentálna skupina vykazovala výraznejšie prírastky.
+V experimentálnej skupine (n=50) sme pri flexii v zápästí namerali pred terapiou
+priemernú hodnotu 60,14 ± 6,94 stupňa. Po liečbe sa rozsah zvýšil na 65,50 ± 6,96 stupňa.
+U kontrolnej skupiny (n=50) bol progres pri flexii v zápästí z 59,54 ± 7,05 na 61,49 ± 7,14
+stupňa. Tieto výsledky sú znázornené v Grafe 8.
+
+38
+
+Goniometria zápästia – Flexia
+
+Rozsah pohybu (stupne)
+
+100,00
+80,00
+60,00
+
+65,50
+
+60,14 59,54
+
+61,49
+
+40,00
+20,00
+0,00
+Pred terapiou
+
+Po terapii
+
+ITF + kinezioterapia
+
+Kinezioterapia
+
+Graf 8 Goniometria zápästia – Flexia (stupne) u oboch skupín
+Pri extenzii v zápästí sme v experimentálnej skupine (n=50) zaznamenali vstupný
+priemer 50,68 ± 7,46 stupňa a výstupný priemer 55,79 ± 7,47 stupňa. V kontrolnej skupine
+(n=50) došlo k zmene z 52,18 ± 7,13 na 54,11 ± 7,16 stupňa. Výsledky porovnáva Graf 9.
+Goniometria zápästia – Extenzia
+
+Rozsah pohybu (stupne)
+
+100,00
+80,00
+60,00
+
+55,79 54,11
+
+50,68 52,18
+
+40,00
+20,00
+0,00
+Pred terapiou
+
+Po terapii
+
+ITF + kinezioterapia
+
+Kinezioterapia
+
+Graf 9 Goniometria zápästia – Extenzia (stupne) u oboch skupín
+
+39
+
+Tabul’ka 5 Goniometria zápästného kĺbu – flexia a extenzia (stupne)
+Parameter / Strana x̄ Pred sd Pred min-max
+Zápästie - Flexia (Experimentálna skupina ITF)
+Dx (vpravo)
+60,08
+7,29
+47-73
+Sin (vl’avo)
+60,20
+6,58
+46-72
+Zápästie - Flexia (Kontrolná skupina K)
+Dx (vpravo)
+59,26
+7,16
+47-72
+Sin (vl’avo)
+59,82
+6,94
+50-73
+Zápästie - Extenzia (Experimentálna skupina ITF)
+Dx (vpravo)
+50,64
+7,73
+39-67
+Sin (vl’avo)
+50,72
+7,18
+38-67
+Zápästie - Extenzia (Kontrolná skupina K)
+Dx (vpravo)
+51,96
+7,48
+39-68
+Sin (vl’avo)
+52,40
+6,77
+38-68
+3.6.3
+
+x̄ Po
+
+sd Po
+
+min-max
+
+65,34
+65,66
+
+7,45
+6,46
+
+53-78
+52-77
+
+61,25
+61,73
+
+7,39
+6,89
+
+48-74
+50-73
+
+55,76
+55,82
+
+7,70
+7,23
+
+43-70
+42-69
+
+53,87
+54,35
+
+7,83
+6,48
+
+39-67
+40-67
+
+Analýza goniometrických meraní kĺbov ruky (MCP a PIP)
+
+Pri drobných kĺboch hornej končatiny (MCP a PIP) sme u experimentálnej skupiny
+pozorovali najvýraznejšie funkčné prírastky.
+V experimentálnom súbore (n=50) sa flexia v MCP kĺboch zvýšila z vstupných
+67,30 ± 7,04 stupňa na 72,60 ± 7,30 stupňa, čo je kl’účové pre úchopové funkcie. V kontrolnom súbore sme zaznamenali zmenu z 67,90 ± 8,57 na 69,78 ± 8,20 stupňa. Výsledky
+zachytáva Graf 10.
+Goniometria MCP kĺbov – Flexia
+
+Rozsah pohybu (stupne)
+
+100,00
+80,00
+72,60 69,78
+
+67,30 67,90
+
+60,00
+40,00
+20,00
+0,00
+Pred terapiou
+
+Po terapii
+
+ITF + kinezioterapia
+
+Kinezioterapia
+
+Graf 10 Goniometria MCP – Flexia (stupne) u oboch skupín
+Extenzia v MCP kĺboch v experimentálnej skupine (n=50) pred terapiou dosahovala 34,92 ± 6,55 stupňa a po mesiaci liečby vzrástla na 39,21 ± 6,31 stupňa. V kontrolnej
+40
+
+skupine (n=50) sme zaznamenali progres z 34,23 ± 6,82 na 35,46 ± 6,93 stupňa (Graf 11).
+Goniometria MCP kĺbov – Extenzia
+
+Rozsah pohybu (stupne)
+
+50,00
+40,00
+
+39,21
+35,46
+
+34,92 34,23
+
+30,00
+20,00
+10,00
+0,00
+Pred terapiou
+
+Po terapii
+
+ITF + kinezioterapia
+
+Kinezioterapia
+
+Graf 11 Goniometria MCP – Extenzia (stupne) u oboch skupín
+Pri flexii v PIP kĺboch sme v experimentálnom súbore (n=50) namerali vstupných
+75,31 ± 8,20 stupňa a výstupných 78,42 ± 8,35 stupňa. U probandov kontrolnej skupiny
+bol tento posun z 76,51 ± 8,69 na 79,28 ± 8,43 stupňa. Výsledky porovnáva Graf 12.
+Goniometria PIP kĺbov – Flexia
+
+Rozsah pohybu (stupne)
+
+100,00
+80,00
+
+78,42 79,28
+
+75,31 76,51
+
+60,00
+40,00
+20,00
+0,00
+Pred terapiou
+
+Po terapii
+
+ITF + kinezioterapia
+
+Kinezioterapia
+
+Graf 12 Goniometria PIP – Flexia (stupne) u oboch skupín
+
+41
+
+Tabul’ka 6 Goniometria kĺbov ruky – MCP a PIP (stupne)
+Parameter / Strana x̄ Pred sd Pred min-max
+MCP - Flexia (Experimentálna skupina ITF)
+Dx (vpravo)
+67,82
+7,24
+55-82
+Sin (vl’avo)
+66,78
+6,84
+52-80
+MCP - Flexia (Kontrolná skupina K)
+Dx (vpravo)
+68,62
+8,31
+56-84
+Sin (vl’avo)
+67,18
+8,83
+53-86
+MCP - Extenzia (Experimentálna skupina ITF)
+Dx (vpravo)
+35,08
+6,28
+22-54
+Sin (vl’avo)
+34,76
+6,82
+20-52
+MCP - Extenzia (Kontrolná skupina K)
+Dx (vpravo)
+34,32
+6,83
+23-55
+Sin (vl’avo)
+34,14
+6,82
+23-54
+PIP - Flexia (Experimentálna skupina ITF)
+Dx (vpravo)
+74,50
+8,12
+62-95
+Sin (vl’avo)
+76,12
+8,28
+64-98
+PIP - Flexia (Kontrolná skupina K)
+Dx (vpravo)
+76,90
+8,72
+64-92
+Sin (vl’avo)
+76,12
+8,66
+64-92
+3.6.4
+
+x̄ Po
+
+sd Po
+
+min-max
+
+73,06
+72,14
+
+7,32
+7,28
+
+61-90
+58-88
+
+70,42
+69,13
+
+7,81
+8,58
+
+58-83
+55-86
+
+39,26
+39,16
+
+6,15
+6,47
+
+25-58
+23-56
+
+35,52
+35,40
+
+6,78
+7,08
+
+25-54
+22-54
+
+77,98
+78,86
+
+8,45
+8,25
+
+65-102
+68-105
+
+79,66
+78,89
+
+8,56
+8,29
+
+67-95
+68-95
+
+Analýza goniometrických meraní kĺbov nohy (MTP)
+
+Zásadným prínosom nášho výskumu je sledovanie pohyblivosti MTP kĺbov (metatarzofalangeálnych), ktoré sú pri RA často postihnuté "prednosrdímä deformitami.
+V experimentálnej skupine (n=50) sme pri flexii v MTP namerali pred terapiou
+priemernú hodnotu 31,42 ± 4,25 stupňa. Po liečbe sa rozsah zvýšil na 39,82 ± 4,15 stupňa.
+U kontrolnej skupiny (n=50) bol progres pri flexii v MTP z 31,09 ± 6,42 na 32,19 ± 6,05
+stupňa. Výsledky dokumentuje Graf 13.
+
+42
+
+Goniometria MTP kĺbov – Flexia
+
+Rozsah pohybu (stupne)
+
+100,00
+80,00
+60,00
+40,00
+
+39,82
+32,19
+
+31,42 31,09
+
+20,00
+0,00
+Pred terapiou
+
+Po terapii
+
+ITF + kinezioterapia
+
+Kinezioterapia
+
+Graf 13 Goniometria MTP – Flexia (stupne) u oboch skupín
+Pri extenzii v MTP v experimentálnej skupine (n=50) narástol rozsah pohybu
+z vstupných 55,70 ± 6,30 stupňa na výstupných 66,14 ± 6,10 stupňa. V kontrolnej skupine
+(n=50) sme namerali zmenu z 58,41 ± 5,86 na 60,41 ± 5,86 stupňa. Tieto výsledky (Graf
+14) svedčia o významnom benefite kombinovanej terapie aj pre stabilitu stoja a chôdze.
+Goniometria MTP kĺbov – Extenzia
+
+Rozsah pohybu (stupne)
+
+100,00
+80,00
+66,14
+
+60,00
+
+60,41
+
+55,70 58,41
+
+40,00
+20,00
+0,00
+Pred terapiou
+
+Po terapii
+
+ITF + kinezioterapia
+
+Kinezioterapia
+
+Graf 14 Goniometria MTP – Extenzia (stupne) u oboch skupín
+
+43
+
+Tabul’ka 7 Goniometria kĺbov nohy – MTP (stupne)
+Parameter / Strana x̄ Pred sd Pred min-max
+MTP - Flexia (Experimentálna skupina ITF)
+Dx (vpravo)
+31,48
+4,32
+22-38
+Sin (vl’avo)
+31,36
+4,18
+22-40
+MTP - Flexia (Kontrolná skupina K)
+Dx (vpravo)
+31,40
+6,84
+22-42
+Sin (vl’avo)
+30,78
+6,00
+22-42
+MTP - Extenzia (Experimentálna skupina ITF)
+Dx (vpravo)
+55,75
+6,38
+45-66
+Sin (vl’avo)
+55,65
+6,22
+44-68
+MTP - Extenzia (Kontrolná skupina K)
+Dx (vpravo)
+58,26
+6,36
+45-65
+Sin (vl’avo)
+58,56
+5,37
+48-65
+
+x̄ Po
+
+sd Po
+
+min-max
+
+39,85
+39,79
+
+4,20
+4,10
+
+30-48
+31-48
+
+32,46
+31,92
+
+6,10
+6,01
+
+25-42
+22-43
+
+66,18
+66,10
+
+6,15
+6,05
+
+55-78
+54-78
+
+60,18
+60,64
+
+6,28
+5,45
+
+45-68
+50-68
+
+Komplexný pohl’ad na subjektívny stav pacientov poskytol podrobný dotazník vlastnej konštrukcie, ktorý sledoval 10 kl’účových parametrov (ADL, bolest’ pri chôdzi, stuhnutost’, únava, bolesti v kĺboch, mobilita, motorika, úzkost’, spánok a práca). V experimentálnej skupine (ITF) bolo priemerné vstupné skóre 59,20 ± 18,56 bodu a po liečbe
+kleslo na 49,22 ± 18,52 bodu. V kontrolnej skupine sme zaznamenali miernejšie zlepšenie
+z 50,30 ± 4,19 na 46,06 ± 5,23 bodu. Porovnanie oboch skupín znázorňuje Graf 15.
+Celkové skóre dotazníka vlastnej konštrukcie
+80,00
+
+Súčet bodov
+
+60,00
+
+59,20
+50,30
+46,06
+
+49,22
+
+40,00
+20,00
+0,00
+ITF + kinezioterapia
+
+Kinezioterapia
+
+Pred terapiou
+
+Po terapii
+
+Graf 15 Celkové skóre dotazníka vlastnej konštrukcie u oboch skupín
+
+44
+
+3.6.5
+
+Verifikácia stanovených hypotéz
+
+Na základe podrobného štatistického spracovania a rozpísania dát uvedených v sekcii
+3.6 (Tabul’ky 3–7) sme pristúpili k vyhodnoteniu stanovených hypotéz.
+Hypotéza č. 1: Predpokladáme, že pacienti s reumatoidnou artritídou, ktorí absolvujú terapiu interferenčnými prúdmi v kombinácii s kinezioterapiou, uvádzajú nižšiu intenzitu bolesti než pacienti liečení len kinezioterapiou.
+Na overenie tejto hypotézy sme použili výsledky štatistického spracovania intenzity
+bolesti zaznamenanej v dotazníku (Tabul’ka 3). V experimentálnej skupine (n=50) bola
+priemerná hodnota bolesti pri zát’aži pred terapiou 7,24 ± 2,10 bodov a po ukončení kombinovanej liečby sme dosiahli výrazné zlepšenie na 4,92 ± 1,72 bodov. V kontrolnej skupine
+(n=50) klesla priemerná hodnota bolesti pri zát’aži z vstupných 7,00 ± 2,06 na výstupných
+5,40 ± 1,76 bodov. Pri porovnaní oboch skupín vidíme, že v skupine s elektroliečbou (ITF)
+došlo k poklesu o 2,32 bodu, zatial’ čo v kontrolnej skupine len o 1,6 bodu. Vyššie uvedená
+analýza potvrdzuje väčší analgetický efekt kombinovanej terapie. Na základe tohto hodnotenia hypotézu H1 prijímame.
+Hypotéza č. 2: Predpokladáme, že kombinácia interferenčných prúdov a kinezioterapie má väčší pozitívny vplyv na rozsah pohybu v postihnutých kĺboch ako samotná
+kinezioterapia.
+K verifikácii druhej hypotézy sme využili údaje z goniometrických meraní (Tabul’ky
+5, 6 a 7). Pri sledovaní flexie v zápästí u experimentálnej skupiny vzrástol rozsah z 60,14 ± 6,94
+na 65,50 ± 6,96 stupňa, kým v kontrolnej skupine bol posun z 59,54 ± 7,05 na 61,49 ± 7,14
+stupňa. Pri extenzii v zápästí sme zaznamenali v ITF skupine progres z 50,68 ± 7,46 na
+55,79 ± 7,47 stupňa, zatial’ čo kontrolná skupina vykazovala miernejšie zlepšenie z 52,18 ± 7,13
+na 54,11 ± 7,16 stupňa.
+Obdobný trend sme zaznamenali aj pri drobných kĺboch ruky. Flexia v MCP kĺboch
+v experimentálnom súbore vykázala zlepšenie o 5,30 stupňa, zatial’ čo v kontrolnom o 1,88
+stupňa. Pri extenzii v MCP kĺboch bol posun u ITF skupiny 4,29 stupňa oproti 1,23 stupňa
+v kontrolnom súbore. Flexia v PIP kĺboch vykazovala u experimentálnej skupiny nárast
+z 75,31 ± 8,20 na 78,42 ± 8,35 stupňa a u kontrolnej skupiny z 76,51 ± 8,69 na 79,28 ± 8,43
+stupňa.
+Najmarkantnejšie rozdiely sme pozorovali pri kĺboch nohy. Flexia v MTP kĺboch
+u ITF skupiny dosiahla progres o 8,40 stupňa, kým u kontrolnej len o 1,10 stupňa. Pri extenzii v MTP kĺboch sme u experimentálnej skupiny namerali nárast o 10,44 stupňa (z 55,70
+na 66,14), zatial’ čo u kontrolnej skupiny bol tento prírastok len 2,00 stupňa. Všetky sledované segmenty vykazujú u skupiny s interferenčnými prúdmi výraznejší nárast kĺbovej
+pohyblivosti. Na základe týchto zistení hypotézu H2 prijímame.
+Hypotéza č. 3: Predpokladáme, že pacienti liečení kombinovanou terapiou subjektívne hodnotia kvalitu svojho života pozitívnejšie ako pacienti v skupine bez elektroterapie.
+45
+
+Na overenie tretej hypotézy sme analyzovali parametre rannej stuhnutosti (Tabul’ka
+4) a celkové skóre dotazníka vlastnej konštrukcie (Graf 15). Intenzita rannej stuhnutosti
+v experimentálnej skupine klesla z 6,02 ± 2,24 na 3,02 ± 1,95 bodu (zlepšenie o 3 body), pričom v kontrolnej skupine bol pokles o necelý 1 bod (5,32 na 4,42). Celkové skóre dotazníka
+(kde nižšia hodnota znamená lepšiu kvalitu života) kleslo u ITF skupiny z 59,20 ± 18,56
+na 49,22 ± 18,52 bodu. U kontrolnej skupiny bol tento pokles ovel’a miernejší (z 50,30 na
+46,06). Výsledky potvrdzujú, že pacienti s kombinovanou liečbou subjektívne pocit’ujú menšie funkčné obmedzenie a lepšie zvládajú bežné denné aktivity. Na základe týchto výsledkov
+hypotézu H3 prijímame.
+3.7
+
+Etické aspekty výskumu
+
+Výskum prebiehal v súlade s etickými princípmi klinického skúšania. Všetci participujúci pacienti boli vopred oboznámení s ciel’om prieskumu a dobrovol’ne súhlasili s poskytnutím údajov pre vedecké účely. Zber dát bol realizovaný anonymne, bez zaznamenávania
+osobných identifikačných údajov, čím bola zabezpečená plná ochrana súkromia všetkých
+probandov. Získané výsledky slúžia výhradne na účely spracovania tejto diplomovej práce.
+
+46
+
+4 Diskusia
+V súčasnej dobe predstavuje reumatoidná artritída (RA) jednu z najzávažnejších výziev modernej reumatológie a rehabilitácie. Ide o systémové zápalové ochorenie, ktoré svojou progresiou vedie nielen k štrukturálnym zmenám na kĺboch, ale výrazne deštruuje aj sociálne väzby a pracovnú schopnost’ pacienta. Socio-ekonomická zát’až spojená s dlhodobou
+liečbou a prípadnou invalidizáciou je enormná. V našej diplomovej práci sme sa preto zamerali na hl’adanie optimálnych terapeutických ciest, ktoré by dokázali efektívne zmiernit’
+symptómy a spomalit’ funkčný úpadok pacienta. Porovnanie kombinovanej terapie (interferenčné prúdy a kinezioterapia) oproti izolovanej kinezioterapii nám poskytlo cenné dáta,
+ktoré potvrdzujú potrebu multidisciplinárneho prístupu.
+4.1
+
+Interpretácia výsledkov a biofyzikálne súvislosti
+
+Interpretáciou výsledkov sme dospeli k jednoznačnému potvrdeniu stanovených hypotéz. Z hl’adiska biofyziky je kl’účové pochopit’, prečo práve interferenčné prúdy (IFP)
+v kombinácii s pohybom vykazujú taký výrazný synergický efekt. IFP pôsobia v hĺbke tkaniva, kde dochádza k interferencii dvoch strednefrekvenčných prúdov, čím vzniká nízkofrekvenčný modulačný účinok. Tento mechanizmus umožňuje prekonat’ kožný odpor bez dráždenia nociceptorov na povrchu, čo je u reumatikov s precitlivenou kožou (často vplyvom
+kortikoterapie) kl’účová výhoda.
+Vplyvom kombinovanej terapie na intenzitu bolesti (H1) sme zaznamenali v našom experimentálnom súbore pokles priemernej hodnoty VAS pri zát’aži o 2,32 bodu, zatial’
+čo v kontrolnej skupine bol tento pokles len 1,60 bodu. Tento rozdiel pripisujeme schopnosti interferenčných prúdov blokovat’ prenos bolestivých vzruchov cestou teórie vrátkovej
+kontroly (Gate Control Theory), ktorú definovali Melzack a Wall. Podl’a tejto teórie stimulácia hrubých aferentných vlákien A-beta „zatvára bránu“ pre bolestivé stimuly prichádzajúce
+cez tenké vlákna C. Navyše, aplikácia IFP vyvoláva vazodilatáciu a zlepšuje mikrocirkuláciu, čo vedie k rýchlejšiemu odplavovaniu algogénnych látok (laktát, serotonín, histamín)
+zo zápalového ložiska. Fuentes et al. (2010) vo svojej meta-analýze uvádzajú, že práve táto
+„metabolická očista“ tkaniva je zodpovedná za dlhodobejší analgetický efekt v porovnaní
+s bežným TENS prúdom.
+Pri hodnotení rozsahu pohybu (H2) boli výsledky v prospech experimentálnej skupiny ešte markantnejšie. Najvýraznejšie zlepšenie sme pozorovali pri extenzii v MTP kĺboch
+(nárast o 10,44 stupňa). Tento jav vysvetl’ujeme tým, že potlačenie bolesti pomocou IFP
+umožnilo pacientom prekonat’ tzv. antalgický svalový spazmus. Reumatik podvedome obmedzuje pohyb v kĺbe, aby sa vyhol bolesti, čo vedie k sekundárnemu skracovaniu mäkkých tkanív a kĺbových puzdier. Interferenčné prúdy svojím jemným vibračným účinkom
+pôsobia ako „mikromasáž“, čím uvol’ňujú hypertonus svalov a zlepšujú viskoelasticitu ko-
+
+47
+
+lagénnych vlákien. Tým sa vytvára ideálne „okno príležitosti“ pre následnú kinezioterapiu.
+Naše výsledky korešpondujú s teóriou vrátkovej kontroly bolesti, ktorú vo svojom prehl’ade
+rozoberajú Érika Patrícia Rampazo et al. (2022). Zmiernenie bolesti umožňuje pacientovi
+vykonávat’ cvičenia vo väčšom rozsahu a s menším svalovým odporom. Cvičenie v odbolestnenom stave je nielen efektívnejšie, ale pre pacienta aj psychicky prijatel’nejšie, čo
+zvyšuje compliance k liečbe. Kolář (2009) vo svojej učebnici zdôrazňuje, že elektroterapia
+bez následného cvičenia je v rehabilitácii RA len polovičatým riešením, s čím sa na základe
+našich dát plne stotožňujeme.
+Subjektívne vnímanie kvality života (H3) sme analyzovali nielen cez rannú stuhnutost’, ale aj cez 10 špecifických ADL parametrov. Zlepšenie celkového skóre v ITF skupine
+(pokles o cca 10 bodov) jasne reflektuje lepšiu adaptáciu pacienta na bežný život. Zaujímavým zistením bol vplyv na spánok a úzkost’. Pacienti uvádzali, že vd’aka ústupu nočnej
+bolesti sa zlepšila kvalita ich oddychu, čo následne znižovalo dennú únavu – jeden z hlavných limitujúcich faktorov u RA. Ranná stuhnutost’, ktorú pacienti s RA vnímajú ako vel’mi
+obmedzujúcu, klesla v experimentálnom súbore v pomere 3:1 oproti kontrole. Tento efekt
+pripisujeme resorpcii perikapsulárnych edémov, ktorú IFP stimulujú cestou zlepšenej lymfatickej drenáže.
+4.2
+
+Porovnanie s literárnymi prameňmi
+
+Náš výskum korešponduje s viacerými recentnými štúdiami. Zhang et al. (2025) vo
+svojej vedeckej práci zdôrazňuje, že kombinácia fyzikálnych modalít a cvičenia je v liečbe
+reumatických ochorení efektívnejšia než izolované prístupy. Zhangov výskum sa síce primárne zameriaval na vel’ké kĺby, avšak princíp akcelerácie liečebného procesu pri použití
+synergie je identický s našimi zisteniami na drobných kĺboch ruky a nohy.
+Podobne Alayat et al. (2016) potvrdili, že pridanie prístrojovej fyzikálnej terapie
+k liečebnej telesnej výchove (LTV) výrazne znižuje chronickú bolest’. Hoci vo svojej štúdii
+používali vysokovýkonný laser, mechanizmus tlmenia bolesti a podpory regenerácie tkanív
+je v mnohom analogický pôsobeniu interferenčných prúdov. Náš výber IFP v praxi TnUAD
+bol motivovaný lepšou dostupnost’ou tejto modality a jej schopnost’ou plošne zasiahnut’
+viaceré drobné kĺby súčasne (napr. metakarpy), čo je pri laserovej terapii časovo náročnejšie.
+V kontraste s niektorými staršími prácami, ktoré spochybňovali význam elektroterapie u reumatikov, sa stotožňujeme s modernými názormi Metsios et al. (2020). Tí uvádzajú,
+že moderné prístupy k LTV musia byt’ podporené adekvátnou kontrolou bolesti, aby nedošlo k nežiaducemu pret’ažovaniu zapálených štruktúr. Naše dáta z dotazníkov (Graf 15)
+potvrdzujú, že pacienti vnímajú kombinovanú terapiu ako bezpečnú a vysoko efektívnu, čo
+je kl’účové pre dlhodobé udržanie liečebného režimu.
+Pri hlbšom štúdiu domácej literatúry, konkrétne prác K. Pavelka (2012) a Karel Pavelka et al. (2018), nachádzame potvrdenie dôležitosti včasnej intervencie. Pavelka zdôrazňuje, že „včasné okno“ liečby nie je dôležité len pri farmakoterapii biologikami, ale rov48
+
+naký význam má aj v rehabilitácii. My dopĺňame, že práve pridanie interferenčnej terapie
+umožňuje pacientom začat’ s aktívnym pohybom skôr a v intenzívnejšej forme, než by im
+dovol’ovala samotná ranná bolest’.
+4.3
+
+Bio-psycho-sociálny aspekt a klinický význam
+
+Nemožno opomenút’ ani psychologický aspekt terapie. Pacienti podstupujúci kombinovanú liečbu mali pravidelný kontakt s fyzioterapeutom počas dvoch fáz (elektroterapia
+aj cvičenie), čo mohlo pôsobit’ ako motivačný faktor. Vedomie, že využívajú „moderný prístrojový prístup“, zvyšovalo dôveru v terapiu (placebo efekt sme nesledovali, ale jeho podiel
+nemožno úplne vylúčit’). Fyzioterapeut tu nepôsobí len ako inštruktor cvičenia, ale aj ako
+edukátor, ktorý pacienta učí rozumiet’ svojej bolesti a reagovat’ na jej zmeny.
+Zaujímavým vedl’ajším zistením našej práce (otázka č. 1 v dotazníku) bol fakt, že typ
+pracovného zat’aženia (fyzické vs. psychické) nemal štatisticky významný vplyv na mieru
+zlepšenia pod vplyvom ITF. Toto zistenie je povzbudivé pre klinickú prax, pretože naznačuje, že kombinovaná terapia je univerzálne účinná pre široké spektrum pacientov s RA, bez
+ohl’adu na ich profesijný profil. To vyvracia mýtus, že fyzikálna terapia je vhodná len pre
+starších, nepracujúcich pacientov.
+4.4
+
+Limity a silné stránky štúdie
+
+Každý výskum má svoje limity a naša práca nie je výnimkou. Za hlavný limit považujeme obmedzený časový horizont sledovania. Reumatoidná artritída je celoživotné ochorenie a hoci sme zaznamenali signifikantné zlepšenie bezprostredne po 10-dňovom cykle,
+dlhodobý efekt (follow-up po 3 alebo 6 mesiacoch) nebol predmetom tejto práce. Taktiež variabilita v užívaných antireumatikách (NSAID, biologická liečba) u jednotlivých pacientov
+mohla čiastočne maskovat’ alebo naopak umocňovat’ výsledky, hoci sme sa snažili o rovnomerné rozdelenie súboru.
+Za silné stránky našej štúdie však považujeme:
+• Vysoká precíznost’ merania: Goniometrické meranie všetkých drobných kĺbov (Dx
+aj Sin) poskytlo omnoho detailnejší obraz o stave pacienta než bežné meranie len najviac postihnutého kĺbu.
+• Homogenita súboru: Rozdelenie 100 pacientov (50 vs 50) s reumatoidným ochorením predstavuje robustný vzorec pre diplomovú prácu, čo zvyšuje štatistickú silu
+výpovede.
+• Kombinácia objektívnych a subjektívnych metód: Prepojenie goniometrie s komplexným 10-parametrovým dotazníkom umožňuje holistický pohl’ad na pacienta.
+Záverom diskusie môžeme konštatovat’, že predložené výsledky tvoria pevný základ
+pre odporúčanie kombinovanej terapie do bežnej rehabilitačnej praxe. Synergia medzi hĺbkovým pôsobením interferenčných prúdov a cielenou kinezioterapiou sa ukazuje ako kl’úč
+49
+
+k lepšej mobilite a menšej bolesti u reumatikov, čo v konečnom dôsledku vedie k zachovaniu
+ich l’udskej dôstojnosti a nezávislosti.
+
+50
+
+ODPORÚČANIA PRE PRAX
+1. Fyzioterapeutický plán u reumatikov musí byt’ koncipovaný prísne individuálne so zohl’adnením aktuálnej aktivity zápalového procesu. Odporúčame systematickú kontrolu
+klinických indexov, čím sa dosiahne optimálna kalibrácia intenzity interferenčných
+prúdov a nadväzne kinezioterapie.
+2. Presadzujeme implementáciu včasnej rehabilitácie hned’ po stanovení diagnózy. Preventívny charakter včasnej fyzioterapie je zásadný pre potlačenie rozvoja ankylóz
+a udržanie funkčnej integrity postihnutých kĺbových segmentov.
+3. Považujeme za nevyhnutné edukovat’ pacientov o význame prístrojovej fyzikálnej terapie. Správna edukácia o protiopuchových a protiestéznych účinkoch IFP môže podstatne zvýšit’ aktívnu účast’ pacienta na rehabilitačnom procese.
+4. Vd’aka preukázatel’nému tlmeniu algickej symptomatiky by sa aplikácia interferenčných prúdov mala stat’ základným pre-kinezioterapeutickým pilierom v dennej rehabilitačnej praxi na reumatologických pracoviskách.
+5. Kombinovaná liečebná schéma (fyzikálna + pohybová) by mala byt’ štandardizovaná
+ako súčast’ komplexnej starostlivosti pre všetkých pacientov s prejavmi RA na periférnych kĺboch, čím sa akceleruje funkčná obnova motoriky.
+6. Pre dosiahnutie stálosti liečebného progresu odporúčame zavedenie dlhodobých preventívnych cvičení v domácom prostredí. Pacient musí byt’ motivovaný k pravidelnej
+autoterapii, ktorá predstavuje kl’účový nástroj k prevencii relapsov a zachovaniu mobility.
+
+51
+
+ZÁVER
+Predkladaná diplomová práca sumarizuje kl’účové zistenia v oblasti nefarmakologickej liečby reumatoidnej artritídy, pričom sa zameriava na komparáciu efektivity kombinovanej fyzioterapie oproti izolovanej pohybovej liečbe. Naše merania a analýzy jednoznačne
+potvrdili, že obe sledované metodiky prispievajú k zmierneniu symptómov ochorenia, avšak
+miera klinického prínosu sa štatisticky významne líši.
+Výsledky výskumu preukázali, že synergické pôsobenie interferenčných prúdov a cieleného cvičenia generuje výraznejší terapeutický benefit vo všetkých sledovaných doménach – od objektívneho zlepšenia kĺbovej mobility až po subjektívne vnímanie analgetického
+účinku. Práve toto prepojenie fyzikálnej a pohybovej zložky sa javí ako kl’účový determinant
+úspešnej rehabilitácie u pacientov trpiacich chronickými zápalovými zmenami na drobných
+kĺboch rúk a nôh.
+Zaujímavým aspektom našej práce je zistenie, že pozitívny vplyv liečby nie je ovplyvnený charakterom pracovného zat’aženia pacienta. Pacienti pracujúci manuálne, ako aj pacienti so sedavým zamestnaním, profitovali z aplikovanej liečby rovnako, čo podčiarkuje
+univerzálnu stabilitu a vhodnost’ navrhnutého terapeutického protokolu pre širokú populáciu
+reumatikov.
+Záverom možno konštatovat’, že integrácia interferenčných prúdov do liečebného
+plánu reumatoidnej artritídy predstavuje progresívny a vysoko efektívny prístup. Táto kombinovaná modalita nielenže urýchl’uje funkčnú obnovu postihnutých segmentov, ale signifikantne zvyšuje kvalitu každodenného života pacientov, čím napĺňa základný ciel’ komplexnej rehabilitácie v reumatológii.
+
+52
+
+Zoznam bibliografických odkazov
+ALAYAT, Mohamed S.; MOHAMED, Ahmed A.; HELAL, Olfat A.; HAMADA, Hamada
+A., 2016. Efficacy of high-intensity laser therapy in the treatment of chronic neck pain: a
+randomized double-blind placebo-control trial. Lasers in Medical Science. Roč. 31, č. 4,
+s. 687–694. ISSN 0268-8921.
+ALETAHA, D.; NEOGI, T.; SILMAN, A. J., 2010. 2010 Rheumatoid arthritis classification
+criteria: an American College of Rheumatology/European League Against Rheumatism
+collaborative initiative. Annals of the Rheumatic Diseases. Roč. 69, č. 9, s. 1580–1588.
+ISSN 0003-4967.
+ARIBI, Ikram; NOURREDINE, Mikail; GIROUDON, Caroline; MASSY, Emmanuel; LEGA,
+Jean-Christophe; KASSAI, Behrouz; GRENET, Guillaume, 2025. Efficacy and safety
+of balneotherapy in rheumatology: a systematic review and meta-analysis. BMJ Open.
+Roč. 15, č. 2, e089597. ISSN 2044-6055. Source:
+BUC, M., 2016. Autoimunita a autoimunitné choroby. 2. vyd. Bratislava: VEDA, vydavatel’stvo SAV. ISBN 978-80-224-1511-8.
+CAPKO, J., 1998. Základy fyziatrické léčby. Praha: Grada Publishing. ISBN 80-7169-341-3.
+Reprint 2010.
+DYLEVSKÝ, I., 2009. Funkční anatomie. Praha: Grada. ISBN 978-80-247-3240-4.
+EL AMMARE, S. et al., 2023. The Effectiveness of Physiotherapy in Patients with Rheumatoid Arthritis on Pain and Function: A Systematic Review. Cuestiones de Fisioterapia.
+Roč. 52, č. 1.
+FIRESTEIN, Gary S.; BUDD, Ralph C.; GABRIEL, Sherine E.; MCINNES, Iain B.; O’DELL,
+James R., 2021. Firestein & Kelley’s Textbook of Rheumatology. 11. vyd. Elsevier. ISBN
+978-0-323-63920-0.
+FREEDMAN, B. I.; FERNANDEZ, C. M., 2014. Rheumatoid Arthritis and Its Impact on
+Cardiovascular Disease. Nature Reviews Rheumatology. Roč. 10, č. 12, s. 730–740. ISSN
+1759-4790.
+FUENTES, J. P.; ARMIJO OLIVO, S.; MAGEE, D. J.; GROSS, D. P., 2010. Effectiveness
+of interferential current therapy in the management of musculoskeletal pain: a systematic
+review and meta-analysis. Physical Therapy. Roč. 90, č. 9, s. 1219–1238. ISSN 00319023.
+GAO, Y.; ZHANG, Y.; LIU, X., 2020. Rheumatoid arthritis: pathogenesis and therapeutic
+advances. MedComm. Roč. 5, č. 3, e509. ISSN 2688-2663.
+GOATS, G C, 1990. Interferential current therapy. British Journal of Sports Medicine. Roč. 24,
+č. 2, s. 87–92. ISSN 0306-3674. Source:
+53
+
+GRAVALDI, Luca Pontone; BONETTI, Francesca; LEZZERINI, Simona; DE MAIO, Fernando, 2022. Effectiveness of Physiotherapy in Patients with Ankylosing Spondylitis:
+A Systematic Review and Meta-Analysis. Healthcare. Roč. 10, č. 1, s. 132. ISSN 22279032.
+GÚTH, A., 2010. Rehabilitácia a reumatológia. Rehabilitácia. Roč. 47, č. 1. ISSN 0375-0922.
+HERBERT, Robert; JAMTVEDT, Gro; HAGEN, Kåre Birger; ELKINS, Mark R., 2022.
+Practical Evidence-Based Physiotherapy. 3. vyd. Elsevier. ISBN 9780323848398.
+CHEN, Hung-Lun; YANG, Fu-An; LEE, Ting-Hsuan et al., 2022. Effectiveness of interferential current therapy in patients with knee osteoarthritis: a systematic review and
+meta-analysis of randomized controlled trials. Scientific Reports. Roč. 12, s. 9694. ISSN
+2045-2322. Source:
+CHOY, E. H. S., 2012. Understanding the Dynamics: Pathogenesis of Rheumatoid Arthritis.
+Best Practice & Research Clinical Rheumatology. Roč. 26, č. 2, s. 131–143. ISSN 15216942.
+ISAACS, J. D.; MORELAND, L. W., 2002. Fast Facts - Rheumatoid Arthritis. Oxford: Health Press Ltd. ISBN 1-903734-16-9.
+JAROŠOVÁ, H.; TAUŠOVÁ, E.; ŠMUCROVÁ, H., 2018. Rehabilitace u revmatických onemocnění. Zv. 2. Praha: Maxdorf. Revmatologie. ISBN 978-80-7345-583-5.
+KADURA, S.; RAGHU, G., 2021. Reumatoidná artritída – intersticiálne ochorenie pl’úc:
+Prejavy a súčasné koncepty v patogenéze a manažmente. European Respiratory Review.
+Roč. 30, č. 160. ISSN 0905-9180.
+KAŠPEROVÁ, S. et al., 2021. Reumatoidná artritída a poruchy metabolizmu. Vnitřní lékařství. Roč. 67, č. 2. ISSN 0042-773X.
+KAWA, Malgorzata; MUSZYNSKA, Ewa; KOWZA-DZWONKOWSKA, Malgorzata, 2014.
+Evaluation of analgesic effectiveness of infrared radiation and interference currents in degenerative diseases. Baltic Journal of Health and Physical Activity. Roč. 6, č. 4, s. 273–
+283. ISSN 2080-9999.
+KLENER, P., 2011. Vnitřní lékařství. 4., přeprac. a dopl. vyd. Praha: Galén. ISBN 978-80246-1986-6.
+KLUSOŇOVÁ, E.; PITNEROVÁ, J., 2014. Rehabilitační ošetřování klientů s těžkými poruchami hybnosti. 3., upr. vyd. Brno: Národní centrum ošetřovatelství a nelékařských
+zdravotnických oborů. ISBN 978-80-7013-567-9.
+KOLÁŘ, P., 2009. Rehabilitace v klinické praxi. Praha: Galén. ISBN 978-80-7262-657-2.
+KOLÁŘ, P.; KOL., 2012. Rehabilitace v klinické praxi. 1. vyd. Praha: Galén. ISBN 978-807262-657-1.
+
+54
+
+KRAFT, M., 2018. Základy fyzikálnej terapie. Bratislava: Univerzita Komenského. ISBN
+974-80-7861-384-9. Pozor: V zdroji uvedené ISBN 974-80-7861-384-9 obsahuje pravdepodobne preklep (974 namiesto 978).
+KRCHŇAVÁ, Martina; ŠIMONOVÁ, Michaela; ĎURINOVÁ, Eva; ZAMBOJOVÁ, Ingrid,
+2018. Kvalita života u pacientov s reumatoidnou artritídou. Zdravotnícke listy. Roč. 6, č.
+2. ISSN 1339-3022.
+KŘÍŽOVÁ, J., 2014. Základy fyzioterapie. Olomouc: Univerzita Palackého v Olomouci.
+ISBN 978-80-244-4419-5.
+LARKIN, L. et al., 2024. Promoting physical activity in rheumatoid arthritis through a physiotherapist led behaviour change-based intervention (PIPPRA): a feasibility randomised
+trial. Rheumatology International. Roč. 44, č. 5, s. 779–793. ISSN 1437-160X.
+MACEJOVÁ, Ž., 2019. Vybrané kapitoly z reumatológie pre študentov lekárskych fakúlt.
+Košice: Univerzita Pavla Jozefa Šafárika v Košiciach. ISBN 9788081527869.
+MCCARTHY, G. M. et al., 2018. New Therapeutic Approaches in Rheumatoid Arthritis.
+Current Opinion in Rheumatology. Roč. 30, č. 3, s. 251–256. ISSN 1040-8711.
+METSIOS, George S.; KITAS, George D., 2020. Physical activity, exercise and rheumatoid arthritis: Effectiveness, mechanisms and implementation. Best Practice & Research
+Clinical Rheumatology. Roč. 34, č. 6, s. 101504. ISSN 1521-6942.
+MOORE, Judith S; GIBSON, Peter R, 2018. Neuromodulation via Interferential Electrical
+Stimulation as a Novel Therapy in Gastrointestinal Motility Disorders. Journal of Neurogastroenterology and Motility. Roč. 24, č. 1, s. 19–29. ISSN 2093-0879. Source:
+NAVRÁTIL, L.; KOL., 2019. Fyzikální léčebné metody pro praxi. 1. vyd. Praha: Grada Publishing. ISBN 978-80-271-0478-9.
+NĚMEC, P., 2023. Revmatoidní artritida – diagnostika a léčba. Medicína pro praxi. Roč. 20,
+č. 4, s. 201–210. ISSN 1214-8687.
+NETTER, Frank H., 2014. Atlas of Human Anatomy. 6. vyd. Philadelphia: Saunders. ISBN
+978-1-4557-0418-7.
+NORDÉN, K. R. et al., 2024. Effect of high-intensity interval training in physiotherapy primary care for patients with inflammatory arthritis: the ExeHeart randomised controlled
+trial. RMD Open. Roč. 10, č. 1. ISSN 2056-5933.
+OLEJÁROVÁ, M., 2008. Reumatologie v kostce. Praha: Triton. ISBN 978-80-7387-115-4.
+OLEJÁROVÁ, M.; KOL., 2016. Revmatologie v obrazech. Praha: Mladá fronta a. s. ISBN
+978-80-204-4249-9.
+PAVELKA, K., 2012. Revmatoidní artritida: současné možnosti diagnostiky a terapie. Praha:
+Maxdorf. ISBN 978-80-7345-280-4.
+55
+
+PAVELKA, K.; ROVENSKÝ, J. et al., 2003. Revmatoidní artritida. In: Klinická revmatologie. Praha: Galén. ISBN 80-7262-174-2.
+PAVELKA, Karel; VENCOVSKÝ, Jiří, 2018. Revmatologie. Praha: Maxdorf. ISBN 978-807345-577-9.
+PODĚBRADSKÝ, J.; PODĚBRADSKÁ, R., 2009. Fyzikální terapie: manuál a algoritmy.
+Praha: Grada Publishing. ISBN 978-80-247-2899-5.
+POLIAKOVÁ, N.; MATIŠÁKOVÁ, I., 2019. Metodika písania záverečnej práce pre nelekárske zdravotnícke odbory ošetrovatel’stvo a fyzioterapia. 2. vyd. Zlín: Univerzita Tomáše
+Bati ve Zlíně. ISBN 978-80-210-9334-8.
+RAMPAZO, Érika P; LUZ JÚNIOR, Maurício A; CORRÊA, Juliana B et al., 2023. Effectiveness of interferential current in patients with chronic non-specific low back pain: a
+systematic review with meta-analysis. Brazilian Journal of Physical Therapy. Roč. 27, č.
+5, s. 100549. ISSN 1413-3555. Source:
+RAMPAZO, Érika Patrícia; LIEBANO, Richard Eloin, 2022. Analgesic Effects of Interferential Current Therapy: A Narrative Review. Medicina. Roč. 58, č. 1, s. 141. ISSN
+1010-660X.
+ROBERTSON, Valma; WARD, Alex; LOW, John; REED, Ann, 2006. Electrotherapy explained: principles and practice. London: Elsevier Health Sciences. ISBN 978-0-75068843-7.
+ROVENSKÝ, J., 1998. Reumatológia v teórii a praxi. 5. vyd. Praha: Grada. ISBN 80-8882480-X.
+ROVENSKÝ, J., 2001. Klinická reumatológia. Praha: Grada. ISBN 80-8063-022-4.
+ROVENSKÝ, J., 2014. Gerontorevmatologie. Praha: Galén. ISBN 978-80-7492-147-6.
+ROVENSKÝ, J.; KOZÁK, I.; ŠTVRTINOVÁ, V., 2015. Oftalmoreumatológia II. Bratislava:
+SAP. ISBN 978-80-89607-31-0.
+SHAH, P.; TRIVEDI, J.; SHAH, P., 2024. Pathophysiology of rheumatoid arthritis. International Journal of Clinical Case Reports and Reviews. Roč. 2, č. 1. ISSN 2690-4861.
+SCHERER, H. U.; HÄUPL, T.; BURMESTER, G. R., 2020. The etiology of rheumatoid
+arthritis. Journal of Autoimmunity. Roč. 110, s. 102400. ISSN 0896-8411.
+SMITH, M. D., 2015. The Role of Synovial Fibroblasts in Rheumatoid Arthritis. Best Practice & Research Clinical Rheumatology. Roč. 29, č. 5, s. 553–564. ISSN 1521-6942.
+SMOLEN, Josef S.; PANE, Daniel; BARTON, Anne, 2018. Rheumatoid Arthritis. Elsevier.
+ISBN 978-0-7020-6815-7.
+ŠPIRITOVIĆ, M., 2018. Revmatoidní artritida versus cvičení. [cit. 2023-02-21].
+
+56
+
+TAK, P. P.; FIRESTEIN, G. S., 2011. Mechanisms of Disease: Rheumatoid Arthritis. New
+England Journal of Medicine. Roč. 365, č. 23, s. 2205–2219. ISSN 0028-4793.
+VAVROVÁ, M.; VEVERKOVÁ, M.; MACHOVÁ, L., 2016. Fyzioterapia pri ochoreniach
+pohybového aparátu. Martin: Osveta. ISBN 978-80-8063-404-6.
+VERHAGEN, Arianne P.; BIERMA-ZEINSTRA, Sita M. A.; BOERS, Maarten et al., 2015.
+Balneotherapy for rheumatoid arthritis. Cochrane Database of Systematic Reviews. Č. 4.
+ISSN 1469-493X. Source:
+WATOR,
+˛
+Katarzyna, 2020. Balneochemistry: The chemical aspects of balneotherapy. Journal of Elemental Science. Roč. 25, č. 3, s. 1025–1036. ISSN 1644-2296. Source:
+WATSON, T., 2020. Electrophysical Agents. 13. vyd. London: Elsevier/Churchill Livingstone. ISBN 978-0-702-05151-7.
+WILLIAMS, M. A.; WILLIAMSON, E. M.; HEINE, P. J.; NICHOLS, V.; GLOVER, M. J.,
+2015. Strengthening and stretching for rheumatoid arthritis of the hand (SARAH). A
+randomised controlled trial. Health Technology Assessment. Roč. 19, č. 19, s. 1–172.
+ISSN 1366-5278.
+WOLFE, F.; MICHAUD, K., 2010. The Prognosis of Rheumatoid Arthritis: Factors Affecting Long-Term Outcome. Arthritis Care & Research. Roč. 62, č. 3, s. 280–289. ISSN
+2151-464X.
+ZAPOLSKI, Tomasz; KOŁODZIŃSKA, Anna, 2024. The effect of balneotherapy in sulfurous water on cardiovascular system. Cardiology Journal. Roč. 31, č. 1, s. 124–130. ISSN
+1897-5593. Source:
+ZHANG, Yan; HE, Zelin; YIN, Zikang; WANG, Ji; GAO, Wanyi; JIE, Ligang, 2025. Effect
+of Exercise Interventions for Rheumatoid Arthritis: A Systematic Review and Network
+Meta-Analysis of Randomised Controlled Trials. Journal of Pain Research. Roč. 18,
+s. 5109–5126. ISSN 1178-7090.
+
+57
+
+Zoznam príloh
+Príloha 1
+
+Žiadost’ o povolenie výskumu
+
+Príloha 2
+
+Vlastný dotazník
+
+58
+
+PRÍLOHY
+
+Príloha 1 Žiadost’ o povolenie výskumu
+
+Bc. Roman Ballek
+študent 2. ročníka Mgr. štúdia
+Fakulta zdravotníctva TnUAD
+
+Vec: Žiadost’ o povolenie vykonania výskumu pre účely diplomovej práce
+
+Vážený pán riaditel’ / Vážená pani riaditel’ka,
+týmto Vás zdvorilo žiadam o povolenie vykonania výskumu v priestoroch Vášho zdravotníckeho zariadenia. Výskum je realizovaný v rámci mojej diplomovej práce na tému „Využitie
+fyzioterapie u pacientov s reumatickým ochorením“ pod odborným vedením MUDr. Miroslav Malay, PhD..
+Výskum je anonymný a získané údaje budú použité výhradne na vedecké účely a spracovanie
+mojej záverečnej práce. Súčast’ou výskumu je goniometrické meranie postihnutých kĺbov
+a vypĺňanie dotazníka zameraného na kvalitu života pacientov s reumatoidným ochorením.
+Za kladné vybavenie mojej žiadosti Vám vopred d’akujem.
+
+V Trenčíne dňa . . . . . . . . . . . . . . . . . .
+
+...........................
+Podpis študenta
+
+60
+
+Príloha 2 Vlastný dotazník
+Dotazník
+Vážený respondent/respondentka, obdržali ste anonymný dotazník, ktorý slúži len pre potreby spracovania diplomovej práce na tému Využitie fyzioterapie u pacientov s reumatickým
+ochorením na Trenčianskej univerzite Alexandra Dubčeka v Trenčíne.
+Prosíme vás, aby ste pri vypĺňaní zvolili najpravdivejšie možné odpovede. Ak nie ste istí
+správnou odpoved’ou, vyberte možnost’, ktorá najlepšie zodpovedá vašej situácii. V otázkach
+je možné označit’ len 1 odpoved’. Všetky otázky sú povinné.
+Vopred Vám d’akujeme za vyplnenie Bc. Roman Ballek.
+Demografické údaje:
+Pohlavie : . . . . . . . . . . . . . . . . . .
+Vek: . . . . . . . . . . . . . . . . . . rokov
+Výška : . . . . . . . . . . . . . . . . . . cm
+Hmotnost’ : . . . . . . . . . . . . . . . . . . kg
+1. Zamestnanie / Typ zat’aženia:
+1. aktívne
+2. sedavé
+3. nezamestnaný / dôchodca
+2. Subjektívne hodnotenie stupňa bolesti pred začatím liečby (zakrúžkujte):
+(žiadna bolest’)
+(neznesitel’ná bolest’)
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+14
+
+16
+
+18
+
+20
+
+22
+
+3. Typ bolesti:
+1. tupá
+2. pálivá
+3. bodavá
+4. pulzujúca
+5. tlaková
+4. Zakrúžkujte čas najsilnejšej bolesti počas dňa:
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+61
+
+24
+
+5. Ranná stuhnutost’:
+1. áno
+2. nie
+6. Ohodnot’te vplyv ochorenia na nasledujúce oblasti (0 - žiadne, 10 - neznesitel’né/úplná
+neschopnost’):
+ADL (obliekanie, hygiena, stravovanie):
+Bolest’ v kl’ude:
+Bolest’ pri zát’aži:
+Bolest’ v zápästí:
+Bolest’ v kĺboch ruky (MCP, PIP):
+Bolest’ v kĺboch nohy (MTP):
+Intenzita rannej stuhnutosti:
+Únava počas dňa:
+Jemná motorika (zapínanie, úchop):
+Kvalita spánku / Psychosociálne aspekty:
+
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+
+7. Dynamické testy kĺbov (vypĺňa fyzioterapeut):
+Pred terapiou (cm/◦ )
+Dx
+Sin
+
+Sledovaný kĺb
+
+Po terapii (cm/◦ )
+Dx
+Sin
+
+Zápästný kĺb (flexia)
+Zápästný kĺb (extenzia)
+MCP kĺby (flexia)
+MCP kĺby (extenzia)
+PIP kĺby (flexia)
+MTP kĺby (flexia)
+MTP kĺby (extenzia)
+8. Subjektívne hodnotenie stupňa bolesti po ukončení liečby (zakrúžkujte):
+(žiadna bolest’)
+(neznesitel’ná bolest’)
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+62
+
+6
+
+7
+
+8
+
+9
+
+10
+
+
