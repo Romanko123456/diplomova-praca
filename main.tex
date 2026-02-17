@@ -14,6 +14,14 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[slovak]{babel}
+% Vypnutie delenia slov v celom dokumente na žiadosť používateľa
+\usepackage[none]{hyphenat}
+% Povolenie extrémnych medzier medzi slovami, aby text NIKDY nepretekal cez okraj
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=10000
+\sloppy
 
 % Times New Roman písmo (požiadavka TnUAD)
 \usepackage{mathptmx}
@@ -44,7 +52,11 @@
 % Farby
 \usepackage{xcolor}
 
-% Odkazy a hyperlinky
+% Premenovanie Obr. -> Obrázok, Graf -> Graf
+% \renewcaptionname{slovak}{\figurename}{Obrázok}
+\usepackage{chngcntr}
+\counterwithout{figure}{chapter}
+
 \usepackage[hidelinks,unicode]{hyperref}
 \usepackage{bookmark}
 \hypersetup{
@@ -55,8 +67,15 @@
 }
 
 % Bibliografia - ISO 690 podľa TnUAD
-\usepackage[backend=biber, style=iso-authoryear, sorting=nyt, doi=false, url=false, isbn=true]{biblatex}
+\usepackage[backend=biber, style=iso-authoryear, sorting=nyt, sortcites=true, doi=false, url=false, isbn=true]{biblatex}
 \addbibresource{bibliografia.bib}
+
+% Zmena "kol." na "et al."
+\AtBeginDocument{
+  \DefineBibliographyStrings{slovak}{
+    andothers = {et al\adddot}
+  }
+}
 
 % Riadkovanie 1,5 (požiadavka TnUAD)
 \usepackage{setspace}
@@ -102,7 +121,7 @@
 \preto{\chapter}{\cleardoublepage}
 
 % Obsah - nastavenia
-\usepackage{tocloft}
+\usepackage[titles]{tocloft}
 \renewcommand{\cfttoctitlefont}{\normalfont\fontsize{14}{16}\bfseries}
 \renewcommand{\cftloftitlefont}{\normalfont\fontsize{14}{16}\bfseries}
 \renewcommand{\cftlottitlefont}{\normalfont\fontsize{14}{16}\bfseries}
@@ -113,6 +132,31 @@
 \setlength{\cftbeforelottitleskip}{0pt}
 \setlength{\cftafterlottitleskip}{12pt}
 
+% Konfigurácia Zoznamu obrázkov (LOF)
+% Nastavenie prefixu "Obrázok X"
+\renewcommand{\cftfigpresnum}{Obrázok } 
+\renewcommand{\cftfigaftersnum}{:} 
+\setlength{\cftfignumwidth}{6em} % More space for "Obrázok"
+\setlength{\cftfigindent}{0pt} % Žiadne odsadenie zľava
+
+% Definícia nového zoznamu pre grafy
+% Definícia nového zoznamu pre grafy (len pre vytvorenie súboru)
+\newlistof{graphs}{grf}{} 
+
+% Priamy prístup k zoznamu bez nadpisu tocloft
+\makeatletter
+\newcommand{\simplelistofgraphs}{%
+  \@starttoc{grf}%
+}
+\makeatother
+
+% Vlastný príkaz pre zoznam grafov
+\newcommand{\vlastnyzoznamgrafov}{
+    \chapter*{Zoznam grafov}
+    \addcontentsline{toc}{chapter}{Zoznam grafov}
+    \simplelistofgraphs
+}
+
 % Prílohy
 \usepackage{appendix}
 
@@ -121,6 +165,12 @@
 
 % České/slovenské úvodzovky
 \usepackage{csquotes}
+
+% Fix Unicode characters
+\DeclareUnicodeCharacter{03B1}{\ensuremath{\alpha}}
+\DeclareUnicodeCharacter{03B2}{\ensuremath{\beta}}
+\DeclareUnicodeCharacter{2212}{\ensuremath{-}}
+\DeclareUnicodeCharacter{2248}{\ensuremath{\approx}}
 
 % ============================================================================
 % VLASTNÉ PRÍKAZY
@@ -146,7 +196,10 @@
 % ============================================================================
 % ÚVODNÁ ČASŤ - bez číslovania strán (ale počítajú sa)
 % ============================================================================
-\frontmatter
+% ============================================================================
+% ÚVODNÁ ČASŤ - bez číslovania strán (ale počítajú sa)
+% ============================================================================
+% \frontmatter - odstránené, aby sme mali priebežné arabské číslovanie (1, 2, 3...)
 \pagestyle{empty}
 
 % Titulná strana
@@ -162,31 +215,51 @@
 \input{kapitoly/podakovanie}
 
 % Analytický list
+\pagestyle{empty} % Uistíme sa, že je empty
 \input{kapitoly/analyticky_list}
 
 % Abstrakt v slovenčine a angličtine
+\pagestyle{plain} % Od abstraktu zobrazujeme čísla
 \input{kapitoly/abstrakt}
 
 % Obsah
+\pagestyle{empty} % Obsah bez čísla
 \tableofcontents
 \clearpage
 
-% Zoznam ilustrácií
-\listoffigures
+% ZMENA PORADIA A PRIDANIE DO OBSAHU PODĽA POŽIADAVKY
+
+% Odteraz zobrazujeme čísla strán
+\pagestyle{plain}
+
+% 1. Zoznam skratiek (v súbore už je addcontentsline)
+\input{kapitoly/zoznam_skratiek}
 \clearpage
 
-% Zoznam tabuliek
+% 2. Zoznam tabuliek
+\cleardoublepage
+\addcontentsline{toc}{chapter}{Zoznam tabuliek}
 \listoftables
 \clearpage
 
-% Zoznam skratiek a značiek
-\input{kapitoly/zoznam_skratiek}
+% 3. Zoznam grafov (vlastný zoznam)
+\vlastnyzoznamgrafov
+\clearpage
+
+% % 4. Zoznam obrázkov (štandardný LOF)
+% \renewcommand{\listfigurename}{Zoznam obrázkov}
+% \cleardoublepage
+% \addcontentsline{toc}{chapter}{Zoznam obrázkov}
+% \listoffigures
+% \clearpage
+
 
 % ============================================================================
 % HLAVNÁ TEXTOVÁ ČASŤ - číslovanie od Úvodu
 % ============================================================================
 
-\mainmatter
+% \mainmatter - odstránené, aby neresetovalo číslovanie na 1
+% Namiesto toho manuálne nastavenie štýlu, ak treba
 \pagestyle{plain}
 
 % Úvod (nečíslovaná kapitola, ale v obsahu)
@@ -200,7 +273,7 @@
 \input{kapitoly/interferencne_prudy}
 
 % 3. Cieľ práce a metodológia (Praktická časť - obsahuje aj výsledky podľa vzoru)
-\input{kapitoly/metodika}
+\input{kapitoly/prakticka_cast}
 \input{kapitoly/diskusia}
 \input{kapitoly/odporucania}
 
